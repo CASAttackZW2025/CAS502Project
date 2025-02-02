@@ -9,15 +9,17 @@ This Python project will develop a workforce allocation and production schedulin
 Challenges:
 
 Technical:
-● Creating a consistent data structure for loading and saving the details of the production system can be complicated because these production systems can have lots of complex features, interactions, and requirements.
-● One challenge is that data for this type of model does not come easy. We have several real-world examples but the data is perhaps not generic enough for this tool. We will likely need to develop “dummy” data to develop and test this software.
-● Optimization models can be challenging, will we be able to develop the correct script to produce an output that genuinely maximizes the output while minimizing resources and idle time ratio?
+##-Creating a consistent data structure for loading and saving the details of the production system can be complicated because these production systems can have lots of complex features, interactions, and requirements.
+##-One challenge is that data for this type of model does not come easy. We have several real-world examples but the data is perhaps not generic enough for this tool. We will likely need to develop “dummy” data to develop and test this software.
+##-Optimization models can be challenging, will we be able to develop the correct script to produce an output that genuinely maximizes the output while minimizing resources and idle time ratio?
+
 Process:
-● Working in a group of two on a complicated project with a short timeline will require clear and open communication;
-● Roles and tasks must be defined and understood by both parties; and
-● R&D projects have constant changes as new information is received. We will need to be agile and able to pivot quickly considering the short timeline.
+##-Working in a group of two on a complicated project with a short timeline will require clear and open communication;
+##-Roles and tasks must be defined and understood by both parties; and
+##-R&D projects have constant changes as new information is received. We will need to be agile and able to pivot quickly considering the short timeline.
+
 Team and Skills:
-● We will both need to understand each-other’s strengths and divvy up tasks that align with those strengths. However, we will both need to share the development tasks regardless of varying levels of technical skillset. This will require strong communication, trust, and dependability.
+##-We will both need to understand each-other’s strengths and divvy up tasks that align with those strengths. However, we will both need to share the development tasks regardless of varying levels of technical skillset. This will require strong communication, trust, and dependability.
 Work
 
 Work & Communication Plan:
