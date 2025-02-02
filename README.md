@@ -27,3 +27,7 @@ We each bring different strengths to the project. Zack has experience in manufac
 -Weekly Meetings- We will have a standing dedicated Teams meeting once a week to discuss live progress, pending tasks, challenges, and any potential pivots.
 
 -Backlog Management- We will employ a Teams planner to track our backlog that defines various tasks, who is responsible for what, and when are items due.
+
+Branching Methodology:
+We will follow a "Feature Branches Workflow" methodology. Our main branch will be for the primary features. We will have branches for data intake, data ingestion, data schema, output plots, output tables, and output statistics. We will split up the various branches for who is taking lead. When a feature is done and ready to be incorporated with the main branch, the non-lead partner will perform a peer review. Once accomplished, we will merge that branch with the main.
+
