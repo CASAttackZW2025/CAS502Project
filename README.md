@@ -6,6 +6,18 @@ Team Members: Zack Weber & Guy McFall
 Project Description:
 This Python project will develop a workforce allocation and production scheduling system designed to simulate and optimize resource management in manufacturing environments. It will ideally leverage a flexible framework to both dynamically assign, simulate, and optimize worker assignments across multiple processors, stations, and shifts. The primary objective is to load, simulate, and save the simulation history, results, and statistics for production systems with workers and resource constraints. Our stretch goals are to employ a mathematical model, where the software will calculate the most efficient worker configurations, minimize idle time and ensure production targets are met without having to run the simulation to search through each configuration directly.
 
+User Instructions:
+There a couple of key notes to be able to use this software correctly. First, you must use the intake form provided. Read through the "Intake Form Instructions" to understand how to fill it out. Second, in order to properly run our script you must call open it in google colab. The script will prompt you to upload your intake form. From there it will run the simulations and produce the idle times associated with your tasks, processors, stations, and resources.
+
+Reporting Bugs:
+To report bugs identified in the code, please leverage the "issues" function on github. You should navigate to the main page on the repository and click on the "issues" and "new issue" tabs.
+
+Collaboration:
+If you would like to collaborate with this repository you may follow one of two approaches. In most instances, collaborators will not need direct access and can thus fork the repository and clone your fork. Once you make changes in your cloned repository, please come to this repository and create a pull request by clicking "compare & pull request." Be sure to write a description of the changes you propose.
+
+If you feel that you need direct access, you may create an issue in the repository requesting access.
+
+Project Details-
 Challenges:
 
 Technical:
@@ -32,11 +44,3 @@ We each bring different strengths to the project. Zack has experience in manufac
 
 Branching Methodology:
 We will follow a "Feature Branches Workflow" methodology. Our main branch will be for the primary features. We will have branches for data intake, data ingestion, data schema, output plots, output tables, and output statistics. We will split up the various branches for who is taking lead. When a feature is done and ready to be incorporated with the main branch, the non-lead partner will perform a peer review. Once accomplished, we will merge that branch with the main.
-
-Reporting Bugs:
-To report bugs identified in the code, please leverage the "issues" function on github. You should navigate to the main page on the repository and click on the "issues" and "new issue" tabs.
-
-Collaboration:
-If you would like to collaborate with this repository you may follow one of two approaches. In most instances, collaborators will not need direct access and can thus fork the repository and clone your fork. Once you make changes in your cloned repository, please come to this repository and create a pull request by clicking "compare & pull request." Be sure to write a description of the changes you propose.
-
-If you feel that you need direct access, you may create an issue in the repository requesting access.
