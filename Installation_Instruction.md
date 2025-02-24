@@ -1,6 +1,6 @@
-#Installation Instructions
+Installation Instructions
 
-##Requirements
+Requirements
 
 Before running this software, you should first make sure you have installed all of the required software and packages.
 These can be found in the "Requirements" file but include:
