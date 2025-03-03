@@ -1,0 +1,14 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Weber"
+  given-names: "Zachary"
+  orcid: "https://orcid.org/0009-0008-8345-4249"
+- family-names: "Mcguymcfall "
+  given-names: "Guy "
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "My Research Software"
+version: 1.0.0
+doi: 10.5281/zenodo.14962634
+date-released: 2025-03-04
+url: "https://github.com/CASAttackZW2025/CAS502Project"
