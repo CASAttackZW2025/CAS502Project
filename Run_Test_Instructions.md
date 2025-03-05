@@ -1,6 +1,8 @@
-#Test Instructions
+# Test Instructions
+
 In order to run the script tests, you first need to open up that specific file titled:
--CAS502Ingestion_UnitTest
+
+- CAS502Ingestion_UnitTest
 
 The file was created using Collab. Therefore, to run the test file you need to open it in Collab. 
 This can be done by selecting "Open in Collab" upon opening the file in the repository.
