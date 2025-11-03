@@ -1,0 +1,194 @@
+arrival_time,num_entities,entity_paths,p_levels,priorities
+0,1,['Path:SPM_Tanzanite'],[1],[10]
+26,2,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1]","[10, 10]"
+39,3,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1]","[10, 10, 10]"
+52,2,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1]","[10, 10]"
+65,22,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]","[10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10]"
+130,1,['Path:SPM_Tanzanite'],[1],[10]
+169,1,['Path:SPM_Tanzanite'],[1],[10]
+234,1,['Path:SPM_Tanzanite'],[1],[10]
+299,1,['Path:SPM_Tanzanite'],[1],[10]
+377,1,['Path:SPM_Tanzanite'],[1],[10]
+390,1,['Path:SPM_Tanzanite'],[1],[10]
+637,8,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1, 1, 1, 1, 1, 1]","[10, 10, 10, 10, 10, 10, 10, 10]"
+650,18,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]","[10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10]"
+663,10,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1, 1, 1, 1, 1, 1, 1, 1]","[10, 10, 10, 10, 10, 10, 10, 10, 10, 10]"
+676,6,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1, 1, 1, 1]","[10, 10, 10, 10, 10, 10]"
+689,3,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1]","[10, 10, 10]"
+715,17,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]","[10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10]"
+728,11,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]","[10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10]"
+741,18,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]","[10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10]"
+754,23,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]","[10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10]"
+767,9,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1, 1, 1, 1, 1, 1, 1]","[10, 10, 10, 10, 10, 10, 10, 10, 10]"
+780,12,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]","[10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10]"
+832,7,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1, 1, 1, 1, 1]","[10, 10, 10, 10, 10, 10, 10]"
+884,13,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]","[10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10]"
+910,6,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1, 1, 1, 1]","[10, 10, 10, 10, 10, 10]"
+923,17,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]","[10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10]"
+936,5,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1, 1, 1]","[10, 10, 10, 10, 10]"
+949,7,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1, 1, 1, 1, 1]","[10, 10, 10, 10, 10, 10, 10]"
+962,3,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1]","[10, 10, 10]"
+975,2,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1]","[10, 10]"
+1027,6,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1, 1, 1, 1]","[10, 10, 10, 10, 10, 10]"
+1040,4,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1, 1]","[10, 10, 10, 10]"
+1053,6,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1, 1, 1, 1]","[10, 10, 10, 10, 10, 10]"
+1066,4,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1, 1]","[10, 10, 10, 10]"
+1079,2,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1]","[10, 10]"
+1092,4,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1, 1]","[10, 10, 10, 10]"
+1131,1,['Path:SPM_Tanzanite'],[1],[10]
+1144,1,['Path:SPM_Tanzanite'],[1],[10]
+1170,2,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1]","[10, 10]"
+1196,23,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]","[10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10]"
+1209,3,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1]","[10, 10, 10]"
+1235,9,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1, 1, 1, 1, 1, 1, 1]","[10, 10, 10, 10, 10, 10, 10, 10, 10]"
+1248,5,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1, 1, 1]","[10, 10, 10, 10, 10]"
+1261,6,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1, 1, 1, 1]","[10, 10, 10, 10, 10, 10]"
+1274,4,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1, 1]","[10, 10, 10, 10]"
+1287,1,['Path:SPM_Tanzanite'],[1],[10]
+1300,14,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]","[10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10]"
+1313,10,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1, 1, 1, 1, 1, 1, 1, 1]","[10, 10, 10, 10, 10, 10, 10, 10, 10, 10]"
+1326,1,['Path:SPM_Tanzanite'],[1],[10]
+1339,5,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1, 1, 1]","[10, 10, 10, 10, 10]"
+1352,2,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1]","[10, 10]"
+1365,12,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]","[10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10]"
+1378,2,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1]","[10, 10]"
+1391,8,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1, 1, 1, 1, 1, 1]","[10, 10, 10, 10, 10, 10, 10, 10]"
+1404,8,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1, 1, 1, 1, 1, 1]","[10, 10, 10, 10, 10, 10, 10, 10]"
+1417,3,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1]","[10, 10, 10]"
+1430,5,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1, 1, 1]","[10, 10, 10, 10, 10]"
+1456,9,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1, 1, 1, 1, 1, 1, 1]","[10, 10, 10, 10, 10, 10, 10, 10, 10]"
+1469,13,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]","[10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10]"
+1521,3,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1]","[10, 10, 10]"
+1534,3,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1]","[10, 10, 10]"
+1547,2,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1]","[10, 10]"
+1560,4,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1, 1]","[10, 10, 10, 10]"
+1573,5,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1, 1, 1]","[10, 10, 10, 10, 10]"
+1586,4,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1, 1]","[10, 10, 10, 10]"
+1599,9,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1, 1, 1, 1, 1, 1, 1]","[10, 10, 10, 10, 10, 10, 10, 10, 10]"
+1625,18,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]","[10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10]"
+1664,1,['Path:SPM_Tanzanite'],[1],[10]
+1703,1,['Path:SPM_Tanzanite'],[1],[10]
+1716,1,['Path:SPM_Tanzanite'],[1],[10]
+1768,6,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1, 1, 1, 1]","[10, 10, 10, 10, 10, 10]"
+1781,15,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]","[10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10]"
+1794,2,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1]","[10, 10]"
+1807,6,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1, 1, 1, 1]","[10, 10, 10, 10, 10, 10]"
+1820,34,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]","[10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10]"
+1833,10,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1, 1, 1, 1, 1, 1, 1, 1]","[10, 10, 10, 10, 10, 10, 10, 10, 10, 10]"
+1846,16,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]","[10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10]"
+1859,1,['Path:SPM_Tanzanite'],[1],[10]
+1885,2,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1]","[10, 10]"
+1898,2,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1]","[10, 10]"
+1911,3,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1]","[10, 10, 10]"
+1924,14,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]","[10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10]"
+1937,13,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]","[10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10]"
+1950,16,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]","[10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10]"
+1963,16,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]","[10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10]"
+1976,11,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]","[10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10]"
+1989,21,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]","[10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10]"
+2015,9,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1, 1, 1, 1, 1, 1, 1]","[10, 10, 10, 10, 10, 10, 10, 10, 10]"
+2028,2,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1]","[10, 10]"
+2041,9,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1, 1, 1, 1, 1, 1, 1]","[10, 10, 10, 10, 10, 10, 10, 10, 10]"
+2054,14,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]","[10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10]"
+2067,10,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1, 1, 1, 1, 1, 1, 1, 1]","[10, 10, 10, 10, 10, 10, 10, 10, 10, 10]"
+2080,10,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1, 1, 1, 1, 1, 1, 1, 1]","[10, 10, 10, 10, 10, 10, 10, 10, 10, 10]"
+2093,15,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]","[10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10]"
+2106,4,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1, 1]","[10, 10, 10, 10]"
+2132,4,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1, 1]","[10, 10, 10, 10]"
+2145,13,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]","[10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10]"
+2158,10,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1, 1, 1, 1, 1, 1, 1, 1]","[10, 10, 10, 10, 10, 10, 10, 10, 10, 10]"
+2171,6,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1, 1, 1, 1]","[10, 10, 10, 10, 10, 10]"
+2184,5,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1, 1, 1]","[10, 10, 10, 10, 10]"
+2197,6,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1, 1, 1, 1]","[10, 10, 10, 10, 10, 10]"
+2210,16,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]","[10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10]"
+2223,15,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]","[10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10]"
+2236,1,['Path:SPM_Tanzanite'],[1],[10]
+2262,5,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1, 1, 1]","[10, 10, 10, 10, 10]"
+2275,3,"['Path:SPM_Sapphire', 'Path:SPM_Sapphire', 'Path:SPM_Sapphire']","[1, 1, 1]","[10, 10, 10]"
+2275,16,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]","[10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10]"
+2288,5,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1, 1, 1]","[10, 10, 10, 10, 10]"
+2301,2,"['Path:SPM_Sapphire', 'Path:SPM_Sapphire']","[1, 1]","[10, 10]"
+2301,11,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]","[10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10]"
+2314,2,"['Path:SPM_Sapphire', 'Path:SPM_Sapphire']","[1, 1]","[10, 10]"
+2314,12,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]","[10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10]"
+2327,2,"['Path:SPM_Sapphire', 'Path:SPM_Sapphire']","[1, 1]","[10, 10]"
+2327,19,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]","[10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10]"
+2340,1,['Path:SPM_Sapphire'],[1],[10]
+2340,16,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]","[10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10]"
+2353,13,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]","[10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10]"
+2366,8,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1, 1, 1, 1, 1, 1]","[10, 10, 10, 10, 10, 10, 10, 10]"
+2379,2,"['Path:SPM_Sapphire', 'Path:SPM_Sapphire']","[1, 1]","[10, 10]"
+2379,3,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1]","[10, 10, 10]"
+2392,2,"['Path:SPM_Sapphire', 'Path:SPM_Sapphire']","[1, 1]","[10, 10]"
+2392,11,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]","[10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10]"
+2405,6,"['Path:SPM_Sapphire', 'Path:SPM_Sapphire', 'Path:SPM_Sapphire', 'Path:SPM_Sapphire', 'Path:SPM_Sapphire', 'Path:SPM_Sapphire']","[1, 1, 1, 1, 1, 1]","[10, 10, 10, 10, 10, 10]"
+2405,13,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]","[10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10]"
+2444,3,"['Path:SPM_Sapphire', 'Path:SPM_Sapphire', 'Path:SPM_Sapphire']","[1, 1, 1]","[10, 10, 10]"
+2457,5,"['Path:SPM_Sapphire', 'Path:SPM_Sapphire', 'Path:SPM_Sapphire', 'Path:SPM_Sapphire', 'Path:SPM_Sapphire']","[1, 1, 1, 1, 1]","[10, 10, 10, 10, 10]"
+2457,8,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1, 1, 1, 1, 1, 1]","[10, 10, 10, 10, 10, 10, 10, 10]"
+2470,6,"['Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite', 'Path:SPM_Tanzanite']","[1, 1, 1, 1, 1, 1]","[10, 10, 10, 10, 10, 10]"
+3393,1,['Path:SPM_Tanzanite'],[1],[10]
+3523,1,['Path:SPM_Tanzanite'],[1],[10]
+3588,1,['Path:SPM_Tanzanite'],[1],[10]
+3770,1,['Path:SPM_Tanzanite'],[1],[10]
+3913,1,['Path:SPM_Sapphire'],[1],[10]
+3913,1,['Path:SPM_Tanzanite'],[1],[10]
+4043,1,['Path:SPM_Tanzanite'],[1],[10]
+4394,1,['Path:SPM_Tanzanite'],[1],[10]
+4589,1,['Path:SPM_Sapphire'],[1],[10]
+4732,1,['Path:SPM_Tanzanite'],[1],[10]
+4849,1,['Path:SPM_Tanzanite'],[1],[10]
+4992,1,['Path:SPM_Tanzanite'],[1],[10]
+5135,1,['Path:SPM_Tanzanite'],[1],[10]
+5252,1,['Path:SPM_Tanzanite'],[1],[10]
+5395,1,['Path:SPM_Tanzanite'],[1],[10]
+5525,1,['Path:SPM_Tanzanite'],[1],[10]
+5629,1,['Path:SPM_Tanzanite'],[1],[10]
+5785,1,['Path:SPM_Tanzanite'],[1],[10]
+5902,1,['Path:SPM_Tanzanite'],[1],[10]
+5915,1,['Path:SPM_Sapphire'],[1],[10]
+6506.5,1,['Path:Tanzanite - Group 1'],[1],[10]
+6506.5,1,['Path:Tanzanite - Group 2'],[1],[10]
+6779.5,1,['Path:Tanzanite - Group 3'],[1],[10]
+6779.5,1,['Path:Tanzanite - Group 4'],[1],[10]
+7065.5,1,['Path:Tanzanite - Group 5'],[1],[10]
+7065.5,1,['Path:Tanzanite - Group 6'],[1],[10]
+7351.5,1,['Path:Tanzanite - Group 7'],[1],[10]
+7351.5,1,['Path:Tanzanite - Group 8'],[1],[10]
+7624.5,1,['Path:Tanzanite - Group 10'],[1],[10]
+7624.5,1,['Path:Tanzanite - Group 9'],[1],[10]
+7910.5,1,['Path:Tanzanite - Group 11'],[1],[10]
+7910.5,1,['Path:Tanzanite - Group 12'],[1],[10]
+8196.5,1,['Path:Tanzanite - Group 13'],[1],[10]
+8196.5,1,['Path:Tanzanite - Group 14'],[1],[10]
+8469.5,1,['Path:Tanzanite - Group 15'],[1],[10]
+8469.5,1,['Path:Tanzanite - Group 16'],[1],[10]
+8755.5,1,['Path:Tanzanite - Group 17'],[1],[10]
+8755.5,1,['Path:Tanzanite - Group 18'],[1],[10]
+9041.5,1,['Path:Tanzanite - Group 19'],[1],[10]
+9041.5,1,['Path:Tanzanite - Group 20'],[1],[10]
+9314.5,1,['Path:Tanzanite - Group 21'],[1],[10]
+9314.5,1,['Path:Tanzanite - Group 22'],[1],[10]
+9600.5,1,['Path:Tanzanite - Group 23'],[1],[10]
+9600.5,1,['Path:Tanzanite - Group 24'],[1],[10]
+9886.5,1,['Path:Tanzanite - Group 25'],[1],[10]
+9886.5,1,['Path:Tanzanite - Group 26'],[1],[10]
+10146.5,1,['Path:Tanzanite - Group 27'],[1],[10]
+10146.5,1,['Path:Tanzanite - Group 28'],[1],[10]
+10341.5,1,['Path:Sapphire - F1'],[1],[10]
+10432.5,1,['Path:Tanzanite - Group 29'],[1],[10]
+10432.5,1,['Path:Tanzanite - Group 30'],[1],[10]
+10562.5,1,['Path:Tanzanite - Group 31'],[1],[10]
+10770.5,1,['Path:Tanzanite - Group 32'],[1],[10]
+10900.5,1,['Path:Sapphire - F2'],[1],[10]
+11043.5,1,['Path:Tanzanite - Group 33'],[1],[10]
+11043.5,1,['Path:Tanzanite - Group 34'],[1],[10]
+11342.5,1,['Path:Tanzanite - Group 35'],[1],[10]
+11342.5,1,['Path:Tanzanite - Group 36'],[1],[10]
+11602.5,1,['Path:Tanzanite - Group 37'],[1],[10]
+11602.5,1,['Path:Tanzanite - Group 38'],[1],[10]
+11719.5,1,['Path:Tanzanite - Group 39'],[1],[10]
+11719.5,1,['Path:Tanzanite - Group 40'],[1],[10]
+12018.5,1,['Path:Tanzanite - Group 41'],[1],[10]
+12018.5,1,['Path:Tanzanite - Group 42'],[1],[10]
+12083.5,1,['Path:Sapphire - F3'],[1],[10]

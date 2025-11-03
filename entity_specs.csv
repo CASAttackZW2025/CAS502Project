@@ -1,0 +1,46 @@
+entity_id,arrival_time,path,p_level,priority
+4,0.0,Path:Tanzanite - Group 1,1,10
+5,0.0,Path:Tanzanite - Group 2,1,10
+6,273.0,Path:Tanzanite - Group 3,1,10
+7,273.0,Path:Tanzanite - Group 4,1,10
+8,559.0,Path:Tanzanite - Group 5,1,10
+9,559.0,Path:Tanzanite - Group 6,1,10
+10,845.0,Path:Tanzanite - Group 7,1,10
+11,845.0,Path:Tanzanite - Group 8,1,10
+12,1118.0,Path:Tanzanite - Group 9,1,10
+13,1118.0,Path:Tanzanite - Group 10,1,10
+14,1404.0,Path:Tanzanite - Group 11,1,10
+15,1404.0,Path:Tanzanite - Group 12,1,10
+16,1690.0,Path:Tanzanite - Group 13,1,10
+17,1690.0,Path:Tanzanite - Group 14,1,10
+18,1963.0,Path:Tanzanite - Group 15,1,10
+19,1963.0,Path:Tanzanite - Group 16,1,10
+20,2249.0,Path:Tanzanite - Group 17,1,10
+21,2249.0,Path:Tanzanite - Group 18,1,10
+22,2535.0,Path:Tanzanite - Group 19,1,10
+23,2535.0,Path:Tanzanite - Group 20,1,10
+24,2808.0,Path:Tanzanite - Group 21,1,10
+25,2808.0,Path:Tanzanite - Group 22,1,10
+26,3094.0,Path:Tanzanite - Group 23,1,10
+27,3094.0,Path:Tanzanite - Group 24,1,10
+28,3380.0,Path:Tanzanite - Group 25,1,10
+29,3380.0,Path:Tanzanite - Group 26,1,10
+30,3640.0,Path:Tanzanite - Group 27,1,10
+31,3640.0,Path:Tanzanite - Group 28,1,10
+1,3835.0,Path:Sapphire - F1,1,10
+32,3926.0,Path:Tanzanite - Group 29,1,10
+33,3926.0,Path:Tanzanite - Group 30,1,10
+34,4056.0,Path:Tanzanite - Group 31,1,10
+35,4264.0,Path:Tanzanite - Group 32,1,10
+2,4394.0,Path:Sapphire - F2,1,10
+36,4537.0,Path:Tanzanite - Group 33,1,10
+37,4537.0,Path:Tanzanite - Group 34,1,10
+38,4836.0,Path:Tanzanite - Group 35,1,10
+39,4836.0,Path:Tanzanite - Group 36,1,10
+40,5096.0,Path:Tanzanite - Group 37,1,10
+41,5096.0,Path:Tanzanite - Group 38,1,10
+42,5213.0,Path:Tanzanite - Group 39,1,10
+43,5213.0,Path:Tanzanite - Group 40,1,10
+44,5512.0,Path:Tanzanite - Group 41,1,10
+45,5512.0,Path:Tanzanite - Group 42,1,10
+3,5577.0,Path:Sapphire - F3,1,10

@@ -1,0 +1,136 @@
+{
+  "Path:SPM_Tanzanite": {
+    "edges": [
+      [
+        "Start_Job",
+        "WC01"
+      ],
+      [
+        "WC01",
+        "WC02"
+      ],
+      [
+        "WC02",
+        "WC03"
+      ],
+      [
+        "WC03",
+        "WC04"
+      ],
+      [
+        "WC04",
+        "WC04"
+      ],
+      [
+        "WC04",
+        "WC06"
+      ],
+      [
+        "WC06",
+        "WC06"
+      ],
+      [
+        "WC06",
+        "WC07"
+      ],
+      [
+        "WC07",
+        "WC07"
+      ],
+      [
+        "WC07",
+        "WC08"
+      ],
+      [
+        "WC08",
+        "WORKSTATION_TECH"
+      ],
+      [
+        "WORKSTATION_TECH",
+        "WC17"
+      ],
+      [
+        "WORKSTATION_TECH",
+        "WORKSTATION_TECH"
+      ],
+      [
+        "WORKSTATION_TECH",
+        "WC10"
+      ],
+      [
+        "WORKSTATION_TECH",
+        "FINISHLINE"
+      ],
+      [
+        "WC17",
+        "WORKSTATION_TECH"
+      ],
+      [
+        "WC10",
+        "WC10"
+      ],
+      [
+        "WC10",
+        "WORKSTATION_TECH"
+      ],
+      [
+        "FINISHLINE",
+        "Units_Delivered"
+      ]
+    ],
+    "nodes": {
+      "Start_Job": {
+        "processing_time": 0.0,
+        "capacity": 1
+      },
+      "WC01": {
+        "processing_time": 1.5,
+        "capacity": 1
+      },
+      "WC02": {
+        "processing_time": 1.285714286,
+        "capacity": 1
+      },
+      "WC03": {
+        "processing_time": 1.5,
+        "capacity": 1
+      },
+      "WC04": {
+        "processing_time": 0.0,
+        "capacity": 1
+      },
+      "WC06": {
+        "processing_time": 168.0,
+        "capacity": 1
+      },
+      "WC07": {
+        "processing_time": 0.01,
+        "capacity": 1
+      },
+      "WC08": {
+        "processing_time": 0.0,
+        "capacity": 1
+      },
+      "WORKSTATION_TECH": {
+        "processing_time": 1.5,
+        "capacity": 1
+      },
+      "WC17": {
+        "processing_time": 288.0,
+        "capacity": 1
+      },
+      "WC10": {
+        "processing_time": 0.0,
+        "capacity": 1
+      },
+      "FINISHLINE": {
+        "processing_time": 0.0,
+        "capacity": 1
+      },
+      "Units_Delivered": {
+        "processing_time": 0.0,
+        "capacity": 1
+      }
+    }
+  }
+}

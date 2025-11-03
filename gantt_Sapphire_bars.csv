@@ -1,0 +1,3143 @@
+EntityID,ProductOrPath,Processor,StartHour,EndHour
+983,Sapphire,Fit-Check,24.0,0.0
+983,Sapphire,Bonded,24.0,72.0
+983,Sapphire,Vacuum,72.0,120.0
+983,Sapphire,Post Bond Clean,120.0,120.0
+983,Sapphire,Pre-CICRW,1464.0,1512.0
+983,Sapphire,Frontside Overcoating,1512.0,168.0
+983,Sapphire,Clean & Classify,168.0,696.0
+983,Sapphire,MAC,1632.0,1632.0
+983,Sapphire,LastTouchups,1632.0,1632.0
+983,Sapphire,Cure Times.ShipCureDate,1632.0,1848.0
+984,Sapphire,Fit-Check,168.0,0.0
+984,Sapphire,Bonded,24.0,72.0
+984,Sapphire,Vacuum,72.0,120.0
+984,Sapphire,Post Bond Clean,120.0,120.0
+984,Sapphire,Clean & Classify,168.0,504.0
+984,Sapphire,MAC,1536.0,1560.0
+984,Sapphire,LastTouchups,1560.0,1560.0
+984,Sapphire,Cure Times.ShipCureDate,1560.0,1728.0
+985,Sapphire,Fit-Check,168.0,0.0
+985,Sapphire,Bonded,24.0,72.0
+985,Sapphire,Vacuum,72.0,120.0
+985,Sapphire,Post Bond Clean,120.0,120.0
+985,Sapphire,Pre-CICRW,1512.0,1536.0
+985,Sapphire,Frontside Overcoating,1536.0,168.0
+985,Sapphire,Clean & Classify,168.0,720.0
+985,Sapphire,MAC,1656.0,1704.0
+985,Sapphire,LastTouchups,1704.0,1704.0
+985,Sapphire,Cure Times.ShipCureDate,1704.0,1848.0
+986,Sapphire,Fit-Check,168.0,72.0
+986,Sapphire,Bonded,72.0,144.0
+986,Sapphire,Vacuum,144.0,168.0
+986,Sapphire,Post Bond Clean,168.0,168.0
+986,Sapphire,Clean & Classify,312.0,384.0
+986,Sapphire,MAC,1536.0,1536.0
+986,Sapphire,LastTouchups,1536.0,1536.0
+986,Sapphire,Cure Times.ShipCureDate,1536.0,1704.0
+987,Sapphire,Fit-Check,168.0,48.0
+987,Sapphire,Bonded,72.0,144.0
+987,Sapphire,Vacuum,144.0,168.0
+987,Sapphire,Post Bond Clean,168.0,168.0
+987,Sapphire,Clean & Classify,312.0,504.0
+987,Sapphire,MAC,1536.0,1560.0
+987,Sapphire,LastTouchups,1560.0,1536.0
+987,Sapphire,Cure Times.ShipCureDate,1536.0,1704.0
+988,Sapphire,Fit-Check,168.0,48.0
+988,Sapphire,Bonded,72.0,144.0
+988,Sapphire,Vacuum,144.0,168.0
+988,Sapphire,Post Bond Clean,168.0,168.0
+988,Sapphire,Clean & Classify,312.0,504.0
+988,Sapphire,MAC,1536.0,1536.0
+988,Sapphire,LastTouchups,1536.0,1536.0
+988,Sapphire,Cure Times.ShipCureDate,1536.0,672.0
+989,Sapphire,Fit-Check,312.0,168.0
+989,Sapphire,Bonded,288.0,288.0
+989,Sapphire,Vacuum,288.0,312.0
+989,Sapphire,Post Bond Clean,312.0,312.0
+989,Sapphire,Clean & Classify,360.0,528.0
+989,Sapphire,MAC,1536.0,1560.0
+989,Sapphire,LastTouchups,1560.0,1536.0
+989,Sapphire,Cure Times.ShipCureDate,1536.0,1704.0
+990,Sapphire,Fit-Check,312.0,336.0
+990,Sapphire,Bonded,288.0,288.0
+990,Sapphire,Vacuum,288.0,312.0
+990,Sapphire,Post Bond Clean,312.0,312.0
+990,Sapphire,Pre-CICRW,1560.0,1584.0
+990,Sapphire,Frontside Overcoating,1584.0,360.0
+990,Sapphire,Clean & Classify,360.0,696.0
+990,Sapphire,MAC,2520.0,2520.0
+990,Sapphire,LastTouchups,2520.0,2520.0
+990,Sapphire,Cure Times.ShipCureDate,2520.0,2688.0
+991,Sapphire,Fit-Check,312.0,168.0
+991,Sapphire,Bonded,288.0,288.0
+991,Sapphire,Vacuum,288.0,312.0
+991,Sapphire,Post Bond Clean,312.0,312.0
+991,Sapphire,Pre-CICRW,1464.0,1512.0
+991,Sapphire,Frontside Overcoating,1512.0,528.0
+991,Sapphire,Clean & Classify,528.0,696.0
+991,Sapphire,MAC,1632.0,1632.0
+991,Sapphire,LastTouchups,1632.0,1632.0
+991,Sapphire,Cure Times.ShipCureDate,1632.0,1968.0
+992,Sapphire,Fit-Check,312.0,168.0
+992,Sapphire,Bonded,288.0,312.0
+992,Sapphire,Vacuum,312.0,336.0
+992,Sapphire,Post Bond Clean,336.0,336.0
+992,Sapphire,Pre-CICRW,1488.0,1512.0
+992,Sapphire,Frontside Overcoating,1512.0,408.0
+992,Sapphire,Clean & Classify,408.0,696.0
+992,Sapphire,MAC,1656.0,1728.0
+992,Sapphire,LastTouchups,1728.0,1728.0
+992,Sapphire,Cure Times.ShipCureDate,1728.0,1896.0
+993,Sapphire,Fit-Check,312.0,168.0
+993,Sapphire,Bonded,288.0,312.0
+993,Sapphire,Vacuum,312.0,336.0
+993,Sapphire,Post Bond Clean,336.0,336.0
+993,Sapphire,Pre-CICRW,1464.0,1512.0
+993,Sapphire,Frontside Overcoating,1512.0,408.0
+993,Sapphire,Clean & Classify,408.0,696.0
+993,Sapphire,MAC,1632.0,1632.0
+993,Sapphire,LastTouchups,1632.0,1632.0
+993,Sapphire,Cure Times.ShipCureDate,1632.0,1848.0
+994,Sapphire,Fit-Check,312.0,288.0
+994,Sapphire,Bonded,288.0,312.0
+994,Sapphire,Vacuum,312.0,336.0
+994,Sapphire,Post Bond Clean,336.0,360.0
+994,Sapphire,Clean & Classify,408.0,648.0
+994,Sapphire,MAC,1560.0,1560.0
+994,Sapphire,LastTouchups,1560.0,1560.0
+994,Sapphire,Cure Times.ShipCureDate,1560.0,1992.0
+995,Sapphire,Fit-Check,456.0,288.0
+995,Sapphire,Bonded,336.0,336.0
+995,Sapphire,Vacuum,336.0,360.0
+995,Sapphire,Post Bond Clean,360.0,384.0
+995,Sapphire,Clean & Classify,408.0,696.0
+995,Sapphire,MAC,1536.0,1536.0
+995,Sapphire,LastTouchups,1536.0,1536.0
+995,Sapphire,Cure Times.ShipCureDate,1536.0,744.0
+996,Sapphire,Fit-Check,456.0,288.0
+996,Sapphire,Bonded,336.0,336.0
+996,Sapphire,Vacuum,336.0,360.0
+996,Sapphire,Post Bond Clean,360.0,576.0
+996,Sapphire,Clean & Classify,408.0,696.0
+996,Sapphire,MAC,1536.0,1560.0
+996,Sapphire,LastTouchups,1560.0,1536.0
+996,Sapphire,Cure Times.ShipCureDate,1536.0,1704.0
+997,Sapphire,Fit-Check,456.0,288.0
+997,Sapphire,Bonded,336.0,336.0
+997,Sapphire,Vacuum,336.0,360.0
+997,Sapphire,Post Bond Clean,360.0,384.0
+997,Sapphire,Clean & Classify,408.0,624.0
+997,Sapphire,MAC,1560.0,1560.0
+997,Sapphire,LastTouchups,1560.0,1560.0
+997,Sapphire,Cure Times.ShipCureDate,1560.0,792.0
+998,Sapphire,Fit-Check,456.0,288.0
+998,Sapphire,Bonded,336.0,360.0
+998,Sapphire,Vacuum,360.0,408.0
+998,Sapphire,Post Bond Clean,408.0,480.0
+998,Sapphire,Clean & Classify,456.0,624.0
+998,Sapphire,MAC,1584.0,1584.0
+998,Sapphire,LastTouchups,1584.0,1584.0
+998,Sapphire,Cure Times.ShipCureDate,1584.0,1992.0
+999,Sapphire,Fit-Check,456.0,312.0
+999,Sapphire,Bonded,336.0,360.0
+999,Sapphire,Vacuum,360.0,408.0
+999,Sapphire,Post Bond Clean,408.0,408.0
+999,Sapphire,Pre-CICRW,1512.0,1536.0
+999,Sapphire,Frontside Overcoating,1536.0,456.0
+999,Sapphire,Clean & Classify,456.0,696.0
+999,Sapphire,MAC,1656.0,1704.0
+999,Sapphire,LastTouchups,1704.0,1704.0
+999,Sapphire,Cure Times.ShipCureDate,1704.0,1848.0
+1000,Sapphire,Fit-Check,456.0,312.0
+1000,Sapphire,Bonded,336.0,360.0
+1000,Sapphire,Vacuum,360.0,408.0
+1000,Sapphire,Post Bond Clean,408.0,408.0
+1000,Sapphire,Pre-CICRW,1464.0,1512.0
+1000,Sapphire,Frontside Overcoating,1512.0,456.0
+1000,Sapphire,Clean & Classify,456.0,696.0
+1000,Sapphire,MAC,1632.0,1656.0
+1000,Sapphire,LastTouchups,1656.0,1656.0
+1000,Sapphire,Cure Times.ShipCureDate,1656.0,1824.0
+1001,Sapphire,Fit-Check,336.0,336.0
+1001,Sapphire,Bonded,384.0,384.0
+1001,Sapphire,Vacuum,384.0,408.0
+1001,Sapphire,Post Bond Clean,408.0,408.0
+1001,Sapphire,Clean & Classify,528.0,624.0
+1001,Sapphire,MAC,1560.0,1584.0
+1001,Sapphire,LastTouchups,1584.0,1560.0
+1001,Sapphire,Cure Times.ShipCureDate,1560.0,1992.0
+1002,Sapphire,Fit-Check,336.0,336.0
+1002,Sapphire,Bonded,384.0,384.0
+1002,Sapphire,Vacuum,384.0,408.0
+1002,Sapphire,Post Bond Clean,408.0,408.0
+1002,Sapphire,Clean & Classify,528.0,624.0
+1002,Sapphire,MAC,1584.0,1584.0
+1002,Sapphire,LastTouchups,1584.0,1584.0
+1002,Sapphire,Cure Times.ShipCureDate,1584.0,1752.0
+1003,Sapphire,Fit-Check,456.0,336.0
+1003,Sapphire,Bonded,384.0,384.0
+1003,Sapphire,Vacuum,384.0,408.0
+1003,Sapphire,Post Bond Clean,408.0,408.0
+1003,Sapphire,Clean & Classify,528.0,648.0
+1003,Sapphire,MAC,1560.0,1560.0
+1003,Sapphire,LastTouchups,1560.0,1680.0
+1003,Sapphire,Cure Times.ShipCureDate,1680.0,816.0
+1004,Sapphire,Fit-Check,360.0,360.0
+1004,Sapphire,Bonded,384.0,408.0
+1004,Sapphire,Vacuum,408.0,432.0
+1004,Sapphire,Post Bond Clean,432.0,456.0
+1004,Sapphire,Clean & Classify,528.0,648.0
+1004,Sapphire,MAC,1560.0,1560.0
+1004,Sapphire,LastTouchups,1560.0,1560.0
+1004,Sapphire,Cure Times.ShipCureDate,1560.0,1728.0
+1005,Sapphire,Fit-Check,360.0,360.0
+1005,Sapphire,Bonded,384.0,408.0
+1005,Sapphire,Vacuum,408.0,432.0
+1005,Sapphire,Post Bond Clean,432.0,456.0
+1005,Sapphire,Clean & Classify,504.0,648.0
+1005,Sapphire,MAC,1560.0,1584.0
+1005,Sapphire,LastTouchups,1584.0,1584.0
+1005,Sapphire,Cure Times.ShipCureDate,1584.0,1752.0
+1006,Sapphire,Fit-Check,360.0,360.0
+1006,Sapphire,Bonded,384.0,408.0
+1006,Sapphire,Vacuum,408.0,432.0
+1006,Sapphire,Post Bond Clean,432.0,456.0
+1006,Sapphire,Clean & Classify,504.0,648.0
+1006,Sapphire,MAC,1560.0,1584.0
+1006,Sapphire,LastTouchups,1584.0,1584.0
+1006,Sapphire,Cure Times.ShipCureDate,1584.0,1752.0
+1007,Sapphire,Fit-Check,384.0,384.0
+1007,Sapphire,Bonded,408.0,456.0
+1007,Sapphire,Vacuum,456.0,480.0
+1007,Sapphire,Post Bond Clean,480.0,480.0
+1007,Sapphire,Pre-CICRW,1488.0,1512.0
+1007,Sapphire,Frontside Overcoating,1512.0,504.0
+1007,Sapphire,Clean & Classify,504.0,696.0
+1007,Sapphire,MAC,1632.0,1632.0
+1007,Sapphire,LastTouchups,1632.0,1632.0
+1007,Sapphire,Cure Times.ShipCureDate,1632.0,1800.0
+1008,Sapphire,Fit-Check,384.0,384.0
+1008,Sapphire,Bonded,456.0,456.0
+1008,Sapphire,Vacuum,456.0,480.0
+1008,Sapphire,Post Bond Clean,480.0,480.0
+1008,Sapphire,Pre-CICRW,1464.0,1512.0
+1008,Sapphire,Frontside Overcoating,1512.0,504.0
+1008,Sapphire,Clean & Classify,504.0,696.0
+1008,Sapphire,MAC,1632.0,1656.0
+1008,Sapphire,LastTouchups,1656.0,1656.0
+1008,Sapphire,Cure Times.ShipCureDate,1656.0,1680.0
+1009,Sapphire,Fit-Check,384.0,408.0
+1009,Sapphire,Bonded,408.0,456.0
+1009,Sapphire,Vacuum,456.0,480.0
+1009,Sapphire,Post Bond Clean,480.0,480.0
+1009,Sapphire,Clean & Classify,528.0,648.0
+1009,Sapphire,MAC,1560.0,1632.0
+1009,Sapphire,LastTouchups,1632.0,1584.0
+1009,Sapphire,Cure Times.ShipCureDate,1584.0,1752.0
+1010,Sapphire,Fit-Check,744.0,408.0
+1010,Sapphire,Bonded,456.0,480.0
+1010,Sapphire,Vacuum,480.0,528.0
+1010,Sapphire,Post Bond Clean,528.0,528.0
+1010,Sapphire,Pre-CICRW,1512.0,1536.0
+1010,Sapphire,Frontside Overcoating,1536.0,576.0
+1010,Sapphire,Clean & Classify,576.0,648.0
+1010,Sapphire,MAC,1656.0,1656.0
+1010,Sapphire,LastTouchups,1656.0,1656.0
+1010,Sapphire,Cure Times.ShipCureDate,1656.0,1680.0
+1011,Sapphire,Fit-Check,744.0,408.0
+1011,Sapphire,Bonded,456.0,480.0
+1011,Sapphire,Vacuum,480.0,528.0
+1011,Sapphire,Post Bond Clean,528.0,672.0
+1011,Sapphire,Clean & Classify,576.0,720.0
+1011,Sapphire,MAC,1560.0,1632.0
+1011,Sapphire,LastTouchups,1632.0,1656.0
+1011,Sapphire,Cure Times.ShipCureDate,1656.0,888.0
+1012,Sapphire,Fit-Check,744.0,408.0
+1012,Sapphire,Bonded,456.0,480.0
+1012,Sapphire,Vacuum,480.0,528.0
+1012,Sapphire,Post Bond Clean,528.0,528.0
+1012,Sapphire,Pre-CICRW,1512.0,1536.0
+1012,Sapphire,Frontside Overcoating,1536.0,576.0
+1012,Sapphire,Clean & Classify,576.0,672.0
+1012,Sapphire,MAC,1800.0,1800.0
+1012,Sapphire,LastTouchups,1800.0,1992.0
+1012,Sapphire,Cure Times.ShipCureDate,1992.0,1968.0
+1013,Sapphire,Fit-Check,744.0,408.0
+1013,Sapphire,Bonded,456.0,504.0
+1013,Sapphire,Vacuum,504.0,528.0
+1013,Sapphire,Post Bond Clean,528.0,528.0
+1013,Sapphire,Clean & Classify,576.0,744.0
+1013,Sapphire,MAC,1560.0,1584.0
+1013,Sapphire,LastTouchups,1584.0,1584.0
+1013,Sapphire,Cure Times.ShipCureDate,1584.0,1752.0
+1014,Sapphire,Fit-Check,744.0,408.0
+1014,Sapphire,Bonded,456.0,504.0
+1014,Sapphire,Vacuum,504.0,528.0
+1014,Sapphire,Post Bond Clean,528.0,528.0
+1014,Sapphire,Clean & Classify,624.0,744.0
+1014,Sapphire,MAC,1560.0,1584.0
+1014,Sapphire,LastTouchups,1584.0,1584.0
+1014,Sapphire,Cure Times.ShipCureDate,1584.0,1752.0
+1015,Sapphire,Fit-Check,792.0,408.0
+1015,Sapphire,Bonded,504.0,504.0
+1015,Sapphire,Vacuum,504.0,528.0
+1015,Sapphire,Post Bond Clean,528.0,528.0
+1015,Sapphire,Pre-CICRW,1704.0,1752.0
+1015,Sapphire,Frontside Overcoating,1752.0,624.0
+1015,Sapphire,Clean & Classify,624.0,792.0
+1015,Sapphire,MAC,1584.0,1584.0
+1015,Sapphire,LastTouchups,1584.0,1584.0
+1015,Sapphire,Cure Times.ShipCureDate,1584.0,1920.0
+1016,Sapphire,Fit-Check,528.0,408.0
+1016,Sapphire,Bonded,504.0,528.0
+1016,Sapphire,Vacuum,528.0,552.0
+1016,Sapphire,Post Bond Clean,552.0,576.0
+1016,Sapphire,Pre-CICRW,2400.0,2472.0
+1016,Sapphire,Frontside Overcoating,2472.0,624.0
+1016,Sapphire,Clean & Classify,624.0,792.0
+1016,Sapphire,MAC,2520.0,2520.0
+1016,Sapphire,LastTouchups,2520.0,2520.0
+1016,Sapphire,Cure Times.ShipCureDate,2520.0,2688.0
+1017,Sapphire,Fit-Check,504.0,504.0
+1017,Sapphire,Bonded,504.0,528.0
+1017,Sapphire,Vacuum,528.0,552.0
+1017,Sapphire,Post Bond Clean,552.0,576.0
+1017,Sapphire,Pre-CICRW,1488.0,1512.0
+1017,Sapphire,Frontside Overcoating,1512.0,624.0
+1017,Sapphire,Clean & Classify,624.0,696.0
+1017,Sapphire,MAC,1632.0,1632.0
+1017,Sapphire,LastTouchups,1632.0,1632.0
+1017,Sapphire,Cure Times.ShipCureDate,1632.0,1848.0
+1018,Sapphire,Fit-Check,504.0,504.0
+1018,Sapphire,Bonded,504.0,528.0
+1018,Sapphire,Vacuum,528.0,552.0
+1018,Sapphire,Post Bond Clean,552.0,576.0
+1018,Sapphire,Pre-CICRW,1512.0,1536.0
+1018,Sapphire,Frontside Overcoating,1536.0,624.0
+1018,Sapphire,Clean & Classify,624.0,672.0
+1018,Sapphire,MAC,1656.0,1656.0
+1018,Sapphire,LastTouchups,1656.0,1656.0
+1018,Sapphire,Cure Times.ShipCureDate,1656.0,1824.0
+1019,Sapphire,Fit-Check,528.0,504.0
+1019,Sapphire,Bonded,528.0,552.0
+1019,Sapphire,Vacuum,552.0,576.0
+1019,Sapphire,Post Bond Clean,576.0,576.0
+1019,Sapphire,Pre-CICRW,2400.0,2472.0
+1019,Sapphire,Frontside Overcoating,2472.0,648.0
+1019,Sapphire,Clean & Classify,648.0,792.0
+1019,Sapphire,MAC,2496.0,2496.0
+1019,Sapphire,LastTouchups,2496.0,2496.0
+1019,Sapphire,Cure Times.ShipCureDate,2496.0,2664.0
+1020,Sapphire,Fit-Check,528.0,504.0
+1020,Sapphire,Bonded,528.0,552.0
+1020,Sapphire,Vacuum,552.0,576.0
+1020,Sapphire,Post Bond Clean,576.0,576.0
+1020,Sapphire,Pre-CICRW,2424.0,2472.0
+1020,Sapphire,Frontside Overcoating,2472.0,648.0
+1020,Sapphire,Clean & Classify,648.0,720.0
+1020,Sapphire,MAC,2520.0,2520.0
+1020,Sapphire,LastTouchups,2520.0,2520.0
+1020,Sapphire,Cure Times.ShipCureDate,2520.0,2688.0
+1021,Sapphire,Fit-Check,552.0,504.0
+1021,Sapphire,Bonded,528.0,552.0
+1021,Sapphire,Vacuum,552.0,576.0
+1021,Sapphire,Post Bond Clean,576.0,576.0
+1021,Sapphire,Pre-CICRW,2400.0,2472.0
+1021,Sapphire,Frontside Overcoating,2472.0,648.0
+1021,Sapphire,Clean & Classify,648.0,1152.0
+1021,Sapphire,MAC,2496.0,2520.0
+1021,Sapphire,LastTouchups,2520.0,2520.0
+1021,Sapphire,Cure Times.ShipCureDate,2520.0,2712.0
+1022,Sapphire,Fit-Check,840.0,504.0
+1022,Sapphire,Bonded,528.0,624.0
+1022,Sapphire,Vacuum,624.0,648.0
+1022,Sapphire,Post Bond Clean,648.0,648.0
+1022,Sapphire,Clean & Classify,648.0,840.0
+1022,Sapphire,MAC,2520.0,2520.0
+1022,Sapphire,LastTouchups,2520.0,2520.0
+1022,Sapphire,Cure Times.ShipCureDate,2520.0,1032.0
+1023,Sapphire,Fit-Check,576.0,528.0
+1023,Sapphire,Bonded,552.0,624.0
+1023,Sapphire,Vacuum,624.0,648.0
+1023,Sapphire,Post Bond Clean,648.0,648.0
+1023,Sapphire,Pre-CICRW,1536.0,1584.0
+1023,Sapphire,Frontside Overcoating,1584.0,648.0
+1023,Sapphire,Clean & Classify,648.0,1152.0
+1023,Sapphire,MAC,2496.0,2496.0
+1023,Sapphire,LastTouchups,2496.0,2496.0
+1023,Sapphire,Cure Times.ShipCureDate,2496.0,2664.0
+1024,Sapphire,Fit-Check,576.0,528.0
+1024,Sapphire,Bonded,552.0,624.0
+1024,Sapphire,Vacuum,624.0,648.0
+1024,Sapphire,Post Bond Clean,648.0,648.0
+1024,Sapphire,Pre-CICRW,1536.0,1584.0
+1024,Sapphire,Frontside Overcoating,1584.0,672.0
+1024,Sapphire,Clean & Classify,672.0,1152.0
+1024,Sapphire,MAC,2496.0,2520.0
+1024,Sapphire,LastTouchups,2520.0,2520.0
+1024,Sapphire,Cure Times.ShipCureDate,2520.0,2688.0
+1025,Sapphire,Fit-Check,576.0,552.0
+1025,Sapphire,Bonded,552.0,648.0
+1025,Sapphire,Vacuum,648.0,672.0
+1025,Sapphire,Post Bond Clean,672.0,672.0
+1025,Sapphire,Clean & Classify,792.0,1176.0
+1025,Sapphire,MAC,2520.0,2520.0
+1025,Sapphire,LastTouchups,2520.0,2520.0
+1025,Sapphire,Cure Times.ShipCureDate,2520.0,1512.0
+1026,Sapphire,Fit-Check,576.0,552.0
+1026,Sapphire,Bonded,648.0,648.0
+1026,Sapphire,Vacuum,648.0,672.0
+1026,Sapphire,Post Bond Clean,672.0,672.0
+1026,Sapphire,Pre-CICRW,2424.0,2472.0
+1026,Sapphire,Frontside Overcoating,2472.0,792.0
+1026,Sapphire,Clean & Classify,792.0,1176.0
+1026,Sapphire,MAC,2520.0,2544.0
+1026,Sapphire,LastTouchups,2544.0,2544.0
+1026,Sapphire,Cure Times.ShipCureDate,2544.0,2832.0
+1027,Sapphire,Fit-Check,1224.0,552.0
+1027,Sapphire,Bonded,624.0,648.0
+1027,Sapphire,Vacuum,648.0,672.0
+1027,Sapphire,Post Bond Clean,672.0,672.0
+1027,Sapphire,Clean & Classify,792.0,1176.0
+1027,Sapphire,MAC,2520.0,2544.0
+1027,Sapphire,LastTouchups,2544.0,2544.0
+1027,Sapphire,Cure Times.ShipCureDate,2544.0,2712.0
+1028,Sapphire,Fit-Check,1224.0,552.0
+1028,Sapphire,Bonded,624.0,672.0
+1028,Sapphire,Vacuum,672.0,720.0
+1028,Sapphire,Post Bond Clean,720.0,720.0
+1028,Sapphire,Clean & Classify,720.0,1176.0
+1028,Sapphire,MAC,2520.0,2520.0
+1028,Sapphire,LastTouchups,2520.0,2520.0
+1028,Sapphire,Cure Times.ShipCureDate,2520.0,1344.0
+1029,Sapphire,Fit-Check,1224.0,552.0
+1029,Sapphire,Bonded,624.0,672.0
+1029,Sapphire,Vacuum,672.0,720.0
+1029,Sapphire,Post Bond Clean,720.0,720.0
+1029,Sapphire,Clean & Classify,816.0,1176.0
+1029,Sapphire,MAC,2520.0,2544.0
+1029,Sapphire,LastTouchups,2544.0,2520.0
+1029,Sapphire,Cure Times.ShipCureDate,2520.0,1512.0
+1030,Sapphire,Fit-Check,1224.0,552.0
+1030,Sapphire,Bonded,624.0,672.0
+1030,Sapphire,Vacuum,672.0,720.0
+1030,Sapphire,Post Bond Clean,720.0,720.0
+1030,Sapphire,Clean & Classify,720.0,1176.0
+1030,Sapphire,MAC,2520.0,2520.0
+1030,Sapphire,LastTouchups,2520.0,2520.0
+1030,Sapphire,Cure Times.ShipCureDate,2520.0,2832.0
+1031,Sapphire,Fit-Check,696.0,552.0
+1031,Sapphire,Bonded,624.0,720.0
+1031,Sapphire,Vacuum,720.0,744.0
+1031,Sapphire,Post Bond Clean,744.0,792.0
+1031,Sapphire,Clean & Classify,816.0,1176.0
+1031,Sapphire,MAC,2520.0,2520.0
+1031,Sapphire,LastTouchups,2520.0,2520.0
+1031,Sapphire,Cure Times.ShipCureDate,2520.0,2688.0
+1032,Sapphire,Fit-Check,696.0,576.0
+1032,Sapphire,Bonded,672.0,720.0
+1032,Sapphire,Vacuum,720.0,744.0
+1032,Sapphire,Post Bond Clean,744.0,816.0
+1032,Sapphire,Clean & Classify,984.0,1416.0
+1032,Sapphire,MAC,2520.0,2520.0
+1032,Sapphire,LastTouchups,2520.0,2520.0
+1032,Sapphire,Cure Times.ShipCureDate,2520.0,2688.0
+1033,Sapphire,Fit-Check,912.0,576.0
+1033,Sapphire,Bonded,672.0,1032.0
+1033,Sapphire,Vacuum,1032.0,1056.0
+1033,Sapphire,Post Bond Clean,1056.0,1080.0
+1033,Sapphire,Clean & Classify,1080.0,1344.0
+1033,Sapphire,MAC,2544.0,2520.0
+1033,Sapphire,LastTouchups,2520.0,2520.0
+1033,Sapphire,Cure Times.ShipCureDate,2520.0,1584.0
+1034,Sapphire,Fit-Check,912.0,576.0
+1034,Sapphire,Bonded,672.0,1032.0
+1034,Sapphire,Vacuum,1032.0,1056.0
+1034,Sapphire,Post Bond Clean,1056.0,1080.0
+1034,Sapphire,Pre-CICRW,1536.0,1584.0
+1034,Sapphire,Frontside Overcoating,1584.0,1080.0
+1034,Sapphire,Clean & Classify,1080.0,1344.0
+1034,Sapphire,MAC,2496.0,2496.0
+1034,Sapphire,LastTouchups,2496.0,2496.0
+1034,Sapphire,Cure Times.ShipCureDate,2496.0,2664.0
+1035,Sapphire,Fit-Check,912.0,576.0
+1035,Sapphire,Bonded,1008.0,1032.0
+1035,Sapphire,Vacuum,1032.0,1056.0
+1035,Sapphire,Post Bond Clean,1056.0,1080.0
+1035,Sapphire,Pre-CICRW,2400.0,2472.0
+1035,Sapphire,Frontside Overcoating,2472.0,1152.0
+1035,Sapphire,Clean & Classify,1152.0,1296.0
+1035,Sapphire,MAC,2520.0,2544.0
+1035,Sapphire,LastTouchups,2544.0,2544.0
+1035,Sapphire,Cure Times.ShipCureDate,2544.0,2712.0
+1036,Sapphire,Fit-Check,912.0,648.0
+1036,Sapphire,Bonded,1008.0,1032.0
+1036,Sapphire,Vacuum,1032.0,1056.0
+1036,Sapphire,Post Bond Clean,1056.0,1536.0
+1036,Sapphire,Clean & Classify,1080.0,1344.0
+1036,Sapphire,MAC,2496.0,2496.0
+1036,Sapphire,LastTouchups,2496.0,2496.0
+1036,Sapphire,Cure Times.ShipCureDate,2496.0,1464.0
+1037,Sapphire,Fit-Check,912.0,648.0
+1037,Sapphire,Bonded,1008.0,1032.0
+1037,Sapphire,Vacuum,1032.0,1056.0
+1037,Sapphire,Post Bond Clean,1056.0,1080.0
+1037,Sapphire,Clean & Classify,1152.0,1296.0
+1037,Sapphire,MAC,2496.0,2496.0
+1037,Sapphire,LastTouchups,2496.0,2496.0
+1037,Sapphire,Cure Times.ShipCureDate,2496.0,1488.0
+1038,Sapphire,Fit-Check,912.0,648.0
+1038,Sapphire,Bonded,1008.0,1032.0
+1038,Sapphire,Vacuum,1032.0,1056.0
+1038,Sapphire,Post Bond Clean,1056.0,1152.0
+1038,Sapphire,Clean & Classify,1200.0,1536.0
+1038,Sapphire,MAC,2496.0,2496.0
+1038,Sapphire,LastTouchups,2496.0,2496.0
+1038,Sapphire,Cure Times.ShipCureDate,2496.0,2664.0
+1039,Sapphire,Fit-Check,984.0,720.0
+1039,Sapphire,Bonded,1008.0,1152.0
+1039,Sapphire,Vacuum,1152.0,1176.0
+1039,Sapphire,Post Bond Clean,1176.0,1200.0
+1039,Sapphire,Clean & Classify,1200.0,1296.0
+1039,Sapphire,MAC,2496.0,2496.0
+1039,Sapphire,LastTouchups,2496.0,2496.0
+1039,Sapphire,Cure Times.ShipCureDate,2496.0,1584.0
+1040,Sapphire,Fit-Check,984.0,720.0
+1040,Sapphire,Bonded,1008.0,1152.0
+1040,Sapphire,Vacuum,1152.0,1176.0
+1040,Sapphire,Post Bond Clean,1176.0,1200.0
+1040,Sapphire,Clean & Classify,1200.0,1296.0
+1040,Sapphire,MAC,2496.0,2496.0
+1040,Sapphire,LastTouchups,2496.0,2496.0
+1040,Sapphire,Cure Times.ShipCureDate,2496.0,2664.0
+1041,Sapphire,Fit-Check,984.0,720.0
+1041,Sapphire,Bonded,1008.0,1152.0
+1041,Sapphire,Vacuum,1152.0,1176.0
+1041,Sapphire,Post Bond Clean,1176.0,1536.0
+1041,Sapphire,Clean & Classify,1200.0,1296.0
+1041,Sapphire,MAC,2520.0,2520.0
+1041,Sapphire,LastTouchups,2520.0,2520.0
+1041,Sapphire,Cure Times.ShipCureDate,2520.0,1560.0
+1042,Sapphire,Fit-Check,984.0,720.0
+1042,Sapphire,Bonded,1008.0,1152.0
+1042,Sapphire,Vacuum,1152.0,1176.0
+1042,Sapphire,Post Bond Clean,1176.0,1200.0
+1042,Sapphire,Clean & Classify,1200.0,1344.0
+1042,Sapphire,MAC,2496.0,2544.0
+1042,Sapphire,LastTouchups,2544.0,2496.0
+1042,Sapphire,Cure Times.ShipCureDate,2496.0,1560.0
+1043,Sapphire,Fit-Check,984.0,720.0
+1043,Sapphire,Bonded,1008.0,1152.0
+1043,Sapphire,Vacuum,1152.0,1176.0
+1043,Sapphire,Post Bond Clean,1176.0,1200.0
+1043,Sapphire,Clean & Classify,1200.0,1392.0
+1043,Sapphire,MAC,2496.0,2496.0
+1043,Sapphire,LastTouchups,2496.0,2496.0
+1043,Sapphire,Cure Times.ShipCureDate,2496.0,1752.0
+1044,Sapphire,Fit-Check,1008.0,720.0
+1044,Sapphire,Bonded,1032.0,1152.0
+1044,Sapphire,Vacuum,1152.0,1176.0
+1044,Sapphire,Post Bond Clean,1176.0,1200.0
+1044,Sapphire,Pre-CICRW,1584.0,1584.0
+1044,Sapphire,Frontside Overcoating,1584.0,1200.0
+1044,Sapphire,Clean & Classify,1200.0,1704.0
+1044,Sapphire,MAC,2496.0,2496.0
+1044,Sapphire,LastTouchups,2496.0,2496.0
+1044,Sapphire,Cure Times.ShipCureDate,2496.0,2664.0
+1045,Sapphire,Fit-Check,1008.0,1008.0
+1045,Sapphire,Bonded,1152.0,1200.0
+1045,Sapphire,Vacuum,1200.0,1224.0
+1045,Sapphire,Post Bond Clean,1224.0,1224.0
+1045,Sapphire,Pre-CICRW,2424.0,2472.0
+1045,Sapphire,Frontside Overcoating,2472.0,1368.0
+1045,Sapphire,Clean & Classify,1368.0,1632.0
+1045,Sapphire,MAC,2520.0,2544.0
+1045,Sapphire,LastTouchups,2544.0,2544.0
+1045,Sapphire,Cure Times.ShipCureDate,2544.0,2712.0
+1046,Sapphire,Fit-Check,1008.0,1008.0
+1046,Sapphire,Bonded,1152.0,1200.0
+1046,Sapphire,Vacuum,1200.0,1224.0
+1046,Sapphire,Post Bond Clean,1224.0,1224.0
+1046,Sapphire,Clean & Classify,1368.0,1512.0
+1046,Sapphire,MAC,2496.0,2496.0
+1046,Sapphire,LastTouchups,2496.0,2496.0
+1046,Sapphire,Cure Times.ShipCureDate,2496.0,2664.0
+1047,Sapphire,Fit-Check,1152.0,1152.0
+1047,Sapphire,Bonded,1152.0,1200.0
+1047,Sapphire,Vacuum,1200.0,1224.0
+1047,Sapphire,Post Bond Clean,1224.0,1224.0
+1047,Sapphire,Pre-CICRW,2400.0,2472.0
+1047,Sapphire,Frontside Overcoating,2472.0,1368.0
+1047,Sapphire,Clean & Classify,1368.0,1536.0
+1047,Sapphire,MAC,2496.0,2520.0
+1047,Sapphire,LastTouchups,2520.0,2520.0
+1047,Sapphire,Cure Times.ShipCureDate,2520.0,2688.0
+1048,Sapphire,Fit-Check,1272.0,1152.0
+1048,Sapphire,Bonded,1152.0,1200.0
+1048,Sapphire,Vacuum,1200.0,1248.0
+1048,Sapphire,Post Bond Clean,1248.0,1248.0
+1048,Sapphire,Clean & Classify,1296.0,1416.0
+1048,Sapphire,MAC,2520.0,2520.0
+1048,Sapphire,LastTouchups,2520.0,2520.0
+1048,Sapphire,Cure Times.ShipCureDate,2520.0,1608.0
+1049,Sapphire,Fit-Check,1272.0,1152.0
+1049,Sapphire,Bonded,1152.0,1200.0
+1049,Sapphire,Vacuum,1200.0,1248.0
+1049,Sapphire,Post Bond Clean,1248.0,1248.0
+1049,Sapphire,Pre-CICRW,2424.0,2472.0
+1049,Sapphire,Frontside Overcoating,2472.0,1296.0
+1049,Sapphire,Clean & Classify,1296.0,1536.0
+1049,Sapphire,MAC,2544.0,2544.0
+1049,Sapphire,LastTouchups,2544.0,2544.0
+1049,Sapphire,Cure Times.ShipCureDate,2544.0,2712.0
+1050,Sapphire,Fit-Check,1272.0,1152.0
+1050,Sapphire,Bonded,1200.0,1200.0
+1050,Sapphire,Vacuum,1200.0,1248.0
+1050,Sapphire,Post Bond Clean,1248.0,1248.0
+1050,Sapphire,Clean & Classify,1296.0,1632.0
+1050,Sapphire,MAC,2496.0,2496.0
+1050,Sapphire,LastTouchups,2496.0,2496.0
+1050,Sapphire,Cure Times.ShipCureDate,2496.0,1800.0
+1051,Sapphire,Fit-Check,1968.0,1224.0
+1051,Sapphire,Bonded,1896.0,1920.0
+1051,Sapphire,Vacuum,1920.0,1968.0
+1051,Sapphire,Post Bond Clean,1968.0,1968.0
+1051,Sapphire,Pre-CICRW,2208.0,2256.0
+1051,Sapphire,Frontside Overcoating,2256.0,2016.0
+1051,Sapphire,Clean & Classify,2016.0,2256.0
+1051,Sapphire,MAC,3168.0,3192.0
+1051,Sapphire,LastTouchups,3192.0,3192.0
+1051,Sapphire,Cure Times.ShipCureDate,3192.0,3360.0
+1052,Sapphire,Fit-Check,1968.0,1224.0
+1052,Sapphire,Bonded,1896.0,1920.0
+1052,Sapphire,Vacuum,1920.0,1968.0
+1052,Sapphire,Post Bond Clean,1968.0,1968.0
+1052,Sapphire,Clean & Classify,1968.0,2040.0
+1052,Sapphire,MAC,3144.0,3192.0
+1052,Sapphire,LastTouchups,3192.0,3192.0
+1052,Sapphire,Cure Times.ShipCureDate,3192.0,2328.0
+1053,Sapphire,Fit-Check,1968.0,1224.0
+1053,Sapphire,Bonded,1896.0,1920.0
+1053,Sapphire,Vacuum,1920.0,1968.0
+1053,Sapphire,Post Bond Clean,1968.0,1968.0
+1053,Sapphire,Clean & Classify,1968.0,2040.0
+1053,Sapphire,MAC,3096.0,3144.0
+1053,Sapphire,LastTouchups,3144.0,3360.0
+1053,Sapphire,Cure Times.ShipCureDate,3360.0,2376.0
+1054,Sapphire,Fit-Check,1968.0,1224.0
+1054,Sapphire,Bonded,1896.0,1920.0
+1054,Sapphire,Vacuum,1920.0,1968.0
+1054,Sapphire,Post Bond Clean,1968.0,2304.0
+1054,Sapphire,Clean & Classify,2304.0,2376.0
+1054,Sapphire,MAC,3432.0,3480.0
+1054,Sapphire,LastTouchups,3480.0,3480.0
+1054,Sapphire,Cure Times.ShipCureDate,3480.0,3648.0
+1055,Sapphire,Fit-Check,1968.0,1224.0
+1055,Sapphire,Bonded,1896.0,1920.0
+1055,Sapphire,Vacuum,1920.0,1968.0
+1055,Sapphire,Post Bond Clean,1968.0,2304.0
+1055,Sapphire,Pre-CICRW,2544.0,2592.0
+1055,Sapphire,Frontside Overcoating,2592.0,2304.0
+1055,Sapphire,Clean & Classify,2304.0,2592.0
+1055,Sapphire,MAC,3504.0,3504.0
+1055,Sapphire,LastTouchups,3504.0,3504.0
+1055,Sapphire,Cure Times.ShipCureDate,3504.0,3672.0
+1056,Sapphire,Fit-Check,1968.0,1224.0
+1056,Sapphire,Bonded,1896.0,1920.0
+1056,Sapphire,Vacuum,1920.0,1968.0
+1056,Sapphire,Post Bond Clean,1968.0,2304.0
+1056,Sapphire,Clean & Classify,2304.0,2376.0
+1056,Sapphire,MAC,3432.0,3480.0
+1056,Sapphire,LastTouchups,3480.0,3480.0
+1056,Sapphire,Cure Times.ShipCureDate,3480.0,3648.0
+1057,Sapphire,Fit-Check,1968.0,1224.0
+1057,Sapphire,Bonded,1920.0,1968.0
+1057,Sapphire,Vacuum,1968.0,1992.0
+1057,Sapphire,Post Bond Clean,1992.0,1992.0
+1057,Sapphire,Clean & Classify,1992.0,2040.0
+1057,Sapphire,MAC,3168.0,3192.0
+1057,Sapphire,LastTouchups,3192.0,3192.0
+1057,Sapphire,Cure Times.ShipCureDate,3192.0,2376.0
+1058,Sapphire,Fit-Check,1968.0,1224.0
+1058,Sapphire,Bonded,1920.0,1968.0
+1058,Sapphire,Vacuum,1968.0,1992.0
+1058,Sapphire,Post Bond Clean,1992.0,1992.0
+1058,Sapphire,Pre-CICRW,2208.0,2256.0
+1058,Sapphire,Frontside Overcoating,2256.0,1992.0
+1058,Sapphire,Clean & Classify,1992.0,2136.0
+1058,Sapphire,MAC,3096.0,3168.0
+1058,Sapphire,LastTouchups,3168.0,3144.0
+1058,Sapphire,Cure Times.ShipCureDate,3144.0,3312.0
+1059,Sapphire,Fit-Check,1968.0,1224.0
+1059,Sapphire,Bonded,1920.0,1968.0
+1059,Sapphire,Vacuum,1968.0,1992.0
+1059,Sapphire,Post Bond Clean,1992.0,1992.0
+1059,Sapphire,Clean & Classify,2016.0,2064.0
+1059,Sapphire,MAC,3168.0,3192.0
+1059,Sapphire,LastTouchups,3192.0,3192.0
+1059,Sapphire,Cure Times.ShipCureDate,3192.0,2376.0
+1060,Sapphire,Fit-Check,1968.0,1224.0
+1060,Sapphire,Bonded,1920.0,1968.0
+1060,Sapphire,Vacuum,1968.0,1992.0
+1060,Sapphire,Post Bond Clean,1992.0,1992.0
+1060,Sapphire,Pre-CICRW,2136.0,2184.0
+1060,Sapphire,Frontside Overcoating,2184.0,2016.0
+1060,Sapphire,Clean & Classify,2016.0,2184.0
+1060,Sapphire,MAC,3168.0,3288.0
+1060,Sapphire,LastTouchups,3288.0,3216.0
+1060,Sapphire,Cure Times.ShipCureDate,3216.0,3384.0
+1061,Sapphire,Fit-Check,1968.0,1224.0
+1061,Sapphire,Bonded,1920.0,1968.0
+1061,Sapphire,Vacuum,1968.0,1992.0
+1061,Sapphire,Post Bond Clean,1992.0,1992.0
+1061,Sapphire,Clean & Classify,2016.0,2136.0
+1061,Sapphire,MAC,3168.0,3168.0
+1061,Sapphire,LastTouchups,3168.0,3168.0
+1061,Sapphire,Cure Times.ShipCureDate,3168.0,2376.0
+1062,Sapphire,Fit-Check,1968.0,1224.0
+1062,Sapphire,Bonded,1920.0,1968.0
+1062,Sapphire,Vacuum,1968.0,1992.0
+1062,Sapphire,Post Bond Clean,1992.0,1992.0
+1062,Sapphire,Clean & Classify,2016.0,2160.0
+1062,Sapphire,MAC,3168.0,3192.0
+1062,Sapphire,LastTouchups,3192.0,3192.0
+1062,Sapphire,Cure Times.ShipCureDate,3192.0,3360.0
+1063,Sapphire,Fit-Check,1968.0,1224.0
+1063,Sapphire,Bonded,1992.0,2016.0
+1063,Sapphire,Vacuum,2016.0,2040.0
+1063,Sapphire,Post Bond Clean,2040.0,2040.0
+1063,Sapphire,Clean & Classify,2040.0,2160.0
+1063,Sapphire,MAC,3144.0,3144.0
+1063,Sapphire,LastTouchups,3144.0,3144.0
+1063,Sapphire,Cure Times.ShipCureDate,3144.0,3312.0
+1064,Sapphire,Fit-Check,1968.0,1224.0
+1064,Sapphire,Bonded,1992.0,2016.0
+1064,Sapphire,Vacuum,2016.0,2040.0
+1064,Sapphire,Post Bond Clean,2040.0,2040.0
+1064,Sapphire,Clean & Classify,2040.0,2136.0
+1064,Sapphire,MAC,3168.0,3216.0
+1064,Sapphire,LastTouchups,3216.0,3216.0
+1064,Sapphire,Cure Times.ShipCureDate,3216.0,3384.0
+1065,Sapphire,Fit-Check,1968.0,1968.0
+1065,Sapphire,Bonded,1992.0,2016.0
+1065,Sapphire,Vacuum,2016.0,2040.0
+1065,Sapphire,Post Bond Clean,2040.0,2040.0
+1065,Sapphire,Pre-CICRW,2208.0,2256.0
+1065,Sapphire,Frontside Overcoating,2256.0,2040.0
+1065,Sapphire,Clean & Classify,2040.0,2328.0
+1065,Sapphire,MAC,3168.0,3192.0
+1065,Sapphire,LastTouchups,3192.0,3192.0
+1065,Sapphire,Cure Times.ShipCureDate,3192.0,3360.0
+1066,Sapphire,Fit-Check,1968.0,1968.0
+1066,Sapphire,Bonded,1992.0,2016.0
+1066,Sapphire,Vacuum,2016.0,2040.0
+1066,Sapphire,Post Bond Clean,2040.0,2040.0
+1066,Sapphire,Pre-CICRW,2136.0,2184.0
+1066,Sapphire,Frontside Overcoating,2184.0,2040.0
+1066,Sapphire,Clean & Classify,2040.0,2232.0
+1066,Sapphire,MAC,3168.0,3192.0
+1066,Sapphire,LastTouchups,3192.0,3192.0
+1066,Sapphire,Cure Times.ShipCureDate,3192.0,2424.0
+1067,Sapphire,Fit-Check,1968.0,1968.0
+1067,Sapphire,Bonded,1992.0,2016.0
+1067,Sapphire,Vacuum,2016.0,2040.0
+1067,Sapphire,Post Bond Clean,2040.0,2040.0
+1067,Sapphire,Clean & Classify,2040.0,2088.0
+1067,Sapphire,MAC,3072.0,3168.0
+1067,Sapphire,LastTouchups,3168.0,3144.0
+1067,Sapphire,Cure Times.ShipCureDate,3144.0,3312.0
+1068,Sapphire,Fit-Check,1968.0,1968.0
+1068,Sapphire,Bonded,3576.0,2016.0
+1068,Sapphire,Vacuum,2016.0,2040.0
+1068,Sapphire,Post Bond Clean,2040.0,2040.0
+1068,Sapphire,Pre-CICRW,2136.0,2184.0
+1068,Sapphire,Frontside Overcoating,2184.0,2040.0
+1068,Sapphire,Clean & Classify,2040.0,2232.0
+1068,Sapphire,MAC,3168.0,3192.0
+1068,Sapphire,LastTouchups,3192.0,3192.0
+1068,Sapphire,Cure Times.ShipCureDate,3192.0,3744.0
+1069,Sapphire,Fit-Check,1968.0,1968.0
+1069,Sapphire,Bonded,2040.0,2064.0
+1069,Sapphire,Vacuum,2064.0,2088.0
+1069,Sapphire,Post Bond Clean,2088.0,2136.0
+1069,Sapphire,Pre-CICRW,2136.0,2184.0
+1069,Sapphire,Frontside Overcoating,2184.0,2088.0
+1069,Sapphire,Clean & Classify,2088.0,2232.0
+1069,Sapphire,MAC,3336.0,3336.0
+1069,Sapphire,LastTouchups,3336.0,3336.0
+1069,Sapphire,Cure Times.ShipCureDate,3336.0,3504.0
+1070,Sapphire,Fit-Check,1968.0,1968.0
+1070,Sapphire,Bonded,2040.0,2064.0
+1070,Sapphire,Vacuum,2064.0,2088.0
+1070,Sapphire,Post Bond Clean,2088.0,2088.0
+1070,Sapphire,Clean & Classify,2088.0,2136.0
+1070,Sapphire,MAC,3096.0,3168.0
+1070,Sapphire,LastTouchups,3168.0,3144.0
+1070,Sapphire,Cure Times.ShipCureDate,3144.0,3312.0
+1071,Sapphire,Fit-Check,1968.0,1968.0
+1071,Sapphire,Bonded,2040.0,2064.0
+1071,Sapphire,Vacuum,2064.0,2088.0
+1071,Sapphire,Post Bond Clean,2088.0,2088.0
+1071,Sapphire,Clean & Classify,2088.0,2136.0
+1071,Sapphire,MAC,3144.0,3168.0
+1071,Sapphire,LastTouchups,3168.0,3168.0
+1071,Sapphire,Cure Times.ShipCureDate,3168.0,2472.0
+1072,Sapphire,Fit-Check,1968.0,1992.0
+1072,Sapphire,Bonded,2040.0,2136.0
+1072,Sapphire,Vacuum,2136.0,2136.0
+1072,Sapphire,Post Bond Clean,2136.0,2136.0
+1072,Sapphire,Pre-CICRW,2208.0,2256.0
+1072,Sapphire,Frontside Overcoating,2256.0,2136.0
+1072,Sapphire,Clean & Classify,2136.0,2256.0
+1072,Sapphire,MAC,3312.0,3336.0
+1072,Sapphire,LastTouchups,3336.0,3336.0
+1072,Sapphire,Cure Times.ShipCureDate,3336.0,3504.0
+1073,Sapphire,Fit-Check,1968.0,1992.0
+1073,Sapphire,Bonded,2040.0,2136.0
+1073,Sapphire,Vacuum,2136.0,2136.0
+1073,Sapphire,Post Bond Clean,2136.0,2136.0
+1073,Sapphire,Clean & Classify,2136.0,2184.0
+1073,Sapphire,MAC,3168.0,3192.0
+1073,Sapphire,LastTouchups,3192.0,3192.0
+1073,Sapphire,Cure Times.ShipCureDate,3192.0,2472.0
+1074,Sapphire,Fit-Check,1968.0,1992.0
+1074,Sapphire,Bonded,2040.0,2136.0
+1074,Sapphire,Vacuum,2136.0,2136.0
+1074,Sapphire,Post Bond Clean,2136.0,2256.0
+1074,Sapphire,Pre-CICRW,3408.0,3240.0
+1074,Sapphire,Frontside Overcoating,3240.0,2136.0
+1074,Sapphire,Clean & Classify,2136.0,2304.0
+1074,Sapphire,MAC,3336.0,3336.0
+1074,Sapphire,LastTouchups,3336.0,3336.0
+1074,Sapphire,Cure Times.ShipCureDate,3336.0,3504.0
+1075,Sapphire,Fit-Check,1968.0,1992.0
+1075,Sapphire,Bonded,2088.0,2136.0
+1075,Sapphire,Vacuum,2136.0,2160.0
+1075,Sapphire,Post Bond Clean,2160.0,2160.0
+1075,Sapphire,Clean & Classify,2160.0,2232.0
+1075,Sapphire,MAC,3168.0,3168.0
+1075,Sapphire,LastTouchups,3168.0,3168.0
+1075,Sapphire,Cure Times.ShipCureDate,3168.0,2544.0
+1076,Sapphire,Fit-Check,1968.0,1992.0
+1076,Sapphire,Bonded,2088.0,2136.0
+1076,Sapphire,Vacuum,2136.0,2160.0
+1076,Sapphire,Post Bond Clean,2160.0,2160.0
+1076,Sapphire,Pre-CICRW,2208.0,2256.0
+1076,Sapphire,Frontside Overcoating,2256.0,2160.0
+1076,Sapphire,Clean & Classify,2160.0,2256.0
+1076,Sapphire,MAC,3096.0,3192.0
+1076,Sapphire,LastTouchups,3192.0,3144.0
+1076,Sapphire,Cure Times.ShipCureDate,3144.0,3480.0
+1077,Sapphire,Fit-Check,1968.0,2040.0
+1077,Sapphire,Bonded,2088.0,2136.0
+1077,Sapphire,Vacuum,2136.0,2160.0
+1077,Sapphire,Post Bond Clean,2160.0,2160.0
+1077,Sapphire,Pre-CICRW,3240.0,3264.0
+1077,Sapphire,Frontside Overcoating,3264.0,2160.0
+1077,Sapphire,Clean & Classify,2160.0,2328.0
+1077,Sapphire,MAC,3336.0,3360.0
+1077,Sapphire,LastTouchups,3360.0,3360.0
+1077,Sapphire,Cure Times.ShipCureDate,3360.0,3408.0
+1078,Sapphire,Fit-Check,1968.0,2040.0
+1078,Sapphire,Bonded,2088.0,2136.0
+1078,Sapphire,Vacuum,2136.0,2160.0
+1078,Sapphire,Post Bond Clean,2160.0,2160.0
+1078,Sapphire,Clean & Classify,2184.0,2328.0
+1078,Sapphire,MAC,3192.0,3216.0
+1078,Sapphire,LastTouchups,3216.0,3216.0
+1078,Sapphire,Cure Times.ShipCureDate,3216.0,3384.0
+1079,Sapphire,Fit-Check,1968.0,2040.0
+1079,Sapphire,Bonded,2088.0,2136.0
+1079,Sapphire,Vacuum,2136.0,2160.0
+1079,Sapphire,Post Bond Clean,2160.0,2184.0
+1079,Sapphire,Clean & Classify,2184.0,2376.0
+1079,Sapphire,MAC,3072.0,3192.0
+1079,Sapphire,LastTouchups,3192.0,3168.0
+1079,Sapphire,Cure Times.ShipCureDate,3168.0,3336.0
+1080,Sapphire,Fit-Check,1968.0,2040.0
+1080,Sapphire,Bonded,2088.0,2136.0
+1080,Sapphire,Vacuum,2136.0,2160.0
+1080,Sapphire,Post Bond Clean,2160.0,2328.0
+1080,Sapphire,Clean & Classify,2328.0,2328.0
+1080,Sapphire,MAC,3072.0,3192.0
+1080,Sapphire,LastTouchups,3192.0,3168.0
+1080,Sapphire,Cure Times.ShipCureDate,3168.0,3336.0
+1081,Sapphire,Fit-Check,1968.0,2040.0
+1081,Sapphire,Bonded,2160.0,2184.0
+1081,Sapphire,Vacuum,2184.0,2208.0
+1081,Sapphire,Post Bond Clean,2208.0,2208.0
+1081,Sapphire,Clean & Classify,2208.0,2328.0
+1081,Sapphire,MAC,3096.0,3192.0
+1081,Sapphire,LastTouchups,3192.0,3168.0
+1081,Sapphire,Cure Times.ShipCureDate,3168.0,3336.0
+1082,Sapphire,Fit-Check,1968.0,2040.0
+1082,Sapphire,Bonded,2160.0,2184.0
+1082,Sapphire,Vacuum,2184.0,2208.0
+1082,Sapphire,Post Bond Clean,2208.0,2208.0
+1082,Sapphire,Pre-CICRW,3360.0,3240.0
+1082,Sapphire,Frontside Overcoating,3240.0,2208.0
+1082,Sapphire,Clean & Classify,2208.0,2328.0
+1082,Sapphire,MAC,3336.0,3336.0
+1082,Sapphire,LastTouchups,3336.0,3336.0
+1082,Sapphire,Cure Times.ShipCureDate,3336.0,3504.0
+1083,Sapphire,Fit-Check,1968.0,2088.0
+1083,Sapphire,Bonded,2160.0,2184.0
+1083,Sapphire,Vacuum,2184.0,2208.0
+1083,Sapphire,Post Bond Clean,2208.0,2208.0
+1083,Sapphire,Clean & Classify,2208.0,2328.0
+1083,Sapphire,MAC,3168.0,3216.0
+1083,Sapphire,LastTouchups,3216.0,3216.0
+1083,Sapphire,Cure Times.ShipCureDate,3216.0,3384.0
+1084,Sapphire,Fit-Check,1968.0,2088.0
+1084,Sapphire,Bonded,2160.0,2184.0
+1084,Sapphire,Vacuum,2184.0,2208.0
+1084,Sapphire,Post Bond Clean,2208.0,2208.0
+1084,Sapphire,Clean & Classify,2232.0,2328.0
+1084,Sapphire,MAC,3144.0,3168.0
+1084,Sapphire,LastTouchups,3168.0,3168.0
+1084,Sapphire,Cure Times.ShipCureDate,3168.0,2592.0
+1085,Sapphire,Fit-Check,1992.0,2088.0
+1085,Sapphire,Bonded,2160.0,2184.0
+1085,Sapphire,Vacuum,2184.0,2208.0
+1085,Sapphire,Post Bond Clean,2208.0,2208.0
+1085,Sapphire,Clean & Classify,2232.0,2328.0
+1085,Sapphire,MAC,3144.0,3288.0
+1085,Sapphire,LastTouchups,3288.0,3216.0
+1085,Sapphire,Cure Times.ShipCureDate,3216.0,3480.0
+1086,Sapphire,Fit-Check,1992.0,2088.0
+1086,Sapphire,Bonded,2160.0,2184.0
+1086,Sapphire,Vacuum,2184.0,2208.0
+1086,Sapphire,Post Bond Clean,2208.0,2208.0
+1086,Sapphire,Pre-CICRW,3216.0,3240.0
+1086,Sapphire,Frontside Overcoating,3240.0,2232.0
+1086,Sapphire,Clean & Classify,2232.0,2328.0
+1086,Sapphire,MAC,3336.0,3336.0
+1086,Sapphire,LastTouchups,3336.0,3336.0
+1086,Sapphire,Cure Times.ShipCureDate,3336.0,3504.0
+1087,Sapphire,Fit-Check,1992.0,2088.0
+1087,Sapphire,Bonded,2232.0,2232.0
+1087,Sapphire,Vacuum,2232.0,2256.0
+1087,Sapphire,Post Bond Clean,2256.0,2256.0
+1087,Sapphire,Clean & Classify,2256.0,2352.0
+1087,Sapphire,MAC,3096.0,3168.0
+1087,Sapphire,LastTouchups,3168.0,3168.0
+1087,Sapphire,Cure Times.ShipCureDate,3168.0,3336.0
+1088,Sapphire,Fit-Check,1992.0,2088.0
+1088,Sapphire,Bonded,2232.0,2232.0
+1088,Sapphire,Vacuum,2232.0,2256.0
+1088,Sapphire,Post Bond Clean,2256.0,2256.0
+1088,Sapphire,Clean & Classify,2256.0,2352.0
+1088,Sapphire,MAC,3144.0,3192.0
+1088,Sapphire,LastTouchups,3192.0,3192.0
+1088,Sapphire,Cure Times.ShipCureDate,3192.0,2640.0
+1089,Sapphire,Fit-Check,1992.0,2136.0
+1089,Sapphire,Bonded,2232.0,2232.0
+1089,Sapphire,Vacuum,2232.0,2256.0
+1089,Sapphire,Post Bond Clean,2256.0,2256.0
+1089,Sapphire,Clean & Classify,2256.0,2352.0
+1089,Sapphire,MAC,3144.0,3192.0
+1089,Sapphire,LastTouchups,3192.0,3192.0
+1089,Sapphire,Cure Times.ShipCureDate,3192.0,3360.0
+1090,Sapphire,Fit-Check,1992.0,2136.0
+1090,Sapphire,Bonded,2232.0,2232.0
+1090,Sapphire,Vacuum,2232.0,2256.0
+1090,Sapphire,Post Bond Clean,2256.0,2256.0
+1090,Sapphire,Clean & Classify,2304.0,2328.0
+1090,Sapphire,MAC,3504.0,3504.0
+1090,Sapphire,LastTouchups,3504.0,3504.0
+1090,Sapphire,Cure Times.ShipCureDate,3504.0,3672.0
+1091,Sapphire,Fit-Check,1992.0,2136.0
+1091,Sapphire,Bonded,2232.0,2232.0
+1091,Sapphire,Vacuum,2232.0,2256.0
+1091,Sapphire,Post Bond Clean,2256.0,2256.0
+1091,Sapphire,Pre-CICRW,2544.0,2592.0
+1091,Sapphire,Frontside Overcoating,2592.0,2304.0
+1091,Sapphire,Clean & Classify,2304.0,2376.0
+1091,Sapphire,MAC,3432.0,3480.0
+1091,Sapphire,LastTouchups,3480.0,3480.0
+1091,Sapphire,Cure Times.ShipCureDate,3480.0,3648.0
+1092,Sapphire,Fit-Check,2040.0,2136.0
+1092,Sapphire,Bonded,2232.0,2232.0
+1092,Sapphire,Vacuum,2232.0,2256.0
+1092,Sapphire,Post Bond Clean,2256.0,2256.0
+1092,Sapphire,Clean & Classify,2304.0,2352.0
+1092,Sapphire,MAC,3432.0,3480.0
+1092,Sapphire,LastTouchups,3480.0,3480.0
+1092,Sapphire,Cure Times.ShipCureDate,3480.0,3648.0
+1093,Sapphire,Fit-Check,2040.0,2136.0
+1093,Sapphire,Bonded,2304.0,2304.0
+1093,Sapphire,Vacuum,2304.0,2328.0
+1093,Sapphire,Post Bond Clean,2328.0,2352.0
+1093,Sapphire,Pre-CICRW,3264.0,3312.0
+1093,Sapphire,Frontside Overcoating,3312.0,2424.0
+1093,Sapphire,Clean & Classify,2424.0,2592.0
+1093,Sapphire,MAC,3504.0,3504.0
+1093,Sapphire,LastTouchups,3504.0,3504.0
+1093,Sapphire,Cure Times.ShipCureDate,3504.0,3672.0
+1094,Sapphire,Fit-Check,2040.0,2136.0
+1094,Sapphire,Bonded,2304.0,2304.0
+1094,Sapphire,Vacuum,2304.0,2328.0
+1094,Sapphire,Post Bond Clean,2328.0,2352.0
+1094,Sapphire,Clean & Classify,2424.0,2472.0
+1094,Sapphire,MAC,3504.0,3504.0
+1094,Sapphire,LastTouchups,3504.0,3504.0
+1094,Sapphire,Cure Times.ShipCureDate,3504.0,3672.0
+1095,Sapphire,Fit-Check,2040.0,2184.0
+1095,Sapphire,Bonded,2304.0,2304.0
+1095,Sapphire,Vacuum,2304.0,2328.0
+1095,Sapphire,Post Bond Clean,2328.0,2352.0
+1095,Sapphire,Pre-CICRW,3264.0,3312.0
+1095,Sapphire,Frontside Overcoating,3312.0,2424.0
+1095,Sapphire,Clean & Classify,2424.0,2592.0
+1095,Sapphire,MAC,3504.0,3528.0
+1095,Sapphire,LastTouchups,3528.0,3528.0
+1095,Sapphire,Cure Times.ShipCureDate,3528.0,3696.0
+1096,Sapphire,Fit-Check,2016.0,2184.0
+1096,Sapphire,Bonded,2304.0,2328.0
+1096,Sapphire,Vacuum,2328.0,2352.0
+1096,Sapphire,Post Bond Clean,2352.0,2376.0
+1096,Sapphire,Clean & Classify,2472.0,2544.0
+1096,Sapphire,MAC,3336.0,3336.0
+1096,Sapphire,LastTouchups,3336.0,3336.0
+1096,Sapphire,Cure Times.ShipCureDate,3336.0,2736.0
+1097,Sapphire,Fit-Check,2016.0,2184.0
+1097,Sapphire,Bonded,2304.0,2328.0
+1097,Sapphire,Vacuum,2328.0,2352.0
+1097,Sapphire,Post Bond Clean,2352.0,2352.0
+1097,Sapphire,Clean & Classify,2544.0,2544.0
+1097,Sapphire,MAC,3336.0,3384.0
+1097,Sapphire,LastTouchups,3384.0,3384.0
+1097,Sapphire,Cure Times.ShipCureDate,3384.0,2736.0
+1098,Sapphire,Fit-Check,2016.0,2184.0
+1098,Sapphire,Bonded,2304.0,2328.0
+1098,Sapphire,Vacuum,2328.0,2352.0
+1098,Sapphire,Post Bond Clean,2352.0,2376.0
+1098,Sapphire,Clean & Classify,2544.0,2544.0
+1098,Sapphire,MAC,3336.0,3384.0
+1098,Sapphire,LastTouchups,3384.0,3384.0
+1098,Sapphire,Cure Times.ShipCureDate,3384.0,3552.0
+1099,Sapphire,Fit-Check,2016.0,2184.0
+1099,Sapphire,Bonded,2304.0,2352.0
+1099,Sapphire,Vacuum,2352.0,2376.0
+1099,Sapphire,Post Bond Clean,2376.0,2400.0
+1099,Sapphire,Pre-CICRW,2568.0,2592.0
+1099,Sapphire,Frontside Overcoating,2592.0,2592.0
+1099,Sapphire,Clean & Classify,2592.0,2592.0
+1099,Sapphire,MAC,3504.0,3528.0
+1099,Sapphire,LastTouchups,3528.0,3528.0
+1099,Sapphire,Cure Times.ShipCureDate,3528.0,3696.0
+1100,Sapphire,Fit-Check,2040.0,2256.0
+1100,Sapphire,Bonded,2304.0,2352.0
+1100,Sapphire,Vacuum,2352.0,2376.0
+1100,Sapphire,Post Bond Clean,2376.0,2400.0
+1100,Sapphire,Pre-CICRW,2568.0,2592.0
+1100,Sapphire,Frontside Overcoating,2592.0,2544.0
+1100,Sapphire,Clean & Classify,2544.0,2808.0
+1100,Sapphire,MAC,3504.0,3528.0
+1100,Sapphire,LastTouchups,3528.0,3528.0
+1100,Sapphire,Cure Times.ShipCureDate,3528.0,2928.0
+1101,Sapphire,Fit-Check,2040.0,2256.0
+1101,Sapphire,Bonded,2352.0,2376.0
+1101,Sapphire,Vacuum,2376.0,2472.0
+1101,Sapphire,Post Bond Clean,2472.0,2472.0
+1101,Sapphire,Pre-CICRW,2568.0,2592.0
+1101,Sapphire,Frontside Overcoating,2592.0,2472.0
+1101,Sapphire,Clean & Classify,2472.0,2640.0
+1101,Sapphire,MAC,3552.0,3552.0
+1101,Sapphire,LastTouchups,3552.0,3552.0
+1101,Sapphire,Cure Times.ShipCureDate,3552.0,3744.0
+1102,Sapphire,Fit-Check,2040.0,2256.0
+1102,Sapphire,Bonded,2352.0,2376.0
+1102,Sapphire,Vacuum,2376.0,2472.0
+1102,Sapphire,Post Bond Clean,2472.0,2472.0
+1102,Sapphire,Clean & Classify,2472.0,2592.0
+1102,Sapphire,MAC,3384.0,2592.0
+1102,Sapphire,LastTouchups,2592.0,3576.0
+1102,Sapphire,Cure Times.ShipCureDate,3576.0,3744.0
+1103,Sapphire,Fit-Check,2040.0,2256.0
+1103,Sapphire,Bonded,2352.0,2376.0
+1103,Sapphire,Vacuum,2376.0,2472.0
+1103,Sapphire,Post Bond Clean,2472.0,2472.0
+1103,Sapphire,Clean & Classify,2472.0,2592.0
+1103,Sapphire,MAC,3312.0,3504.0
+1103,Sapphire,LastTouchups,3504.0,3504.0
+1103,Sapphire,Cure Times.ShipCureDate,3504.0,3672.0
+1104,Sapphire,Fit-Check,2040.0,2256.0
+1104,Sapphire,Bonded,2352.0,2400.0
+1104,Sapphire,Vacuum,2400.0,2424.0
+1104,Sapphire,Post Bond Clean,2424.0,2424.0
+1104,Sapphire,Clean & Classify,2568.0,2568.0
+1104,Sapphire,MAC,3504.0,3528.0
+1104,Sapphire,LastTouchups,3528.0,3528.0
+1104,Sapphire,Cure Times.ShipCureDate,3528.0,3696.0
+1105,Sapphire,Fit-Check,2160.0,2256.0
+1105,Sapphire,Bonded,2352.0,2400.0
+1105,Sapphire,Vacuum,2400.0,2424.0
+1105,Sapphire,Post Bond Clean,2424.0,2424.0
+1105,Sapphire,Clean & Classify,2544.0,2592.0
+1105,Sapphire,MAC,3312.0,3504.0
+1105,Sapphire,LastTouchups,3504.0,3504.0
+1105,Sapphire,Cure Times.ShipCureDate,3504.0,3672.0
+1106,Sapphire,Fit-Check,2040.0,2304.0
+1106,Sapphire,Bonded,2352.0,2400.0
+1106,Sapphire,Vacuum,2400.0,2424.0
+1106,Sapphire,Post Bond Clean,2424.0,2472.0
+1106,Sapphire,Pre-CICRW,2544.0,2592.0
+1106,Sapphire,Frontside Overcoating,2592.0,2592.0
+1106,Sapphire,Clean & Classify,2592.0,2712.0
+1106,Sapphire,MAC,3408.0,3504.0
+1106,Sapphire,LastTouchups,3504.0,3504.0
+1106,Sapphire,Cure Times.ShipCureDate,3504.0,3672.0
+1107,Sapphire,Fit-Check,2040.0,2304.0
+1107,Sapphire,Bonded,2400.0,2472.0
+1107,Sapphire,Vacuum,2472.0,2496.0
+1107,Sapphire,Post Bond Clean,2496.0,2400.0
+1107,Sapphire,Clean & Classify,2544.0,2592.0
+1107,Sapphire,MAC,3432.0,3504.0
+1107,Sapphire,LastTouchups,3504.0,3504.0
+1107,Sapphire,Cure Times.ShipCureDate,3504.0,3672.0
+1108,Sapphire,Fit-Check,2040.0,2304.0
+1108,Sapphire,Bonded,2400.0,2472.0
+1108,Sapphire,Vacuum,2472.0,2496.0
+1108,Sapphire,Post Bond Clean,2496.0,2520.0
+1108,Sapphire,Clean & Classify,2544.0,2592.0
+1108,Sapphire,MAC,3432.0,3504.0
+1108,Sapphire,LastTouchups,3504.0,3504.0
+1108,Sapphire,Cure Times.ShipCureDate,3504.0,3672.0
+1109,Sapphire,Fit-Check,2040.0,2328.0
+1109,Sapphire,Bonded,2400.0,2472.0
+1109,Sapphire,Vacuum,2472.0,2496.0
+1109,Sapphire,Post Bond Clean,2496.0,2520.0
+1109,Sapphire,Clean & Classify,2544.0,2592.0
+1109,Sapphire,MAC,3408.0,3504.0
+1109,Sapphire,LastTouchups,3504.0,3504.0
+1109,Sapphire,Cure Times.ShipCureDate,3504.0,3672.0
+1110,Sapphire,Fit-Check,2040.0,2328.0
+1110,Sapphire,Bonded,2424.0,2472.0
+1110,Sapphire,Vacuum,2472.0,2520.0
+1110,Sapphire,Post Bond Clean,2520.0,2520.0
+1110,Sapphire,Pre-CICRW,2592.0,2640.0
+1110,Sapphire,Frontside Overcoating,2640.0,2544.0
+1110,Sapphire,Clean & Classify,2544.0,2640.0
+1110,Sapphire,MAC,3504.0,3528.0
+1110,Sapphire,LastTouchups,3528.0,3528.0
+1110,Sapphire,Cure Times.ShipCureDate,3528.0,3696.0
+1111,Sapphire,Fit-Check,2040.0,2328.0
+1111,Sapphire,Bonded,2424.0,2472.0
+1111,Sapphire,Vacuum,2472.0,2520.0
+1111,Sapphire,Post Bond Clean,2520.0,2520.0
+1111,Sapphire,Pre-CICRW,2592.0,2640.0
+1111,Sapphire,Frontside Overcoating,2640.0,2592.0
+1111,Sapphire,Clean & Classify,2592.0,2664.0
+1111,Sapphire,MAC,3552.0,3528.0
+1111,Sapphire,LastTouchups,3528.0,3528.0
+1111,Sapphire,Cure Times.ShipCureDate,3528.0,3744.0
+1112,Sapphire,Fit-Check,2040.0,2352.0
+1112,Sapphire,Bonded,2424.0,2472.0
+1112,Sapphire,Vacuum,2472.0,2520.0
+1112,Sapphire,Post Bond Clean,2520.0,2664.0
+1112,Sapphire,Pre-CICRW,2544.0,2592.0
+1112,Sapphire,Frontside Overcoating,2592.0,2592.0
+1112,Sapphire,Clean & Classify,2592.0,2664.0
+1112,Sapphire,MAC,3552.0,3528.0
+1112,Sapphire,LastTouchups,3528.0,3528.0
+1112,Sapphire,Cure Times.ShipCureDate,3528.0,3696.0
+1113,Sapphire,Fit-Check,2040.0,2352.0
+1113,Sapphire,Bonded,2496.0,2520.0
+1113,Sapphire,Vacuum,2520.0,2544.0
+1113,Sapphire,Post Bond Clean,2544.0,2568.0
+1113,Sapphire,Pre-CICRW,2592.0,2640.0
+1113,Sapphire,Frontside Overcoating,2640.0,2592.0
+1113,Sapphire,Clean & Classify,2592.0,2640.0
+1113,Sapphire,MAC,3816.0,3816.0
+1113,Sapphire,LastTouchups,3816.0,3816.0
+1113,Sapphire,Cure Times.ShipCureDate,3816.0,4080.0
+1114,Sapphire,Fit-Check,2040.0,2352.0
+1114,Sapphire,Bonded,2496.0,2520.0
+1114,Sapphire,Vacuum,2520.0,2544.0
+1114,Sapphire,Post Bond Clean,2544.0,2544.0
+1114,Sapphire,Clean & Classify,2568.0,2808.0
+1114,Sapphire,MAC,3552.0,3528.0
+1114,Sapphire,LastTouchups,3528.0,3528.0
+1114,Sapphire,Cure Times.ShipCureDate,3528.0,3696.0
+1115,Sapphire,Fit-Check,2040.0,2472.0
+1115,Sapphire,Bonded,2496.0,2520.0
+1115,Sapphire,Vacuum,2520.0,2544.0
+1115,Sapphire,Post Bond Clean,2544.0,2568.0
+1115,Sapphire,Clean & Classify,2568.0,2664.0
+1115,Sapphire,MAC,3552.0,3528.0
+1115,Sapphire,LastTouchups,3528.0,3528.0
+1115,Sapphire,Cure Times.ShipCureDate,3528.0,3744.0
+1116,Sapphire,Fit-Check,2160.0,2472.0
+1116,Sapphire,Bonded,2496.0,2520.0
+1116,Sapphire,Vacuum,2520.0,2544.0
+1116,Sapphire,Post Bond Clean,2544.0,2568.0
+1116,Sapphire,Pre-CICRW,2592.0,2640.0
+1116,Sapphire,Frontside Overcoating,2640.0,2592.0
+1116,Sapphire,Clean & Classify,2592.0,2688.0
+1116,Sapphire,MAC,3552.0,3528.0
+1116,Sapphire,LastTouchups,3528.0,3528.0
+1116,Sapphire,Cure Times.ShipCureDate,3528.0,3744.0
+1117,Sapphire,Fit-Check,2160.0,2472.0
+1117,Sapphire,Bonded,2496.0,2520.0
+1117,Sapphire,Vacuum,2520.0,2544.0
+1117,Sapphire,Post Bond Clean,2544.0,2568.0
+1117,Sapphire,Clean & Classify,2568.0,2664.0
+1117,Sapphire,MAC,3552.0,3528.0
+1117,Sapphire,LastTouchups,3528.0,3528.0
+1117,Sapphire,Cure Times.ShipCureDate,3528.0,3744.0
+1118,Sapphire,Fit-Check,2160.0,2376.0
+1118,Sapphire,Bonded,2496.0,2520.0
+1118,Sapphire,Vacuum,2520.0,2544.0
+1118,Sapphire,Post Bond Clean,2544.0,2568.0
+1118,Sapphire,Clean & Classify,2568.0,2664.0
+1118,Sapphire,MAC,3552.0,3552.0
+1118,Sapphire,LastTouchups,3552.0,3552.0
+1118,Sapphire,Cure Times.ShipCureDate,3552.0,3720.0
+1119,Sapphire,Fit-Check,2160.0,2376.0
+1119,Sapphire,Bonded,2544.0,2568.0
+1119,Sapphire,Vacuum,2568.0,2592.0
+1119,Sapphire,Post Bond Clean,2592.0,2640.0
+1119,Sapphire,Pre-CICRW,2712.0,2808.0
+1119,Sapphire,Frontside Overcoating,2808.0,2688.0
+1119,Sapphire,Clean & Classify,2688.0,3000.0
+1119,Sapphire,MAC,3768.0,3816.0
+1119,Sapphire,LastTouchups,3816.0,3816.0
+1119,Sapphire,Cure Times.ShipCureDate,3816.0,3984.0
+1120,Sapphire,Fit-Check,2160.0,2376.0
+1120,Sapphire,Bonded,2544.0,2568.0
+1120,Sapphire,Vacuum,2568.0,2592.0
+1120,Sapphire,Post Bond Clean,2592.0,2640.0
+1120,Sapphire,Pre-CICRW,2880.0,2928.0
+1120,Sapphire,Frontside Overcoating,2928.0,2664.0
+1120,Sapphire,Clean & Classify,2664.0,2928.0
+1120,Sapphire,MAC,3768.0,3816.0
+1120,Sapphire,LastTouchups,3816.0,3816.0
+1120,Sapphire,Cure Times.ShipCureDate,3816.0,3984.0
+1121,Sapphire,Fit-Check,2160.0,2472.0
+1121,Sapphire,Bonded,2544.0,2568.0
+1121,Sapphire,Vacuum,2568.0,2592.0
+1121,Sapphire,Post Bond Clean,2592.0,2640.0
+1121,Sapphire,Clean & Classify,2640.0,2688.0
+1121,Sapphire,MAC,3552.0,3552.0
+1121,Sapphire,LastTouchups,3552.0,3552.0
+1121,Sapphire,Cure Times.ShipCureDate,3552.0,3720.0
+1122,Sapphire,Fit-Check,2160.0,2472.0
+1122,Sapphire,Bonded,2544.0,2568.0
+1122,Sapphire,Vacuum,2568.0,2592.0
+1122,Sapphire,Post Bond Clean,2592.0,2640.0
+1122,Sapphire,Clean & Classify,2664.0,2736.0
+1122,Sapphire,MAC,3408.0,3504.0
+1122,Sapphire,LastTouchups,3504.0,3504.0
+1122,Sapphire,Cure Times.ShipCureDate,3504.0,3672.0
+1123,Sapphire,Fit-Check,2160.0,2472.0
+1123,Sapphire,Bonded,2544.0,2568.0
+1123,Sapphire,Vacuum,2568.0,2640.0
+1123,Sapphire,Post Bond Clean,2640.0,2640.0
+1123,Sapphire,Clean & Classify,2664.0,2736.0
+1123,Sapphire,MAC,3552.0,3552.0
+1123,Sapphire,LastTouchups,3552.0,3552.0
+1123,Sapphire,Cure Times.ShipCureDate,3552.0,3744.0
+1124,Sapphire,Fit-Check,2160.0,2472.0
+1124,Sapphire,Bonded,2544.0,2568.0
+1124,Sapphire,Vacuum,2568.0,2640.0
+1124,Sapphire,Post Bond Clean,2640.0,2640.0
+1124,Sapphire,Clean & Classify,2664.0,2760.0
+1124,Sapphire,MAC,3768.0,3816.0
+1124,Sapphire,LastTouchups,3816.0,3816.0
+1124,Sapphire,Cure Times.ShipCureDate,3816.0,2976.0
+1125,Sapphire,Fit-Check,2160.0,2472.0
+1125,Sapphire,Bonded,2544.0,2640.0
+1125,Sapphire,Vacuum,2640.0,2664.0
+1125,Sapphire,Post Bond Clean,2664.0,2688.0
+1125,Sapphire,Pre-CICRW,2880.0,2928.0
+1125,Sapphire,Frontside Overcoating,2928.0,2688.0
+1125,Sapphire,Clean & Classify,2688.0,2808.0
+1125,Sapphire,MAC,3816.0,3816.0
+1125,Sapphire,LastTouchups,3816.0,3816.0
+1125,Sapphire,Cure Times.ShipCureDate,3816.0,4080.0
+1126,Sapphire,Fit-Check,2160.0,2472.0
+1126,Sapphire,Bonded,2544.0,2640.0
+1126,Sapphire,Vacuum,2640.0,2664.0
+1126,Sapphire,Post Bond Clean,2664.0,2688.0
+1126,Sapphire,Clean & Classify,2688.0,2880.0
+1126,Sapphire,MAC,3816.0,3840.0
+1126,Sapphire,LastTouchups,3840.0,3840.0
+1126,Sapphire,Cure Times.ShipCureDate,3840.0,4008.0
+1127,Sapphire,Fit-Check,2160.0,2544.0
+1127,Sapphire,Bonded,2568.0,2640.0
+1127,Sapphire,Vacuum,2640.0,2664.0
+1127,Sapphire,Post Bond Clean,2664.0,2688.0
+1127,Sapphire,Pre-CICRW,4056.0,4104.0
+1127,Sapphire,Frontside Overcoating,4104.0,2712.0
+1127,Sapphire,Clean & Classify,2712.0,2808.0
+1127,Sapphire,MAC,3864.0,3840.0
+1127,Sapphire,LastTouchups,3840.0,3840.0
+1127,Sapphire,Cure Times.ShipCureDate,3840.0,4224.0
+1128,Sapphire,Fit-Check,2160.0,2544.0
+1128,Sapphire,Bonded,2568.0,2640.0
+1128,Sapphire,Vacuum,2640.0,2664.0
+1128,Sapphire,Post Bond Clean,2664.0,2688.0
+1128,Sapphire,Clean & Classify,2712.0,2808.0
+1128,Sapphire,MAC,3744.0,3744.0
+1128,Sapphire,LastTouchups,3744.0,3744.0
+1128,Sapphire,Cure Times.ShipCureDate,3744.0,3048.0
+1129,Sapphire,Fit-Check,2160.0,2544.0
+1129,Sapphire,Bonded,2568.0,2640.0
+1129,Sapphire,Vacuum,2640.0,2664.0
+1129,Sapphire,Post Bond Clean,2664.0,2688.0
+1129,Sapphire,Pre-CICRW,2712.0,2736.0
+1129,Sapphire,Frontside Overcoating,2736.0,2856.0
+1129,Sapphire,Clean & Classify,2856.0,2904.0
+1129,Sapphire,MAC,3936.0,3840.0
+1129,Sapphire,LastTouchups,3840.0,3840.0
+1129,Sapphire,Cure Times.ShipCureDate,3840.0,4008.0
+1130,Sapphire,Fit-Check,2160.0,2544.0
+1130,Sapphire,Bonded,2568.0,2640.0
+1130,Sapphire,Vacuum,2640.0,2664.0
+1130,Sapphire,Post Bond Clean,2664.0,2688.0
+1130,Sapphire,Pre-CICRW,2712.0,2736.0
+1130,Sapphire,Frontside Overcoating,2736.0,2808.0
+1130,Sapphire,Clean & Classify,2808.0,2904.0
+1130,Sapphire,MAC,3840.0,3864.0
+1130,Sapphire,LastTouchups,3864.0,3864.0
+1130,Sapphire,Cure Times.ShipCureDate,3864.0,4032.0
+1131,Sapphire,Fit-Check,2376.0,2544.0
+1131,Sapphire,Bonded,2592.0,2664.0
+1131,Sapphire,Vacuum,2664.0,2688.0
+1131,Sapphire,Post Bond Clean,2688.0,2712.0
+1131,Sapphire,Pre-CICRW,2712.0,2736.0
+1131,Sapphire,Frontside Overcoating,2736.0,2832.0
+1131,Sapphire,Clean & Classify,2832.0,2928.0
+1131,Sapphire,MAC,6360.0,6360.0
+1131,Sapphire,LastTouchups,6360.0,6360.0
+1131,Sapphire,Cure Times.ShipCureDate,6360.0,6384.0
+1132,Sapphire,Fit-Check,2832.0,2544.0
+1132,Sapphire,Bonded,2592.0,2664.0
+1132,Sapphire,Vacuum,2664.0,2688.0
+1132,Sapphire,Post Bond Clean,2688.0,2712.0
+1132,Sapphire,Clean & Classify,2712.0,2832.0
+1132,Sapphire,MAC,3816.0,3840.0
+1132,Sapphire,LastTouchups,3840.0,3840.0
+1132,Sapphire,Cure Times.ShipCureDate,3840.0,3072.0
+1133,Sapphire,Fit-Check,2856.0,2640.0
+1133,Sapphire,Bonded,2640.0,2664.0
+1133,Sapphire,Vacuum,2664.0,2688.0
+1133,Sapphire,Post Bond Clean,2688.0,2712.0
+1133,Sapphire,Pre-CICRW,2928.0,2976.0
+1133,Sapphire,Frontside Overcoating,2976.0,2808.0
+1133,Sapphire,Clean & Classify,2808.0,2856.0
+1133,Sapphire,MAC,3816.0,3816.0
+1133,Sapphire,LastTouchups,3816.0,3816.0
+1133,Sapphire,Cure Times.ShipCureDate,3816.0,3096.0
+1134,Sapphire,Fit-Check,2376.0,2640.0
+1134,Sapphire,Bonded,2640.0,2688.0
+1134,Sapphire,Vacuum,2688.0,2712.0
+1134,Sapphire,Post Bond Clean,2712.0,2736.0
+1134,Sapphire,Clean & Classify,2760.0,2880.0
+1134,Sapphire,MAC,3840.0,3864.0
+1134,Sapphire,LastTouchups,3864.0,3864.0
+1134,Sapphire,Cure Times.ShipCureDate,3864.0,4032.0
+1135,Sapphire,Fit-Check,2376.0,2640.0
+1135,Sapphire,Bonded,2640.0,2688.0
+1135,Sapphire,Vacuum,2688.0,2712.0
+1135,Sapphire,Post Bond Clean,2712.0,2736.0
+1135,Sapphire,Clean & Classify,2736.0,2832.0
+1135,Sapphire,MAC,3840.0,3864.0
+1135,Sapphire,LastTouchups,3864.0,3864.0
+1135,Sapphire,Cure Times.ShipCureDate,3864.0,4032.0
+1136,Sapphire,Fit-Check,2400.0,2640.0
+1136,Sapphire,Bonded,2640.0,2688.0
+1136,Sapphire,Vacuum,2688.0,2712.0
+1136,Sapphire,Post Bond Clean,2712.0,2736.0
+1136,Sapphire,Clean & Classify,2760.0,2832.0
+1136,Sapphire,MAC,3840.0,3888.0
+1136,Sapphire,LastTouchups,3888.0,3888.0
+1136,Sapphire,Cure Times.ShipCureDate,3888.0,4056.0
+1137,Sapphire,Fit-Check,2400.0,2640.0
+1137,Sapphire,Bonded,2664.0,2688.0
+1137,Sapphire,Vacuum,2688.0,2736.0
+1137,Sapphire,Post Bond Clean,2736.0,2760.0
+1137,Sapphire,Pre-CICRW,2808.0,2832.0
+1137,Sapphire,Frontside Overcoating,2832.0,2760.0
+1137,Sapphire,Clean & Classify,2760.0,2856.0
+1137,Sapphire,MAC,3816.0,3840.0
+1137,Sapphire,LastTouchups,3840.0,3840.0
+1137,Sapphire,Cure Times.ShipCureDate,3840.0,4008.0
+1138,Sapphire,Fit-Check,2400.0,2640.0
+1138,Sapphire,Bonded,2664.0,2688.0
+1138,Sapphire,Vacuum,2688.0,2736.0
+1138,Sapphire,Post Bond Clean,2736.0,2760.0
+1138,Sapphire,Pre-CICRW,2808.0,2832.0
+1138,Sapphire,Frontside Overcoating,2832.0,2760.0
+1138,Sapphire,Clean & Classify,2760.0,3000.0
+1138,Sapphire,MAC,3888.0,3888.0
+1138,Sapphire,LastTouchups,3888.0,3888.0
+1138,Sapphire,Cure Times.ShipCureDate,3888.0,4056.0
+1139,Sapphire,Fit-Check,2400.0,2640.0
+1139,Sapphire,Bonded,2664.0,2688.0
+1139,Sapphire,Vacuum,2688.0,2736.0
+1139,Sapphire,Post Bond Clean,2736.0,2760.0
+1139,Sapphire,Clean & Classify,2760.0,2832.0
+1139,Sapphire,MAC,3840.0,3864.0
+1139,Sapphire,LastTouchups,3864.0,3864.0
+1139,Sapphire,Cure Times.ShipCureDate,3864.0,4032.0
+1140,Sapphire,Fit-Check,2592.0,2640.0
+1140,Sapphire,Bonded,2688.0,2712.0
+1140,Sapphire,Vacuum,2712.0,2760.0
+1140,Sapphire,Post Bond Clean,2760.0,2760.0
+1140,Sapphire,Clean & Classify,2760.0,3000.0
+1140,Sapphire,MAC,3840.0,3888.0
+1140,Sapphire,LastTouchups,3888.0,3888.0
+1140,Sapphire,Cure Times.ShipCureDate,3888.0,3120.0
+1141,Sapphire,Fit-Check,2592.0,2640.0
+1141,Sapphire,Bonded,2688.0,2712.0
+1141,Sapphire,Vacuum,2712.0,2760.0
+1141,Sapphire,Post Bond Clean,2760.0,2808.0
+1141,Sapphire,Clean & Classify,2832.0,2880.0
+1141,Sapphire,MAC,3840.0,3888.0
+1141,Sapphire,LastTouchups,3888.0,3888.0
+1141,Sapphire,Cure Times.ShipCureDate,3888.0,4056.0
+1142,Sapphire,Fit-Check,2592.0,2640.0
+1142,Sapphire,Bonded,2688.0,2712.0
+1142,Sapphire,Vacuum,2712.0,2760.0
+1142,Sapphire,Post Bond Clean,2760.0,2808.0
+1142,Sapphire,Clean & Classify,2832.0,2880.0
+1142,Sapphire,MAC,3840.0,3888.0
+1142,Sapphire,LastTouchups,3888.0,3888.0
+1142,Sapphire,Cure Times.ShipCureDate,3888.0,3120.0
+1143,Sapphire,Fit-Check,2592.0,2640.0
+1143,Sapphire,Bonded,2688.0,2856.0
+1143,Sapphire,Vacuum,2856.0,2880.0
+1143,Sapphire,Post Bond Clean,2880.0,2880.0
+1143,Sapphire,Pre-CICRW,3720.0,3768.0
+1143,Sapphire,Frontside Overcoating,3768.0,2952.0
+1143,Sapphire,Clean & Classify,2952.0,3024.0
+1143,Sapphire,MAC,3888.0,3888.0
+1143,Sapphire,LastTouchups,3888.0,3888.0
+1143,Sapphire,Cure Times.ShipCureDate,3888.0,4056.0
+1144,Sapphire,Fit-Check,2592.0,2640.0
+1144,Sapphire,Bonded,2688.0,2856.0
+1144,Sapphire,Vacuum,2856.0,2880.0
+1144,Sapphire,Post Bond Clean,2880.0,2904.0
+1144,Sapphire,Pre-CICRW,2928.0,2976.0
+1144,Sapphire,Frontside Overcoating,2976.0,2904.0
+1144,Sapphire,Clean & Classify,2904.0,3000.0
+1144,Sapphire,MAC,3816.0,3816.0
+1144,Sapphire,LastTouchups,3816.0,3816.0
+1144,Sapphire,Cure Times.ShipCureDate,3816.0,3984.0
+1145,Sapphire,Fit-Check,2640.0,2664.0
+1145,Sapphire,Bonded,2688.0,2856.0
+1145,Sapphire,Vacuum,2856.0,2880.0
+1145,Sapphire,Post Bond Clean,2880.0,2904.0
+1145,Sapphire,Pre-CICRW,3720.0,3768.0
+1145,Sapphire,Frontside Overcoating,3768.0,2928.0
+1145,Sapphire,Clean & Classify,2928.0,3072.0
+1145,Sapphire,MAC,3888.0,3888.0
+1145,Sapphire,LastTouchups,3888.0,3888.0
+1145,Sapphire,Cure Times.ShipCureDate,3888.0,4056.0
+1146,Sapphire,Fit-Check,2640.0,2664.0
+1146,Sapphire,Bonded,2712.0,2856.0
+1146,Sapphire,Vacuum,2856.0,2904.0
+1146,Sapphire,Post Bond Clean,2904.0,2904.0
+1146,Sapphire,Pre-CICRW,3720.0,3768.0
+1146,Sapphire,Frontside Overcoating,3768.0,2904.0
+1146,Sapphire,Clean & Classify,2904.0,3168.0
+1146,Sapphire,MAC,3864.0,3888.0
+1146,Sapphire,LastTouchups,3888.0,3888.0
+1146,Sapphire,Cure Times.ShipCureDate,3888.0,4056.0
+1147,Sapphire,Fit-Check,2640.0,2664.0
+1147,Sapphire,Bonded,2712.0,2856.0
+1147,Sapphire,Vacuum,2856.0,2904.0
+1147,Sapphire,Post Bond Clean,2904.0,2904.0
+1147,Sapphire,Clean & Classify,2904.0,3216.0
+1147,Sapphire,MAC,3744.0,3744.0
+1147,Sapphire,LastTouchups,3744.0,3744.0
+1147,Sapphire,Cure Times.ShipCureDate,3744.0,3264.0
+1148,Sapphire,Fit-Check,2640.0,2688.0
+1148,Sapphire,Bonded,2712.0,2856.0
+1148,Sapphire,Vacuum,2856.0,2904.0
+1148,Sapphire,Post Bond Clean,2904.0,2904.0
+1148,Sapphire,Pre-CICRW,2928.0,2976.0
+1148,Sapphire,Frontside Overcoating,2976.0,2904.0
+1148,Sapphire,Clean & Classify,2904.0,3168.0
+1148,Sapphire,MAC,3864.0,3864.0
+1148,Sapphire,LastTouchups,3864.0,3864.0
+1148,Sapphire,Cure Times.ShipCureDate,3864.0,3912.0
+1149,Sapphire,Fit-Check,2640.0,2688.0
+1149,Sapphire,Bonded,2760.0,2904.0
+1149,Sapphire,Vacuum,2904.0,2928.0
+1149,Sapphire,Post Bond Clean,2928.0,2976.0
+1149,Sapphire,Pre-CICRW,3720.0,3768.0
+1149,Sapphire,Frontside Overcoating,3768.0,3000.0
+1149,Sapphire,Clean & Classify,3000.0,3048.0
+1149,Sapphire,MAC,3864.0,3888.0
+1149,Sapphire,LastTouchups,3888.0,3888.0
+1149,Sapphire,Cure Times.ShipCureDate,3888.0,4056.0
+1150,Sapphire,Fit-Check,2664.0,2688.0
+1150,Sapphire,Bonded,2760.0,2904.0
+1150,Sapphire,Vacuum,2904.0,2928.0
+1150,Sapphire,Post Bond Clean,2928.0,2976.0
+1150,Sapphire,Clean & Classify,3000.0,3048.0
+1150,Sapphire,MAC,3744.0,3768.0
+1150,Sapphire,LastTouchups,3768.0,3768.0
+1150,Sapphire,Cure Times.ShipCureDate,3768.0,3936.0
+1151,Sapphire,Fit-Check,3048.0,2688.0
+1151,Sapphire,Bonded,2760.0,2904.0
+1151,Sapphire,Vacuum,2904.0,2928.0
+1151,Sapphire,Post Bond Clean,2928.0,2976.0
+1151,Sapphire,Clean & Classify,3000.0,3048.0
+1151,Sapphire,MAC,3744.0,3768.0
+1151,Sapphire,LastTouchups,3768.0,3768.0
+1151,Sapphire,Cure Times.ShipCureDate,3768.0,3936.0
+1152,Sapphire,Fit-Check,2880.0,2688.0
+1152,Sapphire,Bonded,2760.0,2904.0
+1152,Sapphire,Vacuum,2904.0,2928.0
+1152,Sapphire,Post Bond Clean,2928.0,2976.0
+1152,Sapphire,Clean & Classify,2976.0,3096.0
+1152,Sapphire,MAC,3744.0,3768.0
+1152,Sapphire,LastTouchups,3768.0,3768.0
+1152,Sapphire,Cure Times.ShipCureDate,3768.0,3936.0
+1153,Sapphire,Fit-Check,2880.0,2688.0
+1153,Sapphire,Bonded,2904.0,2904.0
+1153,Sapphire,Vacuum,2904.0,2928.0
+1153,Sapphire,Post Bond Clean,2928.0,2976.0
+1153,Sapphire,Clean & Classify,2976.0,3024.0
+1153,Sapphire,MAC,3816.0,3840.0
+1153,Sapphire,LastTouchups,3840.0,3840.0
+1153,Sapphire,Cure Times.ShipCureDate,3840.0,3312.0
+1154,Sapphire,Fit-Check,2880.0,2712.0
+1154,Sapphire,Bonded,2880.0,2904.0
+1154,Sapphire,Vacuum,2904.0,2928.0
+1154,Sapphire,Post Bond Clean,2928.0,2976.0
+1154,Sapphire,Clean & Classify,2976.0,3024.0
+1154,Sapphire,MAC,3768.0,3816.0
+1154,Sapphire,LastTouchups,3816.0,3936.0
+1154,Sapphire,Cure Times.ShipCureDate,3936.0,4152.0
+1155,Sapphire,Fit-Check,2880.0,2712.0
+1155,Sapphire,Bonded,2880.0,2928.0
+1155,Sapphire,Vacuum,2928.0,2976.0
+1155,Sapphire,Post Bond Clean,2976.0,2976.0
+1155,Sapphire,Pre-CICRW,3216.0,3264.0
+1155,Sapphire,Frontside Overcoating,3264.0,2976.0
+1155,Sapphire,Clean & Classify,2976.0,3264.0
+1155,Sapphire,MAC,4344.0,4368.0
+1155,Sapphire,LastTouchups,4368.0,4368.0
+1155,Sapphire,Cure Times.ShipCureDate,4368.0,4536.0
+1156,Sapphire,Fit-Check,2880.0,2712.0
+1156,Sapphire,Bonded,2904.0,2928.0
+1156,Sapphire,Vacuum,2928.0,2976.0
+1156,Sapphire,Post Bond Clean,2976.0,2976.0
+1156,Sapphire,Clean & Classify,2976.0,3048.0
+1156,Sapphire,MAC,3816.0,3816.0
+1156,Sapphire,LastTouchups,3816.0,3816.0
+1156,Sapphire,Cure Times.ShipCureDate,3816.0,3336.0
+1157,Sapphire,Fit-Check,2880.0,2880.0
+1157,Sapphire,Bonded,2904.0,2928.0
+1157,Sapphire,Vacuum,2928.0,2976.0
+1157,Sapphire,Post Bond Clean,2976.0,2976.0
+1157,Sapphire,Clean & Classify,2976.0,3168.0
+1157,Sapphire,MAC,3768.0,3816.0
+1157,Sapphire,LastTouchups,3816.0,3816.0
+1157,Sapphire,Cure Times.ShipCureDate,3816.0,3984.0
+1158,Sapphire,Fit-Check,2880.0,2880.0
+1158,Sapphire,Bonded,2904.0,2976.0
+1158,Sapphire,Vacuum,2976.0,3000.0
+1158,Sapphire,Post Bond Clean,3000.0,3000.0
+1158,Sapphire,Pre-CICRW,3240.0,3312.0
+1158,Sapphire,Frontside Overcoating,3312.0,3024.0
+1158,Sapphire,Clean & Classify,3024.0,3600.0
+1158,Sapphire,MAC,4872.0,4872.0
+1158,Sapphire,LastTouchups,4872.0,4872.0
+1158,Sapphire,Cure Times.ShipCureDate,4872.0,5040.0
+1159,Sapphire,Fit-Check,2880.0,2880.0
+1159,Sapphire,Bonded,2904.0,2976.0
+1159,Sapphire,Vacuum,2976.0,3000.0
+1159,Sapphire,Post Bond Clean,3000.0,3000.0
+1159,Sapphire,Clean & Classify,3024.0,3216.0
+1159,Sapphire,MAC,3768.0,3816.0
+1159,Sapphire,LastTouchups,3816.0,3816.0
+1159,Sapphire,Cure Times.ShipCureDate,3816.0,4152.0
+1160,Sapphire,Fit-Check,2880.0,2880.0
+1160,Sapphire,Bonded,2904.0,2976.0
+1160,Sapphire,Vacuum,2976.0,3000.0
+1160,Sapphire,Post Bond Clean,3000.0,3024.0
+1160,Sapphire,Clean & Classify,3024.0,3240.0
+1160,Sapphire,MAC,3768.0,3816.0
+1160,Sapphire,LastTouchups,3816.0,3816.0
+1160,Sapphire,Cure Times.ShipCureDate,3816.0,3984.0
+1161,Sapphire,Fit-Check,2880.0,2880.0
+1161,Sapphire,Bonded,2904.0,2976.0
+1161,Sapphire,Vacuum,2976.0,3000.0
+1161,Sapphire,Post Bond Clean,3000.0,3024.0
+1161,Sapphire,Clean & Classify,3024.0,3264.0
+1161,Sapphire,MAC,4344.0,4368.0
+1161,Sapphire,LastTouchups,4368.0,4368.0
+1161,Sapphire,Cure Times.ShipCureDate,4368.0,4536.0
+1162,Sapphire,Fit-Check,2880.0,2880.0
+1162,Sapphire,Bonded,2904.0,2976.0
+1162,Sapphire,Vacuum,2976.0,3000.0
+1162,Sapphire,Post Bond Clean,3000.0,3024.0
+1162,Sapphire,Clean & Classify,3048.0,3240.0
+1162,Sapphire,MAC,4752.0,4872.0
+1162,Sapphire,LastTouchups,4872.0,4872.0
+1162,Sapphire,Cure Times.ShipCureDate,4872.0,5040.0
+1163,Sapphire,Fit-Check,3048.0,2904.0
+1163,Sapphire,Bonded,2976.0,2976.0
+1163,Sapphire,Vacuum,2976.0,3000.0
+1163,Sapphire,Post Bond Clean,3000.0,3024.0
+1163,Sapphire,Clean & Classify,3048.0,3264.0
+1163,Sapphire,MAC,4344.0,4368.0
+1163,Sapphire,LastTouchups,4368.0,4368.0
+1163,Sapphire,Cure Times.ShipCureDate,4368.0,4536.0
+1164,Sapphire,Fit-Check,3000.0,2976.0
+1164,Sapphire,Bonded,3000.0,3000.0
+1164,Sapphire,Vacuum,3000.0,3024.0
+1164,Sapphire,Post Bond Clean,3024.0,3048.0
+1164,Sapphire,Clean & Classify,3048.0,3648.0
+1164,Sapphire,MAC,4344.0,4368.0
+1164,Sapphire,LastTouchups,4368.0,4368.0
+1164,Sapphire,Cure Times.ShipCureDate,4368.0,4536.0
+1165,Sapphire,Fit-Check,3000.0,2904.0
+1165,Sapphire,Bonded,2976.0,3000.0
+1165,Sapphire,Vacuum,3000.0,3024.0
+1165,Sapphire,Post Bond Clean,3024.0,3048.0
+1165,Sapphire,Clean & Classify,3048.0,3600.0
+1165,Sapphire,MAC,4344.0,4368.0
+1165,Sapphire,LastTouchups,4368.0,4368.0
+1165,Sapphire,Cure Times.ShipCureDate,4368.0,4536.0
+1166,Sapphire,Fit-Check,3000.0,2904.0
+1166,Sapphire,Bonded,3000.0,3000.0
+1166,Sapphire,Vacuum,3000.0,3024.0
+1166,Sapphire,Post Bond Clean,3024.0,3048.0
+1166,Sapphire,Clean & Classify,3072.0,3216.0
+1166,Sapphire,MAC,4368.0,4392.0
+1166,Sapphire,LastTouchups,4392.0,4392.0
+1166,Sapphire,Cure Times.ShipCureDate,4392.0,4560.0
+1167,Sapphire,Fit-Check,2904.0,2928.0
+1167,Sapphire,Bonded,3000.0,3024.0
+1167,Sapphire,Vacuum,3024.0,3048.0
+1167,Sapphire,Post Bond Clean,3048.0,3048.0
+1167,Sapphire,Clean & Classify,3072.0,3264.0
+1167,Sapphire,MAC,4368.0,4392.0
+1167,Sapphire,LastTouchups,4392.0,4392.0
+1167,Sapphire,Cure Times.ShipCureDate,4392.0,4560.0
+1168,Sapphire,Fit-Check,2904.0,2928.0
+1168,Sapphire,Bonded,3000.0,3024.0
+1168,Sapphire,Vacuum,3024.0,3048.0
+1168,Sapphire,Post Bond Clean,3048.0,3072.0
+1168,Sapphire,Clean & Classify,3192.0,3264.0
+1168,Sapphire,MAC,4368.0,4392.0
+1168,Sapphire,LastTouchups,4392.0,4392.0
+1168,Sapphire,Cure Times.ShipCureDate,4392.0,4560.0
+1169,Sapphire,Fit-Check,2904.0,2928.0
+1169,Sapphire,Bonded,3000.0,3024.0
+1169,Sapphire,Vacuum,3024.0,3048.0
+1169,Sapphire,Post Bond Clean,3048.0,3072.0
+1169,Sapphire,Clean & Classify,3168.0,3600.0
+1169,Sapphire,MAC,4392.0,4488.0
+1169,Sapphire,LastTouchups,4488.0,4488.0
+1169,Sapphire,Cure Times.ShipCureDate,4488.0,4608.0
+1170,Sapphire,Fit-Check,2904.0,2976.0
+1170,Sapphire,Bonded,3000.0,3024.0
+1170,Sapphire,Vacuum,3024.0,3072.0
+1170,Sapphire,Post Bond Clean,3072.0,3072.0
+1170,Sapphire,Pre-CICRW,4320.0,4368.0
+1170,Sapphire,Frontside Overcoating,4368.0,3192.0
+1170,Sapphire,Clean & Classify,3192.0,3600.0
+1170,Sapphire,MAC,4488.0,5088.0
+1170,Sapphire,LastTouchups,5088.0,4488.0
+1170,Sapphire,Cure Times.ShipCureDate,4488.0,4656.0
+1171,Sapphire,Fit-Check,3336.0,2976.0
+1171,Sapphire,Bonded,3000.0,3024.0
+1171,Sapphire,Vacuum,3024.0,3072.0
+1171,Sapphire,Post Bond Clean,3072.0,3384.0
+1171,Sapphire,Clean & Classify,3192.0,3600.0
+1171,Sapphire,MAC,4392.0,4416.0
+1171,Sapphire,LastTouchups,4416.0,4440.0
+1171,Sapphire,Cure Times.ShipCureDate,4440.0,3432.0
+1172,Sapphire,Fit-Check,3336.0,2976.0
+1172,Sapphire,Bonded,3000.0,3024.0
+1172,Sapphire,Vacuum,3024.0,3072.0
+1172,Sapphire,Post Bond Clean,3072.0,3072.0
+1172,Sapphire,Pre-CICRW,3240.0,3312.0
+1172,Sapphire,Frontside Overcoating,3312.0,3336.0
+1172,Sapphire,Clean & Classify,3336.0,3600.0
+1172,Sapphire,MAC,4368.0,4392.0
+1172,Sapphire,LastTouchups,4392.0,4392.0
+1172,Sapphire,Cure Times.ShipCureDate,4392.0,3864.0
+1173,Sapphire,Fit-Check,3048.0,2976.0
+1173,Sapphire,Bonded,3024.0,3048.0
+1173,Sapphire,Vacuum,3048.0,3072.0
+1173,Sapphire,Post Bond Clean,3072.0,3144.0
+1173,Sapphire,Pre-CICRW,4320.0,4272.0
+1173,Sapphire,Frontside Overcoating,4272.0,3264.0
+1173,Sapphire,Clean & Classify,3264.0,3600.0
+1173,Sapphire,MAC,4488.0,4488.0
+1173,Sapphire,LastTouchups,4488.0,4488.0
+1173,Sapphire,Cure Times.ShipCureDate,4488.0,4656.0
+1174,Sapphire,Fit-Check,3048.0,2976.0
+1174,Sapphire,Bonded,3024.0,3048.0
+1174,Sapphire,Vacuum,3048.0,3072.0
+1174,Sapphire,Post Bond Clean,3072.0,3144.0
+1174,Sapphire,Clean & Classify,3264.0,3600.0
+1174,Sapphire,MAC,4392.0,4392.0
+1174,Sapphire,LastTouchups,4392.0,4392.0
+1174,Sapphire,Cure Times.ShipCureDate,4392.0,4560.0
+1175,Sapphire,Fit-Check,3048.0,2976.0
+1175,Sapphire,Bonded,3024.0,3048.0
+1175,Sapphire,Vacuum,3048.0,3072.0
+1175,Sapphire,Post Bond Clean,3072.0,3144.0
+1175,Sapphire,Clean & Classify,3264.0,3600.0
+1175,Sapphire,MAC,4392.0,4392.0
+1175,Sapphire,LastTouchups,4392.0,4392.0
+1175,Sapphire,Cure Times.ShipCureDate,4392.0,4560.0
+1176,Sapphire,Fit-Check,3072.0,2976.0
+1176,Sapphire,Bonded,3072.0,3072.0
+1176,Sapphire,Vacuum,3072.0,3168.0
+1177,Sapphire,Fit-Check,3072.0,2976.0
+1177,Sapphire,Bonded,3072.0,3072.0
+1177,Sapphire,Vacuum,3072.0,3168.0
+1178,Sapphire,Fit-Check,2928.0,3000.0
+1178,Sapphire,Bonded,3072.0,3072.0
+1178,Sapphire,Vacuum,3072.0,3168.0
+1179,Sapphire,Fit-Check,2928.0,3000.0
+1179,Sapphire,Bonded,3072.0,3072.0
+1179,Sapphire,Vacuum,3072.0,3096.0
+1179,Sapphire,Post Bond Clean,3096.0,3144.0
+1179,Sapphire,Clean & Classify,3264.0,3600.0
+1179,Sapphire,MAC,4392.0,4392.0
+1179,Sapphire,LastTouchups,4392.0,4392.0
+1179,Sapphire,Cure Times.ShipCureDate,4392.0,3480.0
+1180,Sapphire,Fit-Check,2928.0,3000.0
+1180,Sapphire,Bonded,3072.0,3072.0
+1180,Sapphire,Vacuum,3072.0,3096.0
+1180,Sapphire,Post Bond Clean,3096.0,3144.0
+1180,Sapphire,Pre-CICRW,3240.0,3312.0
+1180,Sapphire,Frontside Overcoating,3312.0,3336.0
+1180,Sapphire,Clean & Classify,3336.0,3648.0
+1180,Sapphire,MAC,4368.0,4392.0
+1180,Sapphire,LastTouchups,4392.0,4392.0
+1180,Sapphire,Cure Times.ShipCureDate,4392.0,4560.0
+1181,Sapphire,Fit-Check,2928.0,3024.0
+1181,Sapphire,Bonded,3072.0,3072.0
+1181,Sapphire,Vacuum,3072.0,3096.0
+1181,Sapphire,Post Bond Clean,3096.0,3600.0
+1181,Sapphire,Clean & Classify,3504.0,3600.0
+1181,Sapphire,MAC,4416.0,4416.0
+1181,Sapphire,LastTouchups,4416.0,4416.0
+1181,Sapphire,Cure Times.ShipCureDate,4416.0,4584.0
+1182,Sapphire,Fit-Check,3000.0,3024.0
+1182,Sapphire,Bonded,3072.0,3360.0
+1182,Sapphire,Vacuum,3360.0,3384.0
+1182,Sapphire,Post Bond Clean,3384.0,3480.0
+1182,Sapphire,Clean & Classify,3528.0,3600.0
+1182,Sapphire,MAC,4320.0,4344.0
+1182,Sapphire,LastTouchups,4344.0,4344.0
+1182,Sapphire,Cure Times.ShipCureDate,4344.0,4512.0
+1183,Sapphire,Fit-Check,3000.0,3024.0
+1183,Sapphire,Bonded,3072.0,3360.0
+1183,Sapphire,Vacuum,3360.0,3384.0
+1183,Sapphire,Post Bond Clean,3384.0,3480.0
+1183,Sapphire,Clean & Classify,3504.0,3648.0
+1183,Sapphire,MAC,4344.0,4368.0
+1183,Sapphire,LastTouchups,4368.0,4368.0
+1183,Sapphire,Cure Times.ShipCureDate,4368.0,4536.0
+1184,Sapphire,Fit-Check,3000.0,3024.0
+1184,Sapphire,Bonded,3072.0,3360.0
+1184,Sapphire,Vacuum,3360.0,3384.0
+1184,Sapphire,Post Bond Clean,3384.0,3480.0
+1184,Sapphire,Clean & Classify,3504.0,3648.0
+1184,Sapphire,MAC,4392.0,4416.0
+1184,Sapphire,LastTouchups,4416.0,4416.0
+1184,Sapphire,Cure Times.ShipCureDate,4416.0,4584.0
+1185,Sapphire,Fit-Check,3000.0,3024.0
+1185,Sapphire,Bonded,3072.0,3360.0
+1185,Sapphire,Vacuum,3360.0,3384.0
+1185,Sapphire,Post Bond Clean,3384.0,3480.0
+1185,Sapphire,Pre-CICRW,4248.0,4320.0
+1185,Sapphire,Frontside Overcoating,4320.0,3528.0
+1185,Sapphire,Clean & Classify,3528.0,3864.0
+1185,Sapphire,MAC,4896.0,4896.0
+1185,Sapphire,LastTouchups,4896.0,4896.0
+1185,Sapphire,Cure Times.ShipCureDate,4896.0,5064.0
+1186,Sapphire,Fit-Check,3048.0,3024.0
+1186,Sapphire,Bonded,3072.0,3360.0
+1186,Sapphire,Vacuum,3360.0,3384.0
+1186,Sapphire,Post Bond Clean,3384.0,3480.0
+1186,Sapphire,Pre-CICRW,4536.0,4272.0
+1186,Sapphire,Frontside Overcoating,4272.0,3528.0
+1186,Sapphire,Clean & Classify,3528.0,3648.0
+1186,Sapphire,MAC,4368.0,4392.0
+1186,Sapphire,LastTouchups,4392.0,4392.0
+1186,Sapphire,Cure Times.ShipCureDate,4392.0,4584.0
+1187,Sapphire,Fit-Check,3048.0,3072.0
+1187,Sapphire,Bonded,3072.0,3360.0
+1187,Sapphire,Vacuum,3360.0,3384.0
+1187,Sapphire,Post Bond Clean,3384.0,3480.0
+1187,Sapphire,Pre-CICRW,4248.0,4320.0
+1187,Sapphire,Frontside Overcoating,4320.0,3528.0
+1187,Sapphire,Clean & Classify,3528.0,3648.0
+1187,Sapphire,MAC,4896.0,4920.0
+1187,Sapphire,LastTouchups,4920.0,4920.0
+1187,Sapphire,Cure Times.ShipCureDate,4920.0,5088.0
+1188,Sapphire,Fit-Check,3048.0,3072.0
+1188,Sapphire,Bonded,3072.0,3384.0
+1188,Sapphire,Vacuum,3384.0,3408.0
+1188,Sapphire,Post Bond Clean,3408.0,3480.0
+1188,Sapphire,Pre-CICRW,4320.0,4392.0
+1188,Sapphire,Frontside Overcoating,4392.0,3552.0
+1188,Sapphire,Clean & Classify,3552.0,3648.0
+1188,Sapphire,MAC,4488.0,4488.0
+1188,Sapphire,LastTouchups,4488.0,4488.0
+1188,Sapphire,Cure Times.ShipCureDate,4488.0,4656.0
+1189,Sapphire,Fit-Check,3216.0,3072.0
+1189,Sapphire,Bonded,3144.0,3384.0
+1189,Sapphire,Vacuum,3384.0,3408.0
+1189,Sapphire,Post Bond Clean,3408.0,3480.0
+1189,Sapphire,Clean & Classify,3552.0,3648.0
+1189,Sapphire,MAC,4320.0,4440.0
+1189,Sapphire,LastTouchups,4440.0,4344.0
+1189,Sapphire,Cure Times.ShipCureDate,4344.0,4512.0
+1190,Sapphire,Fit-Check,3216.0,3096.0
+1190,Sapphire,Bonded,3144.0,3384.0
+1190,Sapphire,Vacuum,3384.0,3408.0
+1190,Sapphire,Post Bond Clean,3408.0,3480.0
+1190,Sapphire,Clean & Classify,3552.0,3648.0
+1190,Sapphire,MAC,4344.0,4344.0
+1190,Sapphire,LastTouchups,4344.0,4344.0
+1190,Sapphire,Cure Times.ShipCureDate,4344.0,4512.0
+1191,Sapphire,Fit-Check,3216.0,3096.0
+1191,Sapphire,Bonded,3144.0,3648.0
+1191,Sapphire,Vacuum,3648.0,3648.0
+1191,Sapphire,Post Bond Clean,3648.0,3648.0
+1191,Sapphire,Clean & Classify,3648.0,3648.0
+1191,Sapphire,MAC,4776.0,4848.0
+1191,Sapphire,LastTouchups,4848.0,4848.0
+1191,Sapphire,Cure Times.ShipCureDate,4848.0,5016.0
+1192,Sapphire,Fit-Check,3216.0,3096.0
+1192,Sapphire,Bonded,3144.0,3408.0
+1192,Sapphire,Vacuum,3408.0,3432.0
+1192,Sapphire,Post Bond Clean,3432.0,3480.0
+1192,Sapphire,Clean & Classify,3576.0,3648.0
+1192,Sapphire,MAC,4344.0,4344.0
+1192,Sapphire,LastTouchups,4344.0,4344.0
+1192,Sapphire,Cure Times.ShipCureDate,4344.0,4512.0
+1193,Sapphire,Fit-Check,3216.0,3096.0
+1193,Sapphire,Bonded,3144.0,3408.0
+1193,Sapphire,Vacuum,3408.0,3432.0
+1193,Sapphire,Post Bond Clean,3432.0,3480.0
+1193,Sapphire,Pre-CICRW,4248.0,4320.0
+1193,Sapphire,Frontside Overcoating,4320.0,3576.0
+1193,Sapphire,Clean & Classify,3576.0,3648.0
+1193,Sapphire,MAC,4896.0,4944.0
+1193,Sapphire,LastTouchups,4944.0,4992.0
+1193,Sapphire,Cure Times.ShipCureDate,4992.0,5112.0
+1194,Sapphire,Fit-Check,3240.0,3096.0
+1194,Sapphire,Bonded,3144.0,3408.0
+1194,Sapphire,Vacuum,3408.0,3480.0
+1194,Sapphire,Post Bond Clean,3480.0,3480.0
+1194,Sapphire,Clean & Classify,3576.0,3648.0
+1194,Sapphire,MAC,4344.0,4344.0
+1194,Sapphire,LastTouchups,4344.0,4344.0
+1194,Sapphire,Cure Times.ShipCureDate,4344.0,4512.0
+1195,Sapphire,Fit-Check,3240.0,3096.0
+1195,Sapphire,Bonded,3144.0,3408.0
+1195,Sapphire,Vacuum,3408.0,3480.0
+1195,Sapphire,Post Bond Clean,3480.0,3504.0
+1195,Sapphire,Clean & Classify,3576.0,3648.0
+1195,Sapphire,MAC,4320.0,4368.0
+1195,Sapphire,LastTouchups,4368.0,4368.0
+1195,Sapphire,Cure Times.ShipCureDate,4368.0,4536.0
+1196,Sapphire,Fit-Check,3240.0,3384.0
+1196,Sapphire,Bonded,3408.0,3408.0
+1196,Sapphire,Vacuum,3408.0,3480.0
+1196,Sapphire,Post Bond Clean,3480.0,3504.0
+1196,Sapphire,Clean & Classify,3600.0,3648.0
+1196,Sapphire,MAC,4320.0,4344.0
+1196,Sapphire,LastTouchups,4344.0,4344.0
+1196,Sapphire,Cure Times.ShipCureDate,4344.0,4512.0
+1197,Sapphire,Fit-Check,3240.0,3384.0
+1197,Sapphire,Bonded,3432.0,3480.0
+1197,Sapphire,Vacuum,3480.0,3504.0
+1197,Sapphire,Post Bond Clean,3504.0,3528.0
+1197,Sapphire,Pre-CICRW,4680.0,4728.0
+1197,Sapphire,Frontside Overcoating,4728.0,3600.0
+1197,Sapphire,Clean & Classify,3600.0,3648.0
+1197,Sapphire,MAC,4320.0,5160.0
+1197,Sapphire,LastTouchups,5160.0,4488.0
+1197,Sapphire,Cure Times.ShipCureDate,4488.0,5160.0
+1198,Sapphire,Fit-Check,3240.0,3384.0
+1198,Sapphire,Bonded,3432.0,3480.0
+1198,Sapphire,Vacuum,3480.0,3504.0
+1198,Sapphire,Post Bond Clean,3504.0,3528.0
+1198,Sapphire,Clean & Classify,3648.0,3888.0
+1198,Sapphire,MAC,4896.0,4920.0
+1198,Sapphire,LastTouchups,4920.0,4920.0
+1198,Sapphire,Cure Times.ShipCureDate,4920.0,5088.0
+1199,Sapphire,Fit-Check,3240.0,3384.0
+1199,Sapphire,Bonded,3432.0,3480.0
+1199,Sapphire,Vacuum,3480.0,3504.0
+1199,Sapphire,Post Bond Clean,3504.0,3648.0
+1199,Sapphire,Clean & Classify,3648.0,3912.0
+1199,Sapphire,MAC,4848.0,4872.0
+1199,Sapphire,LastTouchups,4872.0,4872.0
+1199,Sapphire,Cure Times.ShipCureDate,4872.0,5040.0
+1200,Sapphire,Fit-Check,3264.0,3432.0
+1200,Sapphire,Bonded,3432.0,3480.0
+1200,Sapphire,Vacuum,3480.0,3504.0
+1200,Sapphire,Post Bond Clean,3504.0,3552.0
+1200,Sapphire,Clean & Classify,3672.0,3936.0
+1200,Sapphire,MAC,4776.0,4848.0
+1200,Sapphire,LastTouchups,4848.0,4848.0
+1200,Sapphire,Cure Times.ShipCureDate,4848.0,5016.0
+1201,Sapphire,Fit-Check,3264.0,3432.0
+1201,Sapphire,Bonded,3432.0,3480.0
+1201,Sapphire,Vacuum,3480.0,3504.0
+1201,Sapphire,Post Bond Clean,3504.0,3552.0
+1201,Sapphire,Clean & Classify,3816.0,3936.0
+1201,Sapphire,MAC,4776.0,4848.0
+1201,Sapphire,LastTouchups,4848.0,4848.0
+1201,Sapphire,Cure Times.ShipCureDate,4848.0,5016.0
+1202,Sapphire,Fit-Check,3264.0,3432.0
+1202,Sapphire,Bonded,3480.0,3504.0
+1202,Sapphire,Vacuum,3504.0,3528.0
+1202,Sapphire,Post Bond Clean,3528.0,3552.0
+1202,Sapphire,Pre-CICRW,3816.0,3864.0
+1202,Sapphire,Frontside Overcoating,3864.0,3648.0
+1202,Sapphire,Clean & Classify,3648.0,3936.0
+1202,Sapphire,MAC,4776.0,4848.0
+1202,Sapphire,LastTouchups,4848.0,4848.0
+1202,Sapphire,Cure Times.ShipCureDate,4848.0,5016.0
+1203,Sapphire,Fit-Check,3264.0,3432.0
+1203,Sapphire,Bonded,3480.0,3504.0
+1203,Sapphire,Vacuum,3504.0,3528.0
+1203,Sapphire,Post Bond Clean,3528.0,3720.0
+1203,Sapphire,Clean & Classify,3816.0,3936.0
+1203,Sapphire,MAC,4896.0,4920.0
+1203,Sapphire,LastTouchups,4920.0,4920.0
+1203,Sapphire,Cure Times.ShipCureDate,4920.0,5088.0
+1204,Sapphire,Fit-Check,3264.0,3432.0
+1204,Sapphire,Bonded,3480.0,3504.0
+1204,Sapphire,Vacuum,3504.0,3528.0
+1204,Sapphire,Post Bond Clean,3528.0,3672.0
+1204,Sapphire,Pre-CICRW,3720.0,3864.0
+1204,Sapphire,Frontside Overcoating,3864.0,4008.0
+1204,Sapphire,Clean & Classify,4008.0,4056.0
+1204,Sapphire,MAC,4776.0,4848.0
+1204,Sapphire,LastTouchups,4848.0,4848.0
+1204,Sapphire,Cure Times.ShipCureDate,4848.0,5016.0
+1205,Sapphire,Fit-Check,3264.0,3432.0
+1205,Sapphire,Bonded,3480.0,3648.0
+1205,Sapphire,Vacuum,3648.0,3672.0
+1205,Sapphire,Post Bond Clean,3672.0,3720.0
+1205,Sapphire,Pre-CICRW,3888.0,3936.0
+1205,Sapphire,Frontside Overcoating,3936.0,3816.0
+1205,Sapphire,Clean & Classify,3816.0,3936.0
+1205,Sapphire,MAC,4752.0,5496.0
+1205,Sapphire,LastTouchups,5496.0,5496.0
+1205,Sapphire,Cure Times.ShipCureDate,5496.0,5256.0
+1206,Sapphire,Fit-Check,3264.0,3480.0
+1206,Sapphire,Bonded,3480.0,3528.0
+1206,Sapphire,Vacuum,3528.0,3552.0
+1206,Sapphire,Post Bond Clean,3552.0,3672.0
+1206,Sapphire,Pre-CICRW,3840.0,3864.0
+1206,Sapphire,Frontside Overcoating,3864.0,3888.0
+1206,Sapphire,Clean & Classify,3888.0,3984.0
+1206,Sapphire,MAC,4896.0,4920.0
+1206,Sapphire,LastTouchups,4920.0,4920.0
+1206,Sapphire,Cure Times.ShipCureDate,4920.0,5088.0
+1207,Sapphire,Fit-Check,3360.0,3480.0
+1207,Sapphire,Bonded,3480.0,3528.0
+1207,Sapphire,Vacuum,3528.0,3552.0
+1207,Sapphire,Post Bond Clean,3552.0,3672.0
+1207,Sapphire,Pre-CICRW,4728.0,4776.0
+1207,Sapphire,Frontside Overcoating,4776.0,3888.0
+1207,Sapphire,Clean & Classify,3888.0,3984.0
+1207,Sapphire,MAC,4920.0,4920.0
+1207,Sapphire,LastTouchups,4920.0,4920.0
+1207,Sapphire,Cure Times.ShipCureDate,4920.0,5088.0
+1208,Sapphire,Fit-Check,3552.0,3480.0
+1208,Sapphire,Bonded,3504.0,3528.0
+1208,Sapphire,Vacuum,3528.0,3552.0
+1208,Sapphire,Post Bond Clean,3552.0,3672.0
+1208,Sapphire,Pre-CICRW,4680.0,4824.0
+1208,Sapphire,Frontside Overcoating,4824.0,3840.0
+1208,Sapphire,Clean & Classify,3840.0,3936.0
+1208,Sapphire,MAC,4920.0,4920.0
+1208,Sapphire,LastTouchups,4920.0,4920.0
+1208,Sapphire,Cure Times.ShipCureDate,4920.0,5112.0
+1209,Sapphire,Fit-Check,3504.0,3480.0
+1209,Sapphire,Bonded,3504.0,3528.0
+1209,Sapphire,Vacuum,3528.0,3576.0
+1209,Sapphire,Post Bond Clean,3576.0,3672.0
+1209,Sapphire,Clean & Classify,3840.0,3936.0
+1209,Sapphire,MAC,4776.0,4848.0
+1209,Sapphire,LastTouchups,4848.0,4848.0
+1209,Sapphire,Cure Times.ShipCureDate,4848.0,5016.0
+1210,Sapphire,Fit-Check,3552.0,3504.0
+1210,Sapphire,Bonded,3504.0,3528.0
+1210,Sapphire,Vacuum,3528.0,3576.0
+1210,Sapphire,Post Bond Clean,3576.0,3696.0
+1210,Sapphire,Pre-CICRW,3816.0,3864.0
+1210,Sapphire,Frontside Overcoating,3864.0,3888.0
+1210,Sapphire,Clean & Classify,3888.0,3984.0
+1210,Sapphire,MAC,4752.0,4848.0
+1210,Sapphire,LastTouchups,4848.0,4848.0
+1210,Sapphire,Cure Times.ShipCureDate,4848.0,5016.0
+1211,Sapphire,Fit-Check,3552.0,3504.0
+1211,Sapphire,Bonded,3504.0,3528.0
+1211,Sapphire,Vacuum,3528.0,3576.0
+1211,Sapphire,Post Bond Clean,3576.0,3696.0
+1211,Sapphire,Pre-CICRW,4776.0,4824.0
+1211,Sapphire,Frontside Overcoating,4824.0,3864.0
+1211,Sapphire,Clean & Classify,3864.0,4008.0
+1211,Sapphire,MAC,4920.0,4920.0
+1211,Sapphire,LastTouchups,4920.0,4920.0
+1211,Sapphire,Cure Times.ShipCureDate,4920.0,5088.0
+1212,Sapphire,Fit-Check,3528.0,3504.0
+1212,Sapphire,Bonded,3504.0,3552.0
+1212,Sapphire,Vacuum,3552.0,3600.0
+1212,Sapphire,Post Bond Clean,3600.0,3696.0
+1212,Sapphire,Pre-CICRW,4776.0,4824.0
+1212,Sapphire,Frontside Overcoating,4824.0,3888.0
+1212,Sapphire,Clean & Classify,3888.0,4008.0
+1212,Sapphire,MAC,4920.0,4920.0
+1212,Sapphire,LastTouchups,4920.0,4920.0
+1212,Sapphire,Cure Times.ShipCureDate,4920.0,5088.0
+1213,Sapphire,Fit-Check,3528.0,3504.0
+1213,Sapphire,Bonded,3528.0,3552.0
+1213,Sapphire,Vacuum,3552.0,3600.0
+1213,Sapphire,Post Bond Clean,3600.0,3696.0
+1213,Sapphire,Clean & Classify,3888.0,4008.0
+1213,Sapphire,MAC,4920.0,4920.0
+1213,Sapphire,LastTouchups,4920.0,4920.0
+1213,Sapphire,Cure Times.ShipCureDate,4920.0,5088.0
+1214,Sapphire,Fit-Check,3552.0,3504.0
+1214,Sapphire,Bonded,3912.0,3552.0
+1214,Sapphire,Vacuum,3552.0,3600.0
+1214,Sapphire,Post Bond Clean,3600.0,3696.0
+1214,Sapphire,Pre-CICRW,3888.0,3936.0
+1214,Sapphire,Frontside Overcoating,3936.0,4008.0
+1214,Sapphire,Clean & Classify,4008.0,4080.0
+1214,Sapphire,MAC,5376.0,5400.0
+1214,Sapphire,LastTouchups,5400.0,5496.0
+1214,Sapphire,Cure Times.ShipCureDate,5496.0,4248.0
+1215,Sapphire,Fit-Check,3552.0,3504.0
+1215,Sapphire,Bonded,3528.0,3576.0
+1215,Sapphire,Vacuum,3576.0,3600.0
+1215,Sapphire,Post Bond Clean,3600.0,3696.0
+1215,Sapphire,Clean & Classify,3888.0,4008.0
+1215,Sapphire,MAC,4752.0,4848.0
+1215,Sapphire,LastTouchups,4848.0,4848.0
+1215,Sapphire,Cure Times.ShipCureDate,4848.0,5016.0
+1216,Sapphire,Fit-Check,3552.0,3528.0
+1216,Sapphire,Bonded,3552.0,3576.0
+1216,Sapphire,Vacuum,3576.0,3600.0
+1216,Sapphire,Post Bond Clean,3600.0,3696.0
+1216,Sapphire,Clean & Classify,3888.0,4008.0
+1216,Sapphire,MAC,4752.0,4848.0
+1216,Sapphire,LastTouchups,4848.0,4848.0
+1216,Sapphire,Cure Times.ShipCureDate,4848.0,5016.0
+1217,Sapphire,Fit-Check,3552.0,3528.0
+1217,Sapphire,Bonded,3552.0,3576.0
+1217,Sapphire,Vacuum,3576.0,3600.0
+1217,Sapphire,Post Bond Clean,3600.0,3696.0
+1217,Sapphire,Clean & Classify,3888.0,4008.0
+1217,Sapphire,MAC,4920.0,4920.0
+1217,Sapphire,LastTouchups,4920.0,4920.0
+1217,Sapphire,Cure Times.ShipCureDate,4920.0,5088.0
+1218,Sapphire,Fit-Check,3552.0,3528.0
+1218,Sapphire,Bonded,3552.0,3648.0
+1218,Sapphire,Vacuum,3648.0,3672.0
+1218,Sapphire,Post Bond Clean,3672.0,3720.0
+1218,Sapphire,Clean & Classify,3912.0,4008.0
+1218,Sapphire,MAC,5040.0,5064.0
+1218,Sapphire,LastTouchups,5064.0,5088.0
+1218,Sapphire,Cure Times.ShipCureDate,5088.0,5256.0
+1219,Sapphire,Fit-Check,3576.0,3528.0
+1219,Sapphire,Bonded,3552.0,3648.0
+1219,Sapphire,Vacuum,3648.0,3672.0
+1219,Sapphire,Post Bond Clean,3672.0,3720.0
+1219,Sapphire,Pre-CICRW,4104.0,4152.0
+1219,Sapphire,Frontside Overcoating,4152.0,4008.0
+1219,Sapphire,Clean & Classify,4008.0,4008.0
+1219,Sapphire,MAC,5088.0,5112.0
+1219,Sapphire,LastTouchups,5112.0,5184.0
+1219,Sapphire,Cure Times.ShipCureDate,5184.0,5328.0
+1220,Sapphire,Fit-Check,4008.0,3528.0
+1220,Sapphire,Bonded,3552.0,3648.0
+1220,Sapphire,Vacuum,3648.0,3672.0
+1220,Sapphire,Post Bond Clean,3672.0,3720.0
+1220,Sapphire,Clean & Classify,3912.0,4008.0
+1220,Sapphire,MAC,4824.0,4848.0
+1220,Sapphire,LastTouchups,4848.0,4848.0
+1220,Sapphire,Cure Times.ShipCureDate,4848.0,5064.0
+1221,Sapphire,Fit-Check,3576.0,3552.0
+1221,Sapphire,Bonded,3552.0,3648.0
+1221,Sapphire,Vacuum,3648.0,3672.0
+1221,Sapphire,Post Bond Clean,3672.0,3720.0
+1221,Sapphire,Clean & Classify,3912.0,4008.0
+1221,Sapphire,MAC,5040.0,5040.0
+1221,Sapphire,LastTouchups,5040.0,5088.0
+1221,Sapphire,Cure Times.ShipCureDate,5088.0,5256.0
+1222,Sapphire,Fit-Check,3576.0,3552.0
+1222,Sapphire,Bonded,3576.0,3648.0
+1222,Sapphire,Vacuum,3648.0,3672.0
+1222,Sapphire,Post Bond Clean,3672.0,3720.0
+1222,Sapphire,Clean & Classify,3984.0,4056.0
+1222,Sapphire,MAC,5040.0,5040.0
+1222,Sapphire,LastTouchups,5040.0,5088.0
+1222,Sapphire,Cure Times.ShipCureDate,5088.0,5256.0
+1223,Sapphire,Fit-Check,3576.0,3552.0
+1223,Sapphire,Bonded,3576.0,3672.0
+1223,Sapphire,Vacuum,3672.0,3696.0
+1223,Sapphire,Post Bond Clean,3696.0,3744.0
+1223,Sapphire,Pre-CICRW,4728.0,4824.0
+1223,Sapphire,Frontside Overcoating,4824.0,3984.0
+1223,Sapphire,Clean & Classify,3984.0,4056.0
+1223,Sapphire,MAC,4920.0,5088.0
+1223,Sapphire,LastTouchups,5088.0,4920.0
+1223,Sapphire,Cure Times.ShipCureDate,4920.0,5088.0
+1224,Sapphire,Fit-Check,4008.0,3552.0
+1224,Sapphire,Bonded,3576.0,3672.0
+1224,Sapphire,Vacuum,3672.0,3696.0
+1224,Sapphire,Post Bond Clean,3696.0,3816.0
+1224,Sapphire,Pre-CICRW,3816.0,3864.0
+1224,Sapphire,Frontside Overcoating,3864.0,3888.0
+1224,Sapphire,Clean & Classify,3888.0,4008.0
+1224,Sapphire,MAC,5256.0,5280.0
+1224,Sapphire,LastTouchups,5280.0,5280.0
+1224,Sapphire,Cure Times.ShipCureDate,5280.0,5448.0
+1225,Sapphire,Fit-Check,4008.0,3552.0
+1225,Sapphire,Bonded,3576.0,3672.0
+1225,Sapphire,Vacuum,3672.0,3696.0
+1225,Sapphire,Post Bond Clean,3696.0,3816.0
+1225,Sapphire,Pre-CICRW,3888.0,3936.0
+1225,Sapphire,Frontside Overcoating,3936.0,3936.0
+1225,Sapphire,Clean & Classify,3936.0,4008.0
+1225,Sapphire,MAC,4824.0,4848.0
+1225,Sapphire,LastTouchups,4848.0,4848.0
+1225,Sapphire,Cure Times.ShipCureDate,4848.0,5016.0
+1226,Sapphire,Fit-Check,3696.0,3552.0
+1226,Sapphire,Bonded,3576.0,3696.0
+1226,Sapphire,Vacuum,3696.0,3720.0
+1226,Sapphire,Post Bond Clean,3720.0,3816.0
+1226,Sapphire,Pre-CICRW,4680.0,4728.0
+1226,Sapphire,Frontside Overcoating,4728.0,3984.0
+1226,Sapphire,Clean & Classify,3984.0,4056.0
+1226,Sapphire,MAC,4872.0,4872.0
+1226,Sapphire,LastTouchups,4872.0,4872.0
+1226,Sapphire,Cure Times.ShipCureDate,4872.0,5040.0
+1227,Sapphire,Fit-Check,3696.0,3552.0
+1227,Sapphire,Bonded,3576.0,3696.0
+1227,Sapphire,Vacuum,3696.0,3720.0
+1227,Sapphire,Post Bond Clean,3720.0,3816.0
+1227,Sapphire,Pre-CICRW,4728.0,4776.0
+1227,Sapphire,Frontside Overcoating,4776.0,3888.0
+1227,Sapphire,Clean & Classify,3888.0,4008.0
+1227,Sapphire,MAC,4920.0,4920.0
+1227,Sapphire,LastTouchups,4920.0,4920.0
+1227,Sapphire,Cure Times.ShipCureDate,4920.0,5088.0
+1228,Sapphire,Fit-Check,3696.0,3648.0
+1228,Sapphire,Bonded,3672.0,3696.0
+1228,Sapphire,Vacuum,3696.0,3720.0
+1228,Sapphire,Post Bond Clean,3720.0,3816.0
+1228,Sapphire,Clean & Classify,4080.0,4104.0
+1228,Sapphire,MAC,4824.0,4848.0
+1228,Sapphire,LastTouchups,4848.0,4848.0
+1228,Sapphire,Cure Times.ShipCureDate,4848.0,5016.0
+1229,Sapphire,Fit-Check,3696.0,3648.0
+1229,Sapphire,Bonded,3672.0,3696.0
+1229,Sapphire,Vacuum,3696.0,3744.0
+1229,Sapphire,Post Bond Clean,3744.0,3816.0
+1229,Sapphire,Clean & Classify,4008.0,4080.0
+1229,Sapphire,MAC,4848.0,4872.0
+1229,Sapphire,LastTouchups,4872.0,4872.0
+1229,Sapphire,Cure Times.ShipCureDate,4872.0,5040.0
+1230,Sapphire,Fit-Check,3696.0,3648.0
+1230,Sapphire,Bonded,3672.0,3696.0
+1230,Sapphire,Vacuum,3696.0,3744.0
+1230,Sapphire,Post Bond Clean,3744.0,3816.0
+1230,Sapphire,Clean & Classify,4008.0,4080.0
+1230,Sapphire,MAC,4848.0,4872.0
+1230,Sapphire,LastTouchups,4872.0,4872.0
+1230,Sapphire,Cure Times.ShipCureDate,4872.0,5040.0
+1231,Sapphire,Fit-Check,3696.0,3648.0
+1231,Sapphire,Bonded,3672.0,3696.0
+1231,Sapphire,Vacuum,3696.0,3744.0
+1231,Sapphire,Post Bond Clean,3744.0,3840.0
+1231,Sapphire,Clean & Classify,4080.0,4104.0
+1231,Sapphire,MAC,4848.0,4872.0
+1231,Sapphire,LastTouchups,4872.0,4872.0
+1231,Sapphire,Cure Times.ShipCureDate,4872.0,5160.0
+1232,Sapphire,Fit-Check,4248.0,3648.0
+1232,Sapphire,Bonded,3672.0,3720.0
+1232,Sapphire,Vacuum,3720.0,3744.0
+1232,Sapphire,Post Bond Clean,3744.0,3864.0
+1232,Sapphire,Pre-CICRW,5040.0,5064.0
+1232,Sapphire,Frontside Overcoating,5064.0,4008.0
+1232,Sapphire,Clean & Classify,4008.0,4080.0
+1232,Sapphire,MAC,4920.0,4944.0
+1233,Sapphire,Fit-Check,3816.0,3672.0
+1233,Sapphire,Bonded,3696.0,3720.0
+1233,Sapphire,Vacuum,3720.0,3744.0
+1233,Sapphire,Post Bond Clean,3744.0,3912.0
+1233,Sapphire,Pre-CICRW,4056.0,4104.0
+1233,Sapphire,Frontside Overcoating,4104.0,4176.0
+1233,Sapphire,Clean & Classify,4176.0,4224.0
+1233,Sapphire,MAC,5040.0,5040.0
+1233,Sapphire,LastTouchups,5040.0,5064.0
+1233,Sapphire,Cure Times.ShipCureDate,5064.0,5232.0
+1234,Sapphire,Fit-Check,3816.0,3672.0
+1234,Sapphire,Bonded,3696.0,3720.0
+1234,Sapphire,Vacuum,3720.0,3744.0
+1234,Sapphire,Post Bond Clean,3744.0,3912.0
+1234,Sapphire,Clean & Classify,4008.0,4320.0
+1234,Sapphire,MAC,5040.0,5064.0
+1234,Sapphire,LastTouchups,5064.0,5064.0
+1234,Sapphire,Cure Times.ShipCureDate,5064.0,5232.0
+1235,Sapphire,Fit-Check,3816.0,3672.0
+1235,Sapphire,Bonded,3696.0,3768.0
+1235,Sapphire,Vacuum,3768.0,3816.0
+1235,Sapphire,Post Bond Clean,3816.0,3912.0
+1235,Sapphire,Clean & Classify,4008.0,4152.0
+1235,Sapphire,MAC,5064.0,5088.0
+1235,Sapphire,LastTouchups,5088.0,5088.0
+1235,Sapphire,Cure Times.ShipCureDate,5088.0,5256.0
+1236,Sapphire,Fit-Check,3816.0,3672.0
+1236,Sapphire,Bonded,3696.0,3768.0
+1236,Sapphire,Vacuum,3768.0,3816.0
+1236,Sapphire,Post Bond Clean,3816.0,3912.0
+1236,Sapphire,Clean & Classify,4008.0,4152.0
+1236,Sapphire,MAC,5160.0,5112.0
+1236,Sapphire,LastTouchups,5112.0,5184.0
+1236,Sapphire,Cure Times.ShipCureDate,5184.0,5328.0
+1237,Sapphire,Fit-Check,3816.0,3672.0
+1237,Sapphire,Bonded,3696.0,3768.0
+1237,Sapphire,Vacuum,3768.0,3816.0
+1237,Sapphire,Post Bond Clean,3816.0,3912.0
+1237,Sapphire,Pre-CICRW,4056.0,4104.0
+1237,Sapphire,Frontside Overcoating,4104.0,4176.0
+1237,Sapphire,Clean & Classify,4176.0,4224.0
+1237,Sapphire,MAC,5040.0,5160.0
+1238,Sapphire,Fit-Check,3816.0,3672.0
+1238,Sapphire,Bonded,3696.0,3816.0
+1238,Sapphire,Vacuum,3816.0,3840.0
+1238,Sapphire,Post Bond Clean,3840.0,4152.0
+1238,Sapphire,Clean & Classify,4080.0,4152.0
+1238,Sapphire,MAC,5040.0,5064.0
+1238,Sapphire,LastTouchups,5064.0,5064.0
+1238,Sapphire,Cure Times.ShipCureDate,5064.0,5232.0
+1239,Sapphire,Fit-Check,3696.0,3672.0
+1239,Sapphire,Bonded,3744.0,3816.0
+1239,Sapphire,Vacuum,3816.0,3840.0
+1239,Sapphire,Post Bond Clean,3840.0,4056.0
+1239,Sapphire,Clean & Classify,4080.0,4176.0
+1239,Sapphire,MAC,5064.0,5088.0
+1239,Sapphire,LastTouchups,5088.0,5088.0
+1239,Sapphire,Cure Times.ShipCureDate,5088.0,5256.0
+1240,Sapphire,Fit-Check,3816.0,3696.0
+1240,Sapphire,Bonded,3744.0,3816.0
+1240,Sapphire,Vacuum,3816.0,3840.0
+1240,Sapphire,Post Bond Clean,3840.0,3984.0
+1240,Sapphire,Pre-CICRW,4080.0,4152.0
+1240,Sapphire,Frontside Overcoating,4152.0,4200.0
+1240,Sapphire,Clean & Classify,4200.0,4248.0
+1240,Sapphire,MAC,5040.0,5064.0
+1240,Sapphire,LastTouchups,5064.0,5064.0
+1240,Sapphire,Cure Times.ShipCureDate,5064.0,5232.0
+1241,Sapphire,Fit-Check,3816.0,3696.0
+1241,Sapphire,Bonded,3744.0,3840.0
+1241,Sapphire,Vacuum,3840.0,3864.0
+1241,Sapphire,Post Bond Clean,3864.0,3912.0
+1241,Sapphire,Clean & Classify,4176.0,4248.0
+1241,Sapphire,MAC,5040.0,5064.0
+1241,Sapphire,LastTouchups,5064.0,5088.0
+1241,Sapphire,Cure Times.ShipCureDate,5088.0,5256.0
+1242,Sapphire,Fit-Check,3816.0,3696.0
+1242,Sapphire,Bonded,3744.0,3840.0
+1242,Sapphire,Vacuum,3840.0,3864.0
+1242,Sapphire,Post Bond Clean,3864.0,3912.0
+1242,Sapphire,Clean & Classify,4200.0,4248.0
+1242,Sapphire,MAC,5064.0,5064.0
+1242,Sapphire,LastTouchups,5064.0,5064.0
+1242,Sapphire,Cure Times.ShipCureDate,5064.0,5232.0
+1243,Sapphire,Fit-Check,3816.0,3696.0
+1243,Sapphire,Bonded,3744.0,3840.0
+1243,Sapphire,Vacuum,3840.0,3864.0
+1243,Sapphire,Post Bond Clean,3864.0,3984.0
+1243,Sapphire,Clean & Classify,4176.0,4248.0
+1243,Sapphire,MAC,5064.0,5064.0
+1243,Sapphire,LastTouchups,5064.0,5064.0
+1243,Sapphire,Cure Times.ShipCureDate,5064.0,5232.0
+1244,Sapphire,Fit-Check,3816.0,3696.0
+1244,Sapphire,Bonded,3744.0,3840.0
+1244,Sapphire,Vacuum,3840.0,3864.0
+1244,Sapphire,Post Bond Clean,3864.0,3984.0
+1244,Sapphire,Pre-CICRW,4104.0,4152.0
+1244,Sapphire,Frontside Overcoating,4152.0,4272.0
+1244,Sapphire,Clean & Classify,4272.0,4344.0
+1244,Sapphire,MAC,5064.0,5064.0
+1244,Sapphire,LastTouchups,5064.0,5064.0
+1244,Sapphire,Cure Times.ShipCureDate,5064.0,5232.0
+1245,Sapphire,Fit-Check,3816.0,3696.0
+1245,Sapphire,Bonded,3744.0,3840.0
+1245,Sapphire,Vacuum,3840.0,3864.0
+1245,Sapphire,Post Bond Clean,3864.0,4008.0
+1245,Sapphire,Clean & Classify,4200.0,4248.0
+1245,Sapphire,MAC,5160.0,5160.0
+1245,Sapphire,LastTouchups,5160.0,5160.0
+1245,Sapphire,Cure Times.ShipCureDate,5160.0,5328.0
+1247,Sapphire,Fit-Check,3816.0,3720.0
+1247,Sapphire,Bonded,3744.0,3840.0
+1247,Sapphire,Vacuum,3840.0,3864.0
+1247,Sapphire,Post Bond Clean,3864.0,4008.0
+1247,Sapphire,Clean & Classify,4200.0,4320.0
+1247,Sapphire,MAC,5064.0,5064.0
+1247,Sapphire,LastTouchups,5064.0,5064.0
+1247,Sapphire,Cure Times.ShipCureDate,5064.0,5232.0
+1248,Sapphire,Fit-Check,3816.0,3720.0
+1248,Sapphire,Bonded,3864.0,3864.0
+1248,Sapphire,Vacuum,3864.0,3888.0
+1248,Sapphire,Post Bond Clean,3888.0,4032.0
+1248,Sapphire,Clean & Classify,4200.0,4368.0
+1248,Sapphire,MAC,5424.0,5448.0
+1248,Sapphire,LastTouchups,5448.0,5448.0
+1248,Sapphire,Cure Times.ShipCureDate,5448.0,5616.0
+1249,Sapphire,Fit-Check,3840.0,3720.0
+1249,Sapphire,Bonded,3864.0,3864.0
+1249,Sapphire,Vacuum,3864.0,3888.0
+1249,Sapphire,Post Bond Clean,3888.0,3936.0
+1249,Sapphire,Clean & Classify,4272.0,4368.0
+1249,Sapphire,MAC,5064.0,5064.0
+1249,Sapphire,LastTouchups,5064.0,5064.0
+1249,Sapphire,Cure Times.ShipCureDate,5064.0,4584.0
+1250,Sapphire,Fit-Check,3840.0,3840.0
+1250,Sapphire,Bonded,3864.0,3864.0
+1250,Sapphire,Vacuum,3864.0,3888.0
+1250,Sapphire,Post Bond Clean,3888.0,4032.0
+1250,Sapphire,Clean & Classify,4272.0,4368.0
+1250,Sapphire,MAC,5064.0,5064.0
+1250,Sapphire,LastTouchups,5064.0,5064.0
+1250,Sapphire,Cure Times.ShipCureDate,5064.0,4584.0
+1251,Sapphire,Fit-Check,3840.0,3840.0
+1251,Sapphire,Bonded,3888.0,3888.0
+1251,Sapphire,Vacuum,3888.0,3936.0
+1251,Sapphire,Post Bond Clean,3936.0,4488.0
+1251,Sapphire,Pre-CICRW,4104.0,4152.0
+1251,Sapphire,Frontside Overcoating,4152.0,4176.0
+1251,Sapphire,Clean & Classify,4176.0,4368.0
+1251,Sapphire,MAC,5064.0,5088.0
+1251,Sapphire,LastTouchups,5088.0,5088.0
+1251,Sapphire,Cure Times.ShipCureDate,5088.0,4584.0
+1252,Sapphire,Fit-Check,3840.0,3840.0
+1252,Sapphire,Bonded,3888.0,3888.0
+1252,Sapphire,Vacuum,3888.0,3936.0
+1252,Sapphire,Post Bond Clean,3936.0,4032.0
+1252,Sapphire,Clean & Classify,4272.0,4488.0
+1252,Sapphire,MAC,5088.0,5184.0
+1252,Sapphire,LastTouchups,5184.0,5184.0
+1252,Sapphire,Cure Times.ShipCureDate,5184.0,4584.0
+1253,Sapphire,Fit-Check,3840.0,3840.0
+1253,Sapphire,Bonded,3888.0,3888.0
+1253,Sapphire,Vacuum,3888.0,3936.0
+1253,Sapphire,Post Bond Clean,3936.0,4032.0
+1253,Sapphire,Clean & Classify,4320.0,4392.0
+1253,Sapphire,MAC,5160.0,5160.0
+1253,Sapphire,LastTouchups,5160.0,5160.0
+1253,Sapphire,Cure Times.ShipCureDate,5160.0,5328.0
+1254,Sapphire,Fit-Check,3840.0,3840.0
+1254,Sapphire,Bonded,3888.0,3912.0
+1254,Sapphire,Vacuum,3912.0,3936.0
+1254,Sapphire,Post Bond Clean,3936.0,4032.0
+1254,Sapphire,Pre-CICRW,4080.0,4152.0
+1254,Sapphire,Frontside Overcoating,4152.0,4344.0
+1254,Sapphire,Clean & Classify,4344.0,4392.0
+1254,Sapphire,MAC,5064.0,5088.0
+1254,Sapphire,LastTouchups,5088.0,5088.0
+1254,Sapphire,Cure Times.ShipCureDate,5088.0,4608.0
+1255,Sapphire,Fit-Check,3888.0,3840.0
+1255,Sapphire,Bonded,3888.0,3912.0
+1255,Sapphire,Vacuum,3912.0,3936.0
+1255,Sapphire,Post Bond Clean,3936.0,4056.0
+1255,Sapphire,Clean & Classify,4416.0,4488.0
+1255,Sapphire,MAC,5088.0,5160.0
+1255,Sapphire,LastTouchups,5160.0,5160.0
+1255,Sapphire,Cure Times.ShipCureDate,5160.0,5328.0
+1256,Sapphire,Fit-Check,3888.0,3840.0
+1256,Sapphire,Bonded,3888.0,3912.0
+1256,Sapphire,Vacuum,3912.0,3936.0
+1256,Sapphire,Post Bond Clean,3936.0,4056.0
+1256,Sapphire,Clean & Classify,4320.0,4392.0
+1256,Sapphire,MAC,5064.0,5088.0
+1256,Sapphire,LastTouchups,5088.0,5088.0
+1256,Sapphire,Cure Times.ShipCureDate,5088.0,4608.0
+1257,Sapphire,Fit-Check,3888.0,3840.0
+1257,Sapphire,Bonded,3888.0,3984.0
+1257,Sapphire,Vacuum,3984.0,4008.0
+1257,Sapphire,Post Bond Clean,4008.0,4056.0
+1257,Sapphire,Clean & Classify,4320.0,4392.0
+1257,Sapphire,MAC,5064.0,5088.0
+1257,Sapphire,LastTouchups,5088.0,5088.0
+1257,Sapphire,Cure Times.ShipCureDate,5088.0,4584.0
+1258,Sapphire,Fit-Check,3888.0,3840.0
+1258,Sapphire,Bonded,3888.0,3984.0
+1258,Sapphire,Vacuum,3984.0,4008.0
+1258,Sapphire,Post Bond Clean,4008.0,4056.0
+1258,Sapphire,Pre-CICRW,5040.0,5064.0
+1258,Sapphire,Frontside Overcoating,5064.0,4320.0
+1258,Sapphire,Clean & Classify,4320.0,4392.0
+1258,Sapphire,MAC,5232.0,5256.0
+1258,Sapphire,LastTouchups,5256.0,5256.0
+1258,Sapphire,Cure Times.ShipCureDate,5256.0,5424.0
+1259,Sapphire,Fit-Check,3888.0,3840.0
+1259,Sapphire,Bonded,3888.0,3984.0
+1259,Sapphire,Vacuum,3984.0,4008.0
+1259,Sapphire,Post Bond Clean,4008.0,4056.0
+1259,Sapphire,Pre-CICRW,4104.0,4152.0
+1259,Sapphire,Frontside Overcoating,4152.0,4344.0
+1259,Sapphire,Clean & Classify,4344.0,4392.0
+1259,Sapphire,MAC,5064.0,5184.0
+1259,Sapphire,LastTouchups,5184.0,5184.0
+1259,Sapphire,Cure Times.ShipCureDate,5184.0,4608.0
+1260,Sapphire,Fit-Check,3864.0,3840.0
+1260,Sapphire,Bonded,3888.0,3984.0
+1260,Sapphire,Vacuum,3984.0,4008.0
+1260,Sapphire,Post Bond Clean,4008.0,4032.0
+1260,Sapphire,Clean & Classify,4344.0,4392.0
+1260,Sapphire,MAC,5232.0,5256.0
+1260,Sapphire,LastTouchups,5256.0,5256.0
+1260,Sapphire,Cure Times.ShipCureDate,5256.0,5424.0
+1261,Sapphire,Fit-Check,3888.0,3840.0
+1261,Sapphire,Bonded,3888.0,3984.0
+1261,Sapphire,Vacuum,3984.0,4008.0
+1261,Sapphire,Post Bond Clean,4008.0,4032.0
+1261,Sapphire,Clean & Classify,4104.0,4176.0
+1261,Sapphire,MAC,5088.0,5184.0
+1261,Sapphire,LastTouchups,5184.0,5184.0
+1261,Sapphire,Cure Times.ShipCureDate,5184.0,4440.0
+1262,Sapphire,Fit-Check,3888.0,3864.0
+1262,Sapphire,Bonded,3888.0,3984.0
+1262,Sapphire,Vacuum,3984.0,4008.0
+1262,Sapphire,Post Bond Clean,4008.0,4032.0
+1262,Sapphire,Clean & Classify,4104.0,4176.0
+1262,Sapphire,MAC,5088.0,5112.0
+1262,Sapphire,LastTouchups,5112.0,5184.0
+1262,Sapphire,Cure Times.ShipCureDate,5184.0,4440.0
+1263,Sapphire,Fit-Check,3888.0,3864.0
+1263,Sapphire,Bonded,3888.0,4008.0
+1263,Sapphire,Vacuum,4008.0,4056.0
+1263,Sapphire,Post Bond Clean,4056.0,4056.0
+1263,Sapphire,Clean & Classify,4104.0,4176.0
+1263,Sapphire,MAC,5088.0,5112.0
+1263,Sapphire,LastTouchups,5112.0,5184.0
+1263,Sapphire,Cure Times.ShipCureDate,5184.0,4440.0
+1264,Sapphire,Fit-Check,3888.0,3864.0
+1264,Sapphire,Bonded,3888.0,4008.0
+1264,Sapphire,Vacuum,4008.0,4056.0
+1264,Sapphire,Post Bond Clean,4056.0,4056.0
+1264,Sapphire,Pre-CICRW,4104.0,4152.0
+1264,Sapphire,Frontside Overcoating,4152.0,4200.0
+1264,Sapphire,Clean & Classify,4200.0,4416.0
+1264,Sapphire,MAC,5088.0,5112.0
+1264,Sapphire,LastTouchups,5112.0,5184.0
+1264,Sapphire,Cure Times.ShipCureDate,5184.0,4416.0
+1265,Sapphire,Fit-Check,3888.0,3888.0
+1265,Sapphire,Bonded,3912.0,4008.0
+1265,Sapphire,Vacuum,4008.0,4056.0
+1265,Sapphire,Post Bond Clean,4056.0,4056.0
+1265,Sapphire,Pre-CICRW,4224.0,4200.0
+1265,Sapphire,Frontside Overcoating,4200.0,4344.0
+1265,Sapphire,Clean & Classify,4344.0,4488.0
+1265,Sapphire,MAC,5088.0,5112.0
+1265,Sapphire,LastTouchups,5112.0,5160.0
+1265,Sapphire,Cure Times.ShipCureDate,5160.0,5328.0
+1266,Sapphire,Fit-Check,3912.0,3888.0
+1266,Sapphire,Bonded,3912.0,4008.0
+1266,Sapphire,Vacuum,4008.0,4056.0
+1266,Sapphire,Post Bond Clean,4056.0,4056.0
+1266,Sapphire,Pre-CICRW,4152.0,4200.0
+1266,Sapphire,Frontside Overcoating,4200.0,4368.0
+1266,Sapphire,Clean & Classify,4368.0,4416.0
+1266,Sapphire,MAC,5088.0,5112.0
+1266,Sapphire,LastTouchups,5112.0,5160.0
+1266,Sapphire,Cure Times.ShipCureDate,5160.0,5328.0
+1267,Sapphire,Fit-Check,3912.0,3888.0
+1267,Sapphire,Bonded,3912.0,4008.0
+1267,Sapphire,Vacuum,4008.0,4056.0
+1267,Sapphire,Post Bond Clean,4056.0,4080.0
+1267,Sapphire,Pre-CICRW,5040.0,5088.0
+1267,Sapphire,Frontside Overcoating,5088.0,4176.0
+1267,Sapphire,Clean & Classify,4176.0,4320.0
+1267,Sapphire,MAC,5232.0,5256.0
+1267,Sapphire,LastTouchups,5256.0,5256.0
+1267,Sapphire,Cure Times.ShipCureDate,5256.0,5424.0
+1268,Sapphire,Fit-Check,3912.0,3912.0
+1268,Sapphire,Bonded,3984.0,4008.0
+1268,Sapphire,Vacuum,4008.0,4056.0
+1268,Sapphire,Post Bond Clean,4056.0,4080.0
+1268,Sapphire,Clean & Classify,4176.0,4320.0
+1268,Sapphire,MAC,5160.0,5160.0
+1268,Sapphire,LastTouchups,5160.0,5160.0
+1268,Sapphire,Cure Times.ShipCureDate,5160.0,5328.0
+1269,Sapphire,Fit-Check,3912.0,3912.0
+1269,Sapphire,Bonded,3984.0,4056.0
+1269,Sapphire,Vacuum,4056.0,4080.0
+1269,Sapphire,Post Bond Clean,4080.0,4152.0
+1269,Sapphire,Clean & Classify,4440.0,4440.0
+1269,Sapphire,MAC,5160.0,5160.0
+1269,Sapphire,LastTouchups,5160.0,5160.0
+1269,Sapphire,Cure Times.ShipCureDate,5160.0,5328.0
+1270,Sapphire,Fit-Check,3912.0,3912.0
+1270,Sapphire,Bonded,3984.0,4056.0
+1270,Sapphire,Vacuum,4056.0,4080.0
+1270,Sapphire,Post Bond Clean,4080.0,4152.0
+1270,Sapphire,Pre-CICRW,4176.0,4200.0
+1270,Sapphire,Frontside Overcoating,4200.0,4440.0
+1270,Sapphire,Clean & Classify,4440.0,4512.0
+1270,Sapphire,MAC,5376.0,5400.0
+1270,Sapphire,LastTouchups,5400.0,5496.0
+1270,Sapphire,Cure Times.ShipCureDate,5496.0,4608.0
+1271,Sapphire,Fit-Check,3912.0,3912.0
+1271,Sapphire,Bonded,3984.0,4056.0
+1271,Sapphire,Vacuum,4056.0,4080.0
+1271,Sapphire,Post Bond Clean,4080.0,4152.0
+1271,Sapphire,Pre-CICRW,4176.0,4200.0
+1271,Sapphire,Frontside Overcoating,4200.0,4416.0
+1271,Sapphire,Clean & Classify,4416.0,4512.0
+1271,Sapphire,MAC,5376.0,5400.0
+1271,Sapphire,LastTouchups,5400.0,5496.0
+1271,Sapphire,Cure Times.ShipCureDate,5496.0,4680.0
+1272,Sapphire,Fit-Check,3912.0,4008.0
+1272,Sapphire,Bonded,4032.0,4056.0
+1272,Sapphire,Vacuum,4056.0,4104.0
+1272,Sapphire,Post Bond Clean,4104.0,4152.0
+1272,Sapphire,Clean & Classify,4416.0,4512.0
+1272,Sapphire,MAC,5376.0,5400.0
+1272,Sapphire,LastTouchups,5400.0,5496.0
+1272,Sapphire,Cure Times.ShipCureDate,5496.0,4584.0
+1273,Sapphire,Fit-Check,3936.0,4008.0
+1273,Sapphire,Bonded,4032.0,4056.0
+1273,Sapphire,Vacuum,4056.0,4104.0
+1273,Sapphire,Post Bond Clean,4104.0,4176.0
+1273,Sapphire,Pre-CICRW,5232.0,5280.0
+1273,Sapphire,Frontside Overcoating,5280.0,4416.0
+1273,Sapphire,Clean & Classify,4416.0,4512.0
+1273,Sapphire,MAC,5376.0,5400.0
+1273,Sapphire,LastTouchups,5400.0,5496.0
+1273,Sapphire,Cure Times.ShipCureDate,5496.0,5424.0
+1274,Sapphire,Fit-Check,3936.0,4008.0
+1274,Sapphire,Bonded,4032.0,4056.0
+1274,Sapphire,Vacuum,4056.0,4104.0
+1274,Sapphire,Post Bond Clean,4104.0,4176.0
+1274,Sapphire,Clean & Classify,4488.0,4536.0
+1274,Sapphire,MAC,5376.0,5400.0
+1274,Sapphire,LastTouchups,5400.0,5400.0
+1274,Sapphire,Cure Times.ShipCureDate,5400.0,5568.0
+1275,Sapphire,Fit-Check,3984.0,4008.0
+1275,Sapphire,Bonded,4032.0,4080.0
+1275,Sapphire,Vacuum,4080.0,4104.0
+1275,Sapphire,Post Bond Clean,4104.0,4152.0
+1275,Sapphire,Clean & Classify,4440.0,4512.0
+1275,Sapphire,MAC,5376.0,5400.0
+1275,Sapphire,LastTouchups,5400.0,5400.0
+1275,Sapphire,Cure Times.ShipCureDate,5400.0,5568.0
+1276,Sapphire,Fit-Check,3984.0,4008.0
+1276,Sapphire,Bonded,4032.0,4080.0
+1276,Sapphire,Vacuum,4080.0,4104.0
+1276,Sapphire,Post Bond Clean,4104.0,4176.0
+1276,Sapphire,Pre-CICRW,5232.0,5280.0
+1276,Sapphire,Frontside Overcoating,5280.0,4440.0
+1276,Sapphire,Clean & Classify,4440.0,4512.0
+1276,Sapphire,MAC,5400.0,5400.0
+1276,Sapphire,LastTouchups,5400.0,5400.0
+1276,Sapphire,Cure Times.ShipCureDate,5400.0,5616.0
+1277,Sapphire,Fit-Check,3984.0,4008.0
+1277,Sapphire,Bonded,4080.0,4080.0
+1277,Sapphire,Vacuum,4080.0,4104.0
+1277,Sapphire,Post Bond Clean,4104.0,4176.0
+1277,Sapphire,Clean & Classify,4440.0,4512.0
+1277,Sapphire,MAC,5400.0,5400.0
+1277,Sapphire,LastTouchups,5400.0,5400.0
+1277,Sapphire,Cure Times.ShipCureDate,5400.0,5616.0
+1278,Sapphire,Fit-Check,4008.0,4032.0
+1278,Sapphire,Bonded,4080.0,4104.0
+1278,Sapphire,Vacuum,4104.0,4152.0
+1278,Sapphire,Post Bond Clean,4152.0,4176.0
+1278,Sapphire,Clean & Classify,4440.0,4824.0
+1278,Sapphire,MAC,5400.0,5400.0
+1278,Sapphire,LastTouchups,5400.0,5400.0
+1278,Sapphire,Cure Times.ShipCureDate,5400.0,5568.0
+1279,Sapphire,Fit-Check,4008.0,4032.0
+1279,Sapphire,Bonded,4080.0,4104.0
+1279,Sapphire,Vacuum,4104.0,4152.0
+1279,Sapphire,Post Bond Clean,4152.0,4176.0
+1279,Sapphire,Clean & Classify,4488.0,4560.0
+1279,Sapphire,MAC,5424.0,5448.0
+1279,Sapphire,LastTouchups,5448.0,5448.0
+1279,Sapphire,Cure Times.ShipCureDate,5448.0,5616.0
+1280,Sapphire,Fit-Check,4056.0,4032.0
+1280,Sapphire,Bonded,4080.0,4104.0
+1280,Sapphire,Vacuum,4104.0,4152.0
+1280,Sapphire,Post Bond Clean,4152.0,4176.0
+1280,Sapphire,Clean & Classify,4488.0,4560.0
+1280,Sapphire,MAC,5400.0,5400.0
+1280,Sapphire,LastTouchups,5400.0,5400.0
+1280,Sapphire,Cure Times.ShipCureDate,5400.0,5568.0
+1281,Sapphire,Fit-Check,4056.0,4032.0
+1281,Sapphire,Bonded,4080.0,4152.0
+1281,Sapphire,Vacuum,4152.0,4176.0
+1281,Sapphire,Post Bond Clean,4176.0,4200.0
+1281,Sapphire,Clean & Classify,4488.0,4536.0
+1281,Sapphire,MAC,5400.0,5400.0
+1281,Sapphire,LastTouchups,5400.0,5400.0
+1281,Sapphire,Cure Times.ShipCureDate,5400.0,5616.0
+1282,Sapphire,Fit-Check,4056.0,4032.0
+1282,Sapphire,Bonded,4080.0,4152.0
+1282,Sapphire,Vacuum,4152.0,4176.0
+1282,Sapphire,Post Bond Clean,4176.0,4200.0
+1282,Sapphire,Clean & Classify,4488.0,4560.0
+1282,Sapphire,MAC,5400.0,5400.0
+1282,Sapphire,LastTouchups,5400.0,5400.0
+1282,Sapphire,Cure Times.ShipCureDate,5400.0,5616.0
+1283,Sapphire,Fit-Check,4056.0,4032.0
+1283,Sapphire,Bonded,4080.0,4152.0
+1283,Sapphire,Vacuum,4152.0,4176.0
+1283,Sapphire,Post Bond Clean,4176.0,4200.0
+1283,Sapphire,Pre-CICRW,5256.0,5328.0
+1283,Sapphire,Frontside Overcoating,5328.0,4488.0
+1283,Sapphire,Clean & Classify,4488.0,4560.0
+1283,Sapphire,MAC,5424.0,5448.0
+1283,Sapphire,LastTouchups,5448.0,5448.0
+1283,Sapphire,Cure Times.ShipCureDate,5448.0,5616.0
+1284,Sapphire,Fit-Check,4080.0,4056.0
+1284,Sapphire,Bonded,4080.0,4152.0
+1284,Sapphire,Vacuum,4152.0,4176.0
+1284,Sapphire,Post Bond Clean,4176.0,4200.0
+1284,Sapphire,Pre-CICRW,5232.0,5280.0
+1284,Sapphire,Frontside Overcoating,5280.0,4512.0
+1284,Sapphire,Clean & Classify,4512.0,4584.0
+1284,Sapphire,MAC,5400.0,5400.0
+1284,Sapphire,LastTouchups,5400.0,5400.0
+1284,Sapphire,Cure Times.ShipCureDate,5400.0,5568.0
+1285,Sapphire,Fit-Check,4080.0,4056.0
+1285,Sapphire,Bonded,4080.0,4152.0
+1285,Sapphire,Vacuum,4152.0,4176.0
+1285,Sapphire,Post Bond Clean,4176.0,4224.0
+1285,Sapphire,Clean & Classify,4512.0,4680.0
+1285,Sapphire,MAC,5400.0,5400.0
+1285,Sapphire,LastTouchups,5400.0,5400.0
+1285,Sapphire,Cure Times.ShipCureDate,5400.0,5568.0
+1286,Sapphire,Fit-Check,4080.0,4056.0
+1286,Sapphire,Bonded,4080.0,4152.0
+1286,Sapphire,Vacuum,4152.0,4176.0
+1286,Sapphire,Post Bond Clean,4176.0,4224.0
+1286,Sapphire,Clean & Classify,4512.0,4680.0
+1286,Sapphire,MAC,5400.0,5424.0
+1286,Sapphire,LastTouchups,5424.0,5424.0
+1286,Sapphire,Cure Times.ShipCureDate,5424.0,5616.0
+1287,Sapphire,Fit-Check,4080.0,4056.0
+1287,Sapphire,Bonded,4080.0,4176.0
+1287,Sapphire,Vacuum,4176.0,4200.0
+1287,Sapphire,Post Bond Clean,4200.0,4368.0
+1287,Sapphire,Clean & Classify,4512.0,4680.0
+1287,Sapphire,MAC,5424.0,5448.0
+1287,Sapphire,LastTouchups,5448.0,5448.0
+1287,Sapphire,Cure Times.ShipCureDate,5448.0,5616.0
+1288,Sapphire,Fit-Check,4080.0,4056.0
+1288,Sapphire,Bonded,4080.0,4176.0
+1288,Sapphire,Vacuum,4176.0,4200.0
+1288,Sapphire,Post Bond Clean,4200.0,4512.0
+1288,Sapphire,Pre-CICRW,5232.0,5280.0
+1288,Sapphire,Frontside Overcoating,5280.0,4536.0
+1288,Sapphire,Clean & Classify,4536.0,4680.0
+1288,Sapphire,MAC,5856.0,5880.0
+1288,Sapphire,LastTouchups,5880.0,5880.0
+1288,Sapphire,Cure Times.ShipCureDate,5880.0,6048.0
+1289,Sapphire,Fit-Check,4152.0,4056.0
+1289,Sapphire,Bonded,4080.0,4176.0
+1289,Sapphire,Vacuum,4176.0,4200.0
+1289,Sapphire,Post Bond Clean,4200.0,4368.0
+1289,Sapphire,Clean & Classify,4512.0,4680.0
+1289,Sapphire,MAC,5424.0,5424.0
+1289,Sapphire,LastTouchups,5424.0,5496.0
+1289,Sapphire,Cure Times.ShipCureDate,5496.0,4680.0
+1290,Sapphire,Fit-Check,4152.0,4104.0
+1290,Sapphire,Bonded,4176.0,4200.0
+1290,Sapphire,Vacuum,4200.0,4224.0
+1290,Sapphire,Post Bond Clean,4224.0,4320.0
+1290,Sapphire,Pre-CICRW,5232.0,5280.0
+1290,Sapphire,Frontside Overcoating,5280.0,4536.0
+1290,Sapphire,Clean & Classify,4536.0,4680.0
+1290,Sapphire,MAC,5424.0,5448.0
+1290,Sapphire,LastTouchups,5448.0,5448.0
+1290,Sapphire,Cure Times.ShipCureDate,5448.0,5616.0
+1291,Sapphire,Fit-Check,4152.0,4104.0
+1291,Sapphire,Bonded,4152.0,4200.0
+1291,Sapphire,Vacuum,4200.0,4224.0
+1291,Sapphire,Post Bond Clean,4224.0,4440.0
+1291,Sapphire,Clean & Classify,4536.0,4680.0
+1291,Sapphire,MAC,5424.0,5424.0
+1291,Sapphire,LastTouchups,5424.0,5496.0
+1291,Sapphire,Cure Times.ShipCureDate,5496.0,4848.0
+1292,Sapphire,Fit-Check,4152.0,4104.0
+1292,Sapphire,Bonded,4152.0,4200.0
+1292,Sapphire,Vacuum,4200.0,4224.0
+1292,Sapphire,Post Bond Clean,4224.0,4440.0
+1292,Sapphire,Clean & Classify,4536.0,4680.0
+1292,Sapphire,MAC,5424.0,5424.0
+1292,Sapphire,LastTouchups,5424.0,5496.0
+1292,Sapphire,Cure Times.ShipCureDate,5496.0,4704.0
+1293,Sapphire,Fit-Check,4152.0,4152.0
+1293,Sapphire,Bonded,4152.0,4200.0
+1293,Sapphire,Vacuum,4200.0,4248.0
+1293,Sapphire,Post Bond Clean,4248.0,4440.0
+1293,Sapphire,Clean & Classify,4536.0,4680.0
+1293,Sapphire,MAC,5448.0,5856.0
+1293,Sapphire,LastTouchups,5856.0,5880.0
+1293,Sapphire,Cure Times.ShipCureDate,5880.0,6048.0
+1294,Sapphire,Fit-Check,4152.0,4152.0
+1294,Sapphire,Bonded,4152.0,4200.0
+1294,Sapphire,Vacuum,4200.0,4248.0
+1294,Sapphire,Post Bond Clean,4248.0,4488.0
+1294,Sapphire,Clean & Classify,4536.0,4680.0
+1294,Sapphire,MAC,5424.0,5520.0
+1294,Sapphire,LastTouchups,5520.0,5520.0
+1294,Sapphire,Cure Times.ShipCureDate,5520.0,4848.0
+1295,Sapphire,Fit-Check,4152.0,4152.0
+1295,Sapphire,Bonded,4152.0,4200.0
+1295,Sapphire,Vacuum,4200.0,4248.0
+1295,Sapphire,Post Bond Clean,4248.0,4488.0
+1295,Sapphire,Clean & Classify,4560.0,4824.0
+1295,Sapphire,MAC,5424.0,5520.0
+1295,Sapphire,LastTouchups,5520.0,5520.0
+1295,Sapphire,Cure Times.ShipCureDate,5520.0,5688.0
+1296,Sapphire,Fit-Check,4152.0,4152.0
+1296,Sapphire,Bonded,6072.0,4224.0
+1296,Sapphire,Vacuum,4224.0,4248.0
+1296,Sapphire,Post Bond Clean,4248.0,4488.0
+1296,Sapphire,Pre-CICRW,4920.0,4992.0
+1296,Sapphire,Frontside Overcoating,4992.0,4560.0
+1296,Sapphire,Clean & Classify,4560.0,5016.0
+1296,Sapphire,MAC,6216.0,6216.0
+1296,Sapphire,LastTouchups,6216.0,6216.0
+1296,Sapphire,Cure Times.ShipCureDate,6216.0,6240.0
+1297,Sapphire,Fit-Check,4176.0,4152.0
+1297,Sapphire,Bonded,4176.0,4224.0
+1297,Sapphire,Vacuum,4224.0,4248.0
+1297,Sapphire,Post Bond Clean,4248.0,4512.0
+1297,Sapphire,Clean & Classify,4560.0,4824.0
+1297,Sapphire,MAC,5856.0,5880.0
+1297,Sapphire,LastTouchups,5880.0,5880.0
+1297,Sapphire,Cure Times.ShipCureDate,5880.0,6048.0
+1298,Sapphire,Fit-Check,4824.0,4152.0
+1298,Sapphire,Bonded,4176.0,4224.0
+1298,Sapphire,Vacuum,4224.0,4248.0
+1298,Sapphire,Post Bond Clean,4248.0,4512.0
+1298,Sapphire,Clean & Classify,4560.0,4824.0
+1298,Sapphire,MAC,5448.0,5856.0
+1298,Sapphire,LastTouchups,5856.0,5880.0
+1298,Sapphire,Cure Times.ShipCureDate,5880.0,6048.0
+1299,Sapphire,Fit-Check,4248.0,4152.0
+1299,Sapphire,Bonded,4176.0,4248.0
+1299,Sapphire,Vacuum,4248.0,4320.0
+1299,Sapphire,Post Bond Clean,4320.0,4512.0
+1299,Sapphire,Pre-CICRW,5232.0,5280.0
+1299,Sapphire,Frontside Overcoating,5280.0,4560.0
+1299,Sapphire,Clean & Classify,4560.0,4824.0
+1299,Sapphire,MAC,5424.0,5520.0
+1299,Sapphire,LastTouchups,5520.0,5520.0
+1299,Sapphire,Cure Times.ShipCureDate,5520.0,5688.0
+1300,Sapphire,Fit-Check,4248.0,4152.0
+1300,Sapphire,Bonded,4176.0,4248.0
+1300,Sapphire,Vacuum,4248.0,4320.0
+1300,Sapphire,Post Bond Clean,4320.0,4512.0
+1300,Sapphire,Pre-CICRW,4944.0,4992.0
+1300,Sapphire,Frontside Overcoating,4992.0,4560.0
+1300,Sapphire,Clean & Classify,4560.0,4824.0
+1300,Sapphire,MAC,6192.0,6216.0
+1300,Sapphire,LastTouchups,6216.0,6216.0
+1300,Sapphire,Cure Times.ShipCureDate,6216.0,6384.0
+1301,Sapphire,Fit-Check,4248.0,4152.0
+1301,Sapphire,Bonded,4176.0,4248.0
+1301,Sapphire,Vacuum,4248.0,4320.0
+1301,Sapphire,Post Bond Clean,4320.0,4512.0
+1301,Sapphire,Clean & Classify,4560.0,4824.0
+1301,Sapphire,MAC,5448.0,5856.0
+1301,Sapphire,LastTouchups,5856.0,6384.0
+1301,Sapphire,Cure Times.ShipCureDate,6384.0,4728.0
+1302,Sapphire,Fit-Check,4248.0,4176.0
+1302,Sapphire,Bonded,4200.0,4344.0
+1302,Sapphire,Vacuum,4344.0,4368.0
+1302,Sapphire,Post Bond Clean,4368.0,4560.0
+1302,Sapphire,Clean & Classify,4752.0,4824.0
+1302,Sapphire,MAC,5424.0,5520.0
+1302,Sapphire,LastTouchups,5520.0,5520.0
+1302,Sapphire,Cure Times.ShipCureDate,5520.0,5688.0
+1303,Sapphire,Fit-Check,4248.0,4176.0
+1303,Sapphire,Bonded,4200.0,4344.0
+1303,Sapphire,Vacuum,4344.0,4368.0
+1303,Sapphire,Post Bond Clean,4368.0,4560.0
+1303,Sapphire,Clean & Classify,4752.0,4824.0
+1303,Sapphire,MAC,5448.0,5856.0
+1303,Sapphire,LastTouchups,5856.0,6384.0
+1303,Sapphire,Cure Times.ShipCureDate,6384.0,4920.0
+1304,Sapphire,Fit-Check,4248.0,4176.0
+1304,Sapphire,Bonded,4200.0,4344.0
+1304,Sapphire,Vacuum,4344.0,4368.0
+1304,Sapphire,Post Bond Clean,4368.0,4560.0
+1304,Sapphire,Pre-CICRW,5232.0,5280.0
+1304,Sapphire,Frontside Overcoating,5280.0,4752.0
+1304,Sapphire,Clean & Classify,4752.0,4872.0
+1304,Sapphire,MAC,5424.0,5520.0
+1304,Sapphire,LastTouchups,5520.0,5520.0
+1304,Sapphire,Cure Times.ShipCureDate,5520.0,5688.0
+1305,Sapphire,Fit-Check,4848.0,4200.0
+1305,Sapphire,Bonded,4224.0,4344.0
+1305,Sapphire,Vacuum,4344.0,4368.0
+1305,Sapphire,Post Bond Clean,4368.0,4584.0
+1305,Sapphire,Pre-CICRW,5256.0,5328.0
+1305,Sapphire,Frontside Overcoating,5328.0,4752.0
+1305,Sapphire,Clean & Classify,4752.0,4824.0
+1305,Sapphire,MAC,5448.0,5856.0
+1305,Sapphire,LastTouchups,5856.0,6216.0
+1305,Sapphire,Cure Times.ShipCureDate,6216.0,6384.0
+1306,Sapphire,Fit-Check,5160.0,4200.0
+1306,Sapphire,Bonded,4224.0,4344.0
+1306,Sapphire,Vacuum,4344.0,4368.0
+1306,Sapphire,Post Bond Clean,4368.0,4584.0
+1306,Sapphire,Clean & Classify,4872.0,4944.0
+1306,Sapphire,MAC,5856.0,5880.0
+1306,Sapphire,LastTouchups,5880.0,6384.0
+1306,Sapphire,Cure Times.ShipCureDate,6384.0,5040.0
+1307,Sapphire,Fit-Check,5160.0,4200.0
+1307,Sapphire,Bonded,4224.0,4344.0
+1307,Sapphire,Vacuum,4344.0,4368.0
+1307,Sapphire,Post Bond Clean,4368.0,4584.0
+1307,Sapphire,Clean & Classify,4872.0,4944.0
+1307,Sapphire,MAC,5856.0,5880.0
+1307,Sapphire,LastTouchups,5880.0,5880.0
+1307,Sapphire,Cure Times.ShipCureDate,5880.0,6048.0
+1308,Sapphire,Fit-Check,5160.0,4200.0
+1308,Sapphire,Bonded,4224.0,4392.0
+1308,Sapphire,Vacuum,4392.0,4416.0
+1308,Sapphire,Post Bond Clean,4416.0,4584.0
+1308,Sapphire,Clean & Classify,4872.0,4944.0
+1308,Sapphire,MAC,5856.0,5880.0
+1308,Sapphire,LastTouchups,5880.0,5880.0
+1308,Sapphire,Cure Times.ShipCureDate,5880.0,6048.0
+1309,Sapphire,Fit-Check,5160.0,4200.0
+1309,Sapphire,Bonded,4248.0,4392.0
+1309,Sapphire,Vacuum,4392.0,4416.0
+1309,Sapphire,Post Bond Clean,4416.0,4584.0
+1309,Sapphire,Pre-CICRW,5688.0,5712.0
+1309,Sapphire,Frontside Overcoating,5712.0,4872.0
+1309,Sapphire,Clean & Classify,4872.0,4944.0
+1309,Sapphire,MAC,5856.0,5880.0
+1309,Sapphire,LastTouchups,5880.0,6384.0
+1309,Sapphire,Cure Times.ShipCureDate,6384.0,5856.0
+1310,Sapphire,Fit-Check,4944.0,4200.0
+1310,Sapphire,Bonded,4248.0,4392.0
+1310,Sapphire,Vacuum,4392.0,4416.0
+1310,Sapphire,Post Bond Clean,4416.0,4584.0
+1310,Sapphire,Clean & Classify,4896.0,4944.0
+1310,Sapphire,MAC,5856.0,5880.0
+1310,Sapphire,LastTouchups,5880.0,5880.0
+1310,Sapphire,Cure Times.ShipCureDate,5880.0,6048.0
+1311,Sapphire,Fit-Check,4368.0,4224.0
+1311,Sapphire,Bonded,4368.0,4392.0
+1311,Sapphire,Vacuum,4392.0,4416.0
+1311,Sapphire,Post Bond Clean,4416.0,4608.0
+1311,Sapphire,Pre-CICRW,5688.0,5712.0
+1311,Sapphire,Frontside Overcoating,5712.0,4896.0
+1311,Sapphire,Clean & Classify,4896.0,4944.0
+1311,Sapphire,MAC,5880.0,6240.0
+1311,Sapphire,LastTouchups,6240.0,6240.0
+1311,Sapphire,Cure Times.ShipCureDate,6240.0,6408.0
+1312,Sapphire,Fit-Check,4368.0,4224.0
+1312,Sapphire,Bonded,4368.0,4392.0
+1312,Sapphire,Vacuum,4392.0,4416.0
+1312,Sapphire,Post Bond Clean,4416.0,4608.0
+1312,Sapphire,Pre-CICRW,5688.0,5712.0
+1312,Sapphire,Frontside Overcoating,5712.0,4896.0
+1312,Sapphire,Clean & Classify,4896.0,4944.0
+1312,Sapphire,MAC,5880.0,5904.0
+1312,Sapphire,LastTouchups,5904.0,5928.0
+1312,Sapphire,Cure Times.ShipCureDate,5928.0,6072.0
+1313,Sapphire,Fit-Check,4368.0,4344.0
+1313,Sapphire,Bonded,4368.0,4392.0
+1313,Sapphire,Vacuum,4392.0,4416.0
+1313,Sapphire,Post Bond Clean,4416.0,4704.0
+1313,Sapphire,Clean & Classify,4896.0,4992.0
+1313,Sapphire,MAC,5880.0,5904.0
+1313,Sapphire,LastTouchups,5904.0,5928.0
+1313,Sapphire,Cure Times.ShipCureDate,5928.0,6072.0
+1314,Sapphire,Fit-Check,4368.0,4344.0
+1314,Sapphire,Bonded,4368.0,4416.0
+1314,Sapphire,Vacuum,4416.0,4440.0
+1314,Sapphire,Post Bond Clean,4440.0,4512.0
+1314,Sapphire,Clean & Classify,4896.0,4992.0
+1314,Sapphire,MAC,5880.0,5904.0
+1314,Sapphire,LastTouchups,5904.0,5928.0
+1314,Sapphire,Cure Times.ShipCureDate,5928.0,6072.0
+1315,Sapphire,Fit-Check,4368.0,4344.0
+1315,Sapphire,Bonded,4368.0,4416.0
+1315,Sapphire,Vacuum,4416.0,4440.0
+1315,Sapphire,Post Bond Clean,4440.0,4512.0
+1315,Sapphire,Clean & Classify,4896.0,5016.0
+1315,Sapphire,MAC,5880.0,5904.0
+1315,Sapphire,LastTouchups,5904.0,6384.0
+1315,Sapphire,Cure Times.ShipCureDate,6384.0,5064.0
+1316,Sapphire,Fit-Check,4392.0,4344.0
+1316,Sapphire,Bonded,4368.0,4416.0
+1316,Sapphire,Vacuum,4416.0,4440.0
+1316,Sapphire,Post Bond Clean,4440.0,4512.0
+1316,Sapphire,Clean & Classify,4536.0,4896.0
+1316,Sapphire,MAC,5880.0,5904.0
+1316,Sapphire,LastTouchups,5904.0,5928.0
+1316,Sapphire,Cure Times.ShipCureDate,5928.0,6072.0
+1317,Sapphire,Fit-Check,4392.0,4344.0
+1317,Sapphire,Bonded,4368.0,4488.0
+1317,Sapphire,Vacuum,4488.0,4512.0
+1317,Sapphire,Post Bond Clean,4512.0,4872.0
+1317,Sapphire,Pre-CICRW,5688.0,5712.0
+1317,Sapphire,Frontside Overcoating,5712.0,4896.0
+1317,Sapphire,Clean & Classify,4896.0,4992.0
+1317,Sapphire,MAC,5880.0,5904.0
+1317,Sapphire,LastTouchups,5904.0,5928.0
+1317,Sapphire,Cure Times.ShipCureDate,5928.0,6072.0
+1318,Sapphire,Fit-Check,4392.0,4344.0
+1318,Sapphire,Bonded,4368.0,4488.0
+1318,Sapphire,Vacuum,4488.0,4512.0
+1318,Sapphire,Post Bond Clean,4512.0,4872.0
+1318,Sapphire,Clean & Classify,4896.0,5016.0
+1318,Sapphire,MAC,5880.0,5904.0
+1318,Sapphire,LastTouchups,5904.0,5928.0
+1318,Sapphire,Cure Times.ShipCureDate,5928.0,6072.0
+1319,Sapphire,Fit-Check,4368.0,4368.0
+1319,Sapphire,Bonded,4368.0,4488.0
+1319,Sapphire,Vacuum,4488.0,4512.0
+1319,Sapphire,Post Bond Clean,4512.0,4872.0
+1319,Sapphire,Pre-CICRW,5688.0,5712.0
+1319,Sapphire,Frontside Overcoating,5712.0,4896.0
+1319,Sapphire,Clean & Classify,4896.0,5016.0
+1319,Sapphire,MAC,6192.0,6216.0
+1319,Sapphire,LastTouchups,6216.0,6216.0
+1319,Sapphire,Cure Times.ShipCureDate,6216.0,6384.0
+1320,Sapphire,Fit-Check,4896.0,4848.0
+1320,Sapphire,Bonded,4872.0,4896.0
+1320,Sapphire,Vacuum,4896.0,4920.0
+1320,Sapphire,Post Bond Clean,4920.0,4944.0
+1320,Sapphire,Clean & Classify,4992.0,5040.0
+1320,Sapphire,MAC,6192.0,6216.0
+1320,Sapphire,LastTouchups,6216.0,6216.0
+1320,Sapphire,Cure Times.ShipCureDate,6216.0,6384.0
+1321,Sapphire,Fit-Check,4896.0,4848.0
+1321,Sapphire,Bonded,4872.0,4896.0
+1321,Sapphire,Vacuum,4896.0,4920.0
+1321,Sapphire,Post Bond Clean,4920.0,4944.0
+1321,Sapphire,Pre-CICRW,6072.0,6096.0
+1321,Sapphire,Frontside Overcoating,6096.0,4992.0
+1321,Sapphire,Clean & Classify,4992.0,5040.0
+1321,Sapphire,MAC,6192.0,6216.0
+1321,Sapphire,LastTouchups,6216.0,6216.0
+1321,Sapphire,Cure Times.ShipCureDate,6216.0,6384.0
+1322,Sapphire,Fit-Check,4896.0,4848.0
+1322,Sapphire,Bonded,4872.0,4896.0
+1322,Sapphire,Vacuum,4896.0,4920.0
+1322,Sapphire,Post Bond Clean,4920.0,4944.0
+1322,Sapphire,Clean & Classify,4992.0,5040.0
+1322,Sapphire,MAC,6192.0,6216.0
+1322,Sapphire,LastTouchups,6216.0,6216.0
+1322,Sapphire,Cure Times.ShipCureDate,6216.0,6384.0
+1323,Sapphire,Fit-Check,13632.0,13632.0
+1323,Sapphire,Layup Sector,13632.0,13776.0
+1323,Sapphire,Welded,13776.0,13920.0
+1323,Sapphire,Bonded,13920.0,13968.0
+1323,Sapphire,Vacuum,13968.0,13992.0
+1323,Sapphire,Post Bond Clean,13992.0,14064.0
+1323,Sapphire,Clean & Classify,14280.0,14400.0
+1324,Sapphire,Fit-Check,13800.0,13776.0
+1324,Sapphire,Layup Sector,13776.0,13776.0
+1324,Sapphire,Welded,13776.0,13968.0
+1324,Sapphire,Bonded,13968.0,14088.0
+1324,Sapphire,Vacuum,14088.0,14112.0
+1324,Sapphire,Post Bond Clean,14112.0,14160.0
+1324,Sapphire,Pre-CICRemoval,14160.0,14424.0
+1324,Sapphire,Pre-CICweld,14424.0,14568.0
+1324,Sapphire,Clean & Classify,14280.0,14400.0
+1325,Sapphire,Fit-Check,13632.0,13776.0
+1325,Sapphire,Layup Sector,13776.0,13800.0
+1325,Sapphire,Welded,13800.0,13968.0
+1325,Sapphire,Bonded,13968.0,14088.0
+1325,Sapphire,Vacuum,14088.0,14112.0
+1325,Sapphire,Post Bond Clean,14112.0,14160.0
+1325,Sapphire,Clean & Classify,14280.0,14400.0
+1326,Sapphire,Fit-Check,13752.0,13776.0
+1326,Sapphire,Layup Sector,13776.0,13800.0
+1326,Sapphire,Welded,13800.0,13968.0
+1326,Sapphire,Bonded,13968.0,14112.0
+1326,Sapphire,Vacuum,14112.0,14160.0
+1326,Sapphire,Post Bond Clean,14160.0,14160.0
+1326,Sapphire,Clean & Classify,14256.0,14448.0
+1327,Sapphire,Fit-Check,13800.0,13800.0
+1327,Sapphire,Layup Sector,13800.0,13800.0
+1327,Sapphire,Welded,13800.0,13968.0
+1327,Sapphire,Bonded,13968.0,14280.0
+1327,Sapphire,Vacuum,14280.0,14304.0
+1327,Sapphire,Post Bond Clean,14304.0,14400.0
+1327,Sapphire,Pre-CICRemoval,14400.0,14424.0
+1327,Sapphire,Pre-CICweld,14424.0,14568.0
+1328,Sapphire,Fit-Check,13776.0,13800.0
+1328,Sapphire,Layup Sector,13800.0,13896.0
+1328,Sapphire,Welded,13896.0,13920.0
+1328,Sapphire,Bonded,13920.0,14160.0
+1328,Sapphire,Vacuum,14160.0,14184.0
+1328,Sapphire,Post Bond Clean,14184.0,14256.0
+1328,Sapphire,Pre-CICRemoval,14256.0,14592.0
+1328,Sapphire,Clean & Classify,14256.0,14448.0
+1329,Sapphire,Fit-Check,13824.0,14064.0
+1329,Sapphire,Layup Sector,14064.0,14088.0
+1329,Sapphire,Welded,14088.0,14136.0
+1329,Sapphire,Bonded,14136.0,14160.0
+1329,Sapphire,Vacuum,14160.0,14184.0
+1329,Sapphire,Post Bond Clean,14184.0,14256.0
+1329,Sapphire,Clean & Classify,14256.0,14472.0
+1330,Sapphire,Fit-Check,13824.0,14064.0
+1330,Sapphire,Layup Sector,14064.0,14088.0
+1330,Sapphire,Welded,14088.0,14136.0
+1330,Sapphire,Bonded,14136.0,14232.0
+1330,Sapphire,Vacuum,14232.0,14256.0
+1330,Sapphire,Post Bond Clean,14256.0,14280.0
+1330,Sapphire,Clean & Classify,14304.0,14472.0
+1331,Sapphire,Fit-Check,13824.0,14064.0
+1331,Sapphire,Layup Sector,14064.0,14064.0
+1331,Sapphire,Welded,14064.0,14136.0
+1331,Sapphire,Bonded,14136.0,14232.0
+1331,Sapphire,Vacuum,14232.0,14256.0
+1331,Sapphire,Post Bond Clean,14256.0,14304.0
+1331,Sapphire,Clean & Classify,14304.0,14472.0
+1332,Sapphire,Fit-Check,13824.0,14064.0
+1332,Sapphire,Layup Sector,14064.0,14088.0
+1332,Sapphire,Welded,14088.0,14136.0
+1332,Sapphire,Bonded,14136.0,14256.0
+1332,Sapphire,Vacuum,14256.0,14304.0
+1332,Sapphire,Post Bond Clean,14304.0,14304.0
+1332,Sapphire,Pre-CICRemoval,14304.0,14592.0
+1333,Sapphire,Fit-Check,14112.0,14112.0
+1333,Sapphire,Layup Sector,14112.0,14112.0
+1333,Sapphire,Welded,14112.0,14136.0
+1333,Sapphire,Bonded,14136.0,14256.0
+1333,Sapphire,Vacuum,14256.0,14304.0
+1333,Sapphire,Post Bond Clean,14304.0,14400.0
+1334,Sapphire,Fit-Check,14112.0,14112.0
+1334,Sapphire,Layup Sector,14112.0,14112.0
+1334,Sapphire,Welded,14112.0,14136.0
+1334,Sapphire,Bonded,14136.0,14424.0
+1334,Sapphire,Vacuum,14424.0,14448.0
+1334,Sapphire,Post Bond Clean,14448.0,14472.0
+1335,Sapphire,Fit-Check,14088.0,14112.0
+1335,Sapphire,Layup Sector,14112.0,14136.0
+1335,Sapphire,Welded,14136.0,14136.0
+1335,Sapphire,Bonded,14136.0,14280.0
+1335,Sapphire,Vacuum,14280.0,14304.0
+1335,Sapphire,Post Bond Clean,14304.0,14400.0
+1336,Sapphire,Fit-Check,14088.0,14112.0
+1336,Sapphire,Layup Sector,14112.0,14136.0
+1336,Sapphire,Welded,14136.0,14136.0
+1336,Sapphire,Bonded,14136.0,14400.0
+1336,Sapphire,Vacuum,14400.0,14424.0
+1336,Sapphire,Post Bond Clean,14424.0,14448.0
+1337,Sapphire,Fit-Check,14088.0,14112.0
+1337,Sapphire,Layup Sector,14112.0,14136.0
+1337,Sapphire,Welded,14136.0,14136.0
+1337,Sapphire,Bonded,14136.0,14400.0
+1337,Sapphire,Vacuum,14400.0,14424.0
+1337,Sapphire,Post Bond Clean,14424.0,14472.0
+1338,Sapphire,Fit-Check,14088.0,14256.0
+1338,Sapphire,Layup Sector,14256.0,14280.0
+1338,Sapphire,Welded,14280.0,14400.0
+1338,Sapphire,Bonded,14400.0,14424.0
+1338,Sapphire,Vacuum,14424.0,14448.0
+1338,Sapphire,Post Bond Clean,14448.0,14496.0
+1339,Sapphire,Fit-Check,14088.0,14256.0
+1339,Sapphire,Layup Sector,14256.0,14280.0
+1339,Sapphire,Welded,14280.0,14400.0
+1339,Sapphire,Bonded,14400.0,14472.0
+1339,Sapphire,Vacuum,14472.0,14496.0
+1339,Sapphire,Post Bond Clean,14496.0,14568.0
+1340,Sapphire,Fit-Check,14112.0,14280.0
+1340,Sapphire,Layup Sector,14280.0,14400.0
+1340,Sapphire,Welded,14400.0,14424.0
+1340,Sapphire,Bonded,14424.0,14472.0
+1340,Sapphire,Vacuum,14472.0,14496.0
+1340,Sapphire,Post Bond Clean,14496.0,14568.0
+1341,Sapphire,Fit-Check,14112.0,14280.0
+1341,Sapphire,Layup Sector,14280.0,14400.0
+1341,Sapphire,Welded,14400.0,14400.0
+1341,Sapphire,Bonded,14400.0,14472.0
+1341,Sapphire,Vacuum,14472.0,14496.0
+1341,Sapphire,Post Bond Clean,14496.0,14568.0
+1342,Sapphire,Fit-Check,14112.0,14448.0
+1342,Sapphire,Layup Sector,14448.0,14472.0
+1342,Sapphire,Welded,14472.0,14472.0
+1342,Sapphire,Bonded,14472.0,14496.0
+1342,Sapphire,Vacuum,14496.0,14568.0
+1342,Sapphire,Post Bond Clean,14568.0,14568.0
+1343,Sapphire,Fit-Check,14112.0,14280.0
+1343,Sapphire,Layup Sector,14280.0,14400.0
+1343,Sapphire,Welded,14400.0,14400.0
+1343,Sapphire,Bonded,14400.0,14496.0
+1343,Sapphire,Vacuum,14496.0,14568.0
+1343,Sapphire,Post Bond Clean,14568.0,14616.0
+1344,Sapphire,Fit-Check,14112.0,14280.0
+1344,Sapphire,Layup Sector,14280.0,14400.0
+1344,Sapphire,Welded,14400.0,14424.0
+1344,Sapphire,Bonded,14424.0,14496.0
+1344,Sapphire,Vacuum,14496.0,14568.0
+1345,Sapphire,Fit-Check,14112.0,14472.0
+1345,Sapphire,Layup Sector,14472.0,14568.0
+1345,Sapphire,Welded,14568.0,14568.0
+1345,Sapphire,Bonded,14568.0,14592.0
+1346,Sapphire,Fit-Check,14424.0,14448.0
+1346,Sapphire,Layup Sector,14448.0,14472.0
+1346,Sapphire,Welded,14472.0,14472.0
+1346,Sapphire,Bonded,14472.0,14568.0
+1346,Sapphire,Vacuum,14568.0,14592.0
+1347,Sapphire,Fit-Check,14424.0,14448.0
+1347,Sapphire,Layup Sector,14448.0,14472.0
+1347,Sapphire,Welded,14472.0,14472.0
+1347,Sapphire,Bonded,14472.0,14568.0
+1347,Sapphire,Vacuum,14568.0,14592.0
+1348,Sapphire,Fit-Check,14448.0,14448.0
+1348,Sapphire,Layup Sector,14448.0,14496.0
+1348,Sapphire,Welded,14496.0,14496.0
+1348,Sapphire,Bonded,14496.0,14568.0
+1348,Sapphire,Vacuum,14568.0,14592.0
+1349,Sapphire,Fit-Check,14448.0,14448.0
+1349,Sapphire,Layup Sector,14448.0,14568.0
+1349,Sapphire,Welded,14568.0,14568.0
+1349,Sapphire,Bonded,14568.0,14592.0
+1350,Sapphire,Fit-Check,14448.0,14448.0
+1350,Sapphire,Layup Sector,14448.0,14568.0
+1350,Sapphire,Welded,14568.0,14568.0
+1350,Sapphire,Bonded,14568.0,14592.0
+1351,Sapphire,Fit-Check,14448.0,14448.0
+1351,Sapphire,Layup Sector,14448.0,14592.0
+1351,Sapphire,Welded,14592.0,14592.0
+1352,Sapphire,Fit-Check,14448.0,14496.0
+1352,Sapphire,Layup Sector,14496.0,14592.0
+1352,Sapphire,Welded,14592.0,14592.0
+1353,Sapphire,Fit-Check,14496.0,14568.0
+1353,Sapphire,Layup Sector,14568.0,14592.0
+1353,Sapphire,Welded,14592.0,14592.0
+1354,Sapphire,Fit-Check,14496.0,14568.0
+1354,Sapphire,Layup Sector,14568.0,14616.0
+1355,Sapphire,Fit-Check,14496.0,14568.0
+1355,Sapphire,Layup Sector,14568.0,14616.0
+1356,Sapphire,Fit-Check,14568.0,14592.0
+1356,Sapphire,Layup Sector,14592.0,14616.0
+1357,Sapphire,Fit-Check,14568.0,14592.0
+1358,Sapphire,Fit-Check,14568.0,14592.0
