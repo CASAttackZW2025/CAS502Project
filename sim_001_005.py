@@ -228,7 +228,6 @@ def read_tabular(input_file: str, sheet: int | str | None = None) -> pd.DataFram
 
 # ============================================================
 # HISTORICAL PIPELINE CORE
-# (this is your big produce_all_outputs(), trimmed only by comments)
 # ============================================================
 def build_wip_for_subset(
     df_subset: pd.DataFrame,
@@ -1038,6 +1037,47 @@ def specs_to_arrival_pattern(entity_specs: List[Dict[str, Any]]) -> List[Dict[st
 
 
 # ============================================================
+# NEW: ARRIVAL-VISIBILITY HELPERS (pattern → month counts)
+# ============================================================
+def build_arrivals_from_pattern(unit_arrival_pattern: List[Dict[str, Any]], calendar: WorkingCalendar) -> Dict[tuple, int]:
+    """
+    Take the sim input (hours since calendar.start) and turn into {(year, month): count}
+    so you can see that the first month actually has arrivals.
+    """
+    counts = defaultdict(int)
+    for row in unit_arrival_pattern:
+        at_h = float(row["arrival_time"])
+        # convert to real date using calendar.hours-per-day
+        days = at_h / calendar.hpd
+        d = calendar.start + dt.timedelta(days=days)
+        counts[(d.year, d.month)] += int(row["num_entities"])
+    return counts
+
+
+def compare_sim_vs_history_arrivals(
+    historical_arrivals: List[Dict[str, Any]],
+    sim_arrival_pattern: List[Dict[str, Any]],
+    calendar: WorkingCalendar,
+) -> None:
+    """
+    Apples-to-apples: history arrivals vs what we fed the sim (pattern).
+    """
+    hist_counts = defaultdict(int)
+    for a in historical_arrivals:
+        d = a["when"].date()
+        hist_counts[(d.year, d.month)] += a.get("qty", 1)
+
+    sim_counts = build_arrivals_from_pattern(sim_arrival_pattern, calendar)
+
+    print("\n=== Historical vs Sim ARRIVALS (by month) ===")
+    months = sorted(set(hist_counts.keys()) | set(sim_counts.keys()))
+    for ym in months:
+        hy = hist_counts.get(ym, 0)
+        sy = sim_counts.get(ym, 0)
+        print(f"{ym[0]}-{ym[1]:02d}: hist={hy}  sim-input={sy}")
+
+
+# ============================================================
 # STOCHASTIC SAMPLING (SIM)
 # ============================================================
 def sample_pert(a: float, m: float, b: float, lamb: float = 4.0) -> float:
@@ -1825,7 +1865,7 @@ def run_capacity_scenarios(base_paths_info, entity_specs, calendar, scenarios, e
 
 
 # ============================================================
-# NEW: DURATION COMPARISON HELPERS (this is the glue you wanted)
+# NEW: DURATION COMPARISON HELPERS
 # ============================================================
 def build_historical_wc_durations_from_stages(stages_df: pd.DataFrame) -> dict[str, list[float]]:
     """
@@ -2072,6 +2112,16 @@ def system_model():
     unit_arrival_pattern = specs_to_arrival_pattern(entity_specs)
     total_entities = int(sum(r["num_entities"] for r in unit_arrival_pattern))
 
+    # 8.1 show ARRIVALS BY MONTH from the PATTERN (this is the visibility you were missing)
+    arrival_counts = build_arrivals_from_pattern(unit_arrival_pattern, calendar)
+    print("\n=== Arrivals by month (sim input pattern) ===")
+    for (y, m) in sorted(arrival_counts):
+        print(f"{y}-{m:02d}: {arrival_counts[(y, m)]}")
+
+    # 8.2 compare history vs pattern-arrivals (apple-to-apple on arrivals)
+    if arrivals_hist:
+        compare_sim_vs_history_arrivals(arrivals_hist, unit_arrival_pattern, calendar)
+
     # 9. run base sim
     sim = ProcessSimulation(
         initial_entities=[],
@@ -2084,7 +2134,7 @@ def system_model():
     )
     results = sim.run()
 
-    # 10. compare to history
+    # 10. compare to history (deliveries)
     if arrivals_hist:
         compare_sim_vs_history(results, arrivals_hist, calendar)
 
@@ -2170,8 +2220,7 @@ def system_model():
     pd.DataFrame(entity_specs).to_csv("artifacts/entity_specs.csv", index=False)
     pd.DataFrame(unit_arrival_pattern).to_csv("artifacts/unit_arrival_pattern.csv", index=False)
 
-    # 16. *** NEW PART *** – duration comparison
-    # try to use existing historical stages if available; otherwise rebuild
+    # 16. duration comparison
     stages_df = None
     hist_csv_path = os.path.join("analysis", "csv", "stages_long_safeorder.csv")
     if os.path.exists(hist_csv_path):
@@ -2181,13 +2230,12 @@ def system_model():
             stages_df = None
 
     if stages_df is None:
-        # try to rebuild from jobs.csv using the historical pipeline
         if os.path.exists("jobs.csv"):
             try:
                 stages_df = produce_all_outputs(
                     input_file="jobs.csv",
                     sheet=0,
-                    product_col="Type",                  # adjust if your column name differs
+                    product_col="Type",
                     first_end_col="Frame",
                     last_end_col="Cure Times.ShipCureDate",
                     out_prefix="analysis",
